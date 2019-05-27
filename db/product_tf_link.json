@@ -1,0 +1,2977 @@
+{
+    "_comment": [
+        " Table: PRODUCT_TF_LINK",
+        " Columns: ",
+        " 1) TRANSCRIPTION_FACTOR_ID",
+        " 2) PRODUCT_ID",
+        " 3) COMPON_COEFFICIENT"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011186"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004787"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011190"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005810"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011194"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005507"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011202"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004959"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011210"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004493"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011220"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007456"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011229"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004795"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011235"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004636"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011240"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007897"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011240"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005254"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011250"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004605"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011265"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008111"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011294"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004926"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011298"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005423"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011302"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005150"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011306"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005195"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011312"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004655"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011324"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005287"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011324"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005974"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011324"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008877"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011324"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005288"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011328"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006502"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011345"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004533"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011354"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005837"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011378"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005542"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011383"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005016"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011390"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008328"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011394"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004771"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011400"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006694"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011406"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006566"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011412"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005874"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011429"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008346"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011437"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008552"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011458"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006602"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011465"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006601"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011482"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007290"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011489"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006699"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011492"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005198"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011502"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005112"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011508"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005957"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011563"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007772"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011575"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006033"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011593"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005072"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011670"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004542"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011792"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004738"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011824"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004751"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011856"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005400"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011897"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004960"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011903"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004705"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011908"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005105"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011938"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006489"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011941"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007394"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011949"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005571"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011953"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006685"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120011959"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008758"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012020"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006333"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012029"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005268"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012036"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004615"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012075"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006726"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012092"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005288"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012092"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005974"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012096"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006817"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012101"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008825"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012141"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006852"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012145"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006922"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012153"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007912"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012165"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008789"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012176"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005494"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012218"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005031"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012246"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005552"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012250"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005888"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012253"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007927"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012277"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008578"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012313"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007834"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012316"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004526"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012337"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005310"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012347"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005684"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012407"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004670"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012465"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006205"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012482"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006809"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012515"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008623"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012559"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008667"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012595"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004502"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012646"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004595"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012664"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004693"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012704"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004834"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012713"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004833"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012730"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004869"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012762"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004994"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012770"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005002"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012802"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005060"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012854"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005267"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012877"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005309"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012965"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004972"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012984"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006492"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120012987"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004522"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013010"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004565"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013014"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006087"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013017"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004583"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013061"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004638"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013065"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005861"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013081"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006904"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013085"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004724"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013112"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004808"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013118"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004823"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013131"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006534"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013141"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005437"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013144"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005439"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013164"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005000"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013175"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005020"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013191"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005875"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013202"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005782"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013229"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005286"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013242"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005422"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013255"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005454"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013259"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005457"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013342"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007601"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013406"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005026"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013665"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006424"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013750"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008110"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013780"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005606"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013786"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006924"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013805"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007182"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120013830"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006364"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120014044"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006635"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120014103"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004951"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120014170"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006368"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015234"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007285"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015243"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008351"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015250"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008046"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015630"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007354"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015636"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007352"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015681"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007844"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015687"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006042"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015690"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007682"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120015994"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006496"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120016814"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005668"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120020634"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005162"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120023539"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005949"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120026318"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004559"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120026325"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004911"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120026337"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007759"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120029345"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004696"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120029348"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006550"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120029348"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004597"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120030264"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004507"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120030724"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006595"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120032161"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006475"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120033010"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008168"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120033053"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005767"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120033066"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007909"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120033905"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120015307"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120034476"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007419"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120034571"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005983"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120034977"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008762"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120035002"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005673"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120035026"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006156"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120035042"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007934"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120048769"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005516"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120048826"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008284"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120048934"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005591"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120048934"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005303"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120048948"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005057"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120048960"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004986"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120051438"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007656"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "166"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120051441"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007806"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "167"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120051444"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008576"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "168"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120051451"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006834"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "169"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120051460"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008574"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "170"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK120051460"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008575"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "171"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125108627"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005734"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "172"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125110189"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008567"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "173"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125134665"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006403"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "174"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125134683"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006221"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "175"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125134855"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008591"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "176"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125135147"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007103"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "177"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125135147"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006872"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "178"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125140737"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005040"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "179"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125141239"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007624"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "180"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125141903"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008855"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "181"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125141911"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007257"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "182"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125141939"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005801"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "183"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125145850"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006401"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "184"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125145855"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006039"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "185"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125158217"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007505"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "186"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125158221"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007859"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "187"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125158264"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008267"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "188"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125158270"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007718"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "189"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125160661"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006761"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "190"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125162247"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007266"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "191"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125165914"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005548"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "192"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125202685"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007790"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "193"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125228798"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008097"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "194"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125228822"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008019"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "195"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125228840"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006881"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "196"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125228843"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008876"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "197"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125228870"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005600"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "198"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125230705"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006743"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "199"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125235978"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007328"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "200"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125242732"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008597"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "201"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125242743"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005690"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "202"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257182"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008615"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "203"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257183"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004909"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "204"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257183"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004910"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "205"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257184"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004935"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "206"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257184"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004936"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "207"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257185"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007295"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "208"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257186"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007341"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "209"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257187"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004828"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "210"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257188"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007204"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "211"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257188"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007203"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "212"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257189"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008598"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "213"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257189"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008597"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "214"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257190"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007481"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "215"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257191"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006370"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "216"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257192"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004854"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "217"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257193"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005288"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "218"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257193"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120008877"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "219"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257194"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120016215"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "220"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257194"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004790"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "221"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257195"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005287"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "222"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257195"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005288"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "223"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257196"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005141"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "224"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257198"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007238"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "225"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257199"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007733"
+                },
+                "COMPON_COEFFICIENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "226"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257200"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005700"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "227"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257200"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005040"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "228"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257201"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004912"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "229"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257201"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004911"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "230"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257202"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005591"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "231"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257202"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005303"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "232"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257203"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120006872"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "233"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257203"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120007103"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "234"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257204"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005974"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "235"
+                },
+                "TRANSCRIPTION_FACTOR_ID": {
+                    "_text": "ECK125257204"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120005288"
+                },
+                "COMPON_COEFFICIENT": {
+                    "_text": "1"
+                }
+            }
+        ]
+    }
+}

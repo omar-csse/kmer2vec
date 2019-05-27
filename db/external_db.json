@@ -1,0 +1,3452 @@
+{
+    "_comment": [
+        " Table: EXTERNAL_DB",
+        " Columns: ",
+        " 1) EXTERNAL_DB_ID",
+        " 2) EXTERNAL_DB_NAME",
+        " 3) EXTERNAL_DB_DESCRIPTION",
+        " 4) URL",
+        " 5) EXTERNAL_DB_NOTE",
+        " 6) EXT_DB_INTERNAL_COMMENT"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000000039"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ECOCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "EcoCyc"
+                },
+                "URL": {
+                    "_text": "http://biocyc.org/ECOLI/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "EcoCyc is a Pathway/Genome database for the bacterium E. coli K-12 strain MG1655"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000000043"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GO"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Gene Ontology Database"
+                },
+                "URL": {
+                    "_text": "http://amigo.geneontology.org/amigo/term/GO:"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The objective of GO is to provide controlled vocabularies for the description of the molecular function, biological process and cellular component of gene products."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000000044"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "OU-MICROARRAY"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "OU-Microarray"
+                },
+                "URL": {
+                    "_text": "https://genexpdb.okstate.edu/databases/genexpdb/?query="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000000045"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Protein Data Bank"
+                },
+                "URL": {
+                    "_text": "http://www.rcsb.org/pdb/cgi/explore.cgi?pdbId="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The PDB archive contains information about experimentally-determined structures of proteins, nucleic acids, and complex assemblies."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000000046"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PID"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Entrez Protein Sequence"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/protein/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The protein entries in the Entrez search and retrieval system have been compiled from a variety of sources, including SwissProt, PIR, PRF, PDB, and translations from annotated coding regions in GenBank and RefSeq. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000000047"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PIR"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PIR"
+                },
+                "URL": {
+                    "_text": "http://pir.georgetown.edu/cgi-bin/nbrfget?uid="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Link to a protein in PIR by the PIR id."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000000048"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PUBMED"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PubMed"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/pubmed/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "NCBI PubMed provides access to citations from the biomedical literature."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000000049"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SWISSPROT"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "UniProtKB"
+                },
+                "URL": {
+                    "_text": "http://www.uniprot.org/uniprot/?query=mnemonic:"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "Technically, Swiss-Prot is a subset of UniProt.  It is preferable to",
+                        "link using the DBID UNIPROT, because linking via DBID SWISSPROT",
+                        "assumes we know that a protein is in SwissProt as opposed to TrEMBL.",
+                        "DBID SWISSPROT is provided for backward compatibility with",
+                        "earlier BioCyc links that use that DBID.  Because even in",
+                        "the existing links it is possible that some links are really",
+                        "to TrEMBL, I have changed the Common-Name slot in this frame",
+                        "to be UniProtKB (PDK)."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064271"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CRYPTODB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "CryptoDB"
+                },
+                "URL": {
+                    "_text": "http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&id="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "CryptoDB is an integrated genomic and functional genomic database for the parasite Cryptosporidium."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064272"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PANTHER"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Panther"
+                },
+                "URL": {
+                    "_text": "http://www.pantherdb.org/panther/family.do?clsAccession="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The PANTHER (Protein ANalysis THrough Evolutionary Relationships) Classification System is a unique resource that classifies genes by their functions, using published scientific experimental evidence and evolutionary relationships to predict function even in the absence of direct experimental evidence."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064273"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "WIT-PWY"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "WIT-PWY"
+                },
+                "URL": {
+                    "_text": "http://wit.mcs.anl.gov/WIT2/CGI/pw.cgi?pw="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064274"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "BIGG"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "IAF1260"
+                },
+                "URL": {
+                    "_text": "http://bigg.ucsd.edu/universal/metabolites/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "This is a metabolite linking with  with E. coli iAF1260 model from BiGG database."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064275"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MODBASE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "MODBASE"
+                },
+                "URL": {
+                    "_text": "http://modbase.compbio.ucsf.edu/modbase-cgi/model_search.cgi?searchkw=name&kword="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "MODBASE is a database of predicted protein 3-D structures developed by the Sali lab at UCSF."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064276"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SWISSMODEL"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Swiss-Model"
+                },
+                "URL": {
+                    "_text": "http://swissmodel.expasy.org/repository/smr.php?sptr_ac=&job=2"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The SWISS-MODEL Repository is a database of annotated three-dimensional comparative protein structure models generated by the fully automated homology-modelling pipeline SWISS-MODEL. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064277"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "WIT"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "WIT"
+                },
+                "URL": {
+                    "_text": "http://www.cme.msu.edu/wit-cgi/wit_enzyme.cgi?"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064278"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "KEGG-GLYCAN"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Kegg Glycan"
+                },
+                "URL": {
+                    "_text": "http://www.genome.jp/dbget-bin/www_bget?gl:"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "This class is created to add links from Kegg Glycans"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064279"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SCODB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://strepdb.streptomyces.org.uk/cgi-bin/search.pl?string=&accession=AL645882&anno_or_gene=gene"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064280"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SVENCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://scocyc.jic.bbsrc.ac.uk:1555/SVEN/NEW-IMAGE?type=NIL&object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064281"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GI"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI Entrez Protein (GI)"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&id="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "GI (Gene Index) is an older convention, still in use in Genbank protein entries, and is often found in",
+                        "genome annotations."
+                    ],
+                    "br": {}
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064282"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PRODB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Protein Ontology"
+                },
+                "URL": {
+                    "_text": "http://pir.georgetown.edu/cgi-bin/pro/entry_pro?id="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064283"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SCABCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://scocyc.jic.bbsrc.ac.uk:1555/SCAB/NEW-IMAGE?type=NIL&object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064284"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ECOL199310CYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Ecol199310Cyc"
+                },
+                "URL": {
+                    "_text": "http://BioCyc.org/ECOL199310/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "This is a Pathway/Genome database for the bacterium Escherichia coli, Strain CFT073"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064285"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PRINTS"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Prints"
+                },
+                "URL": {
+                    "_text": " http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?display_opts=Prints&category=None&queryform=false&prints_accn="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PRINTS is a compendium of protein fingerprints. A fingerprint is a group of conserved motifs used to characterise a protein family; its diagnostic power is refined by iterative scanning of a SWISS-PROT/TrEMBL composite. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064286"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "COLIBLAST"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ColiBlast"
+                },
+                "URL": {
+                    "_text": "http://www.ai.sri.com/cgi-bin/sb/blast2html.pl.cgi?filename="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "This is not exactly a database; it is a collection of files that",
+                        "contain blast reports from the comparision of H.inf",
+                        "genes to E. coli genes."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064287"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MINT"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Mint"
+                },
+                "URL": {
+                    "_text": "http://mint.bio.uniroma2.it/mint/search/search.do?queryType=protein&interactorAc="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "MINT, the Molecular INTeraction database. MINT focuses on experimentally verified protein-protein interactions mined from the scientific literature by expert curators. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064289"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ASPGD"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Aspergillus Genome Database"
+                },
+                "URL": {
+                    "_text": "http://www.aspergillusgenome.org/cgi-bin/search/quickSearch?query="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064290"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "KEGG"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "KEGG-GENES"
+                },
+                "URL": {
+                    "_text": "http://www.genome.jp/dbget-bin/www_bfind_sub?dbkey=genes&keywords="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064291"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MIM"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Online Mendelian Inheritance in Man"
+                },
+                "URL": {
+                    "_text": "http://omim.org/entry/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "This database is a catalog of human genes and genetic disorders authored and edited by Dr. Victor A. McKusick and his colleagues at Johns Hopkins and elsewhere, and developed for the World Wide Web by NCBI, the National Center for Biotechnology Information."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064292"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "VZ"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ViralZone"
+                },
+                "URL": {
+                    "_text": "http://viralzone.expasy.org/all_by_protein/.html"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064293"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GENOLIST"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "GenoList (SubtiList)"
+                },
+                "URL": {
+                    "_text": "http://genodb.pasteur.fr/cgi-bin/WebObjects/GenoList.woa/wa/goToGene?accNum="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064294"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "INTERPRO"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "InterPro"
+                },
+                "URL": {
+                    "_text": "http://www.ebi.ac.uk/interpro/entry/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "InterPro is a database of protein families, domains, regions, repeats and sites in which identifiable features found in known proteins can be applied to new protein sequences. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064295"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SUBTIWIKI"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "SubtiWiki"
+                },
+                "URL": {
+                    "_text": "http://subtiwiki.uni-goettingen.de/wiki/index.php/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064296"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ECOGENE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "EcoGene"
+                },
+                "URL": {
+                    "_text": "http://www.ecogene.org/gene/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The EcoGene database contains updated information about the E. coli K-12 genome and proteome sequences, including extensive gene bibliographies."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064297"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GENEDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "GeneDB"
+                },
+                "URL": {
+                    "_text": "http://www.genedb.org/genedb/Search?name=&organism=leish"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064298"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SAVCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://scocyc.streptomyces.org.uk:14980/SAV/NEW-IMAGE?type=NIL&object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064299"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CHLAMYCYC1"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "GOFORSYS-CHLAMY"
+                },
+                "URL": {
+                    "_text": "http://chlamyto.mpimp-golm.mpg.de/chlamycyc/chlamygene.jsp?object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064300"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PRIDE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Pride"
+                },
+                "URL": {
+                    "_text": " http://www.ebi.ac.uk/pride/searchSummary.do?queryTypeSelected=identification%20accession%20number&identificationAccessionNumber="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The PRIDE PRoteomics IDEntifications database is a centralized, standards compliant, public data repository for proteomics data, including protein and peptide identifications, post-translational modifications and supporting spectral evidence.",
+                    "br": {}
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064301"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ASAP"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ASAP"
+                },
+                "URL": {
+                    "_text": "http://asap.ahabs.wisc.edu/asap/feature_info.php?FeatureID="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "ASAP is a systematic Annotation Package for Community Analysis of Genomes, run by the University of Wisconsin"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064302"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CHLAMYCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ChlamyCyc"
+                },
+                "URL": {
+                    "_text": "http://pmn.plantcyc.org/CHLAMY/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064303"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NRSUB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Non-Redundant Bacillus subtilis database"
+                },
+                "URL": {
+                    "_text": "http://acnuc.univ-lyon1.fr/cgi-bin/acnuc-search-bg?query="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064304"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "VCHOCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "VchoCyc"
+                },
+                "URL": {
+                    "_text": "http://scocyc.jic.bbsrc.ac.uk:1555/VCHO/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064305"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ARRAYEXPRESS"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ArrayExpress"
+                },
+                "URL": {
+                    "_text": "http://www.ebi.ac.uk/gxa/query?geneQuery="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064306"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MGI"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064307"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SUBTILISWIKI"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "SubtilisWiki"
+                },
+                "URL": {
+                    "_text": "http://subtiliswiki.net/wiki/index.php/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064308"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "UNIPROT-VIA-REFSEQ"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "UniProt-via-RefSeq"
+                },
+                "URL": {
+                    "_text": " http://www.uniprot.org/uniprot/?query="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "The object ids used in these links are actually RefSeq IDs (example:",
+                        "WP_068200188.1), but the UniProt website will accept such links."
+                    ],
+                    "br": {}
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064309"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "INTACT"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "IntAct"
+                },
+                "URL": {
+                    "_text": " http://www.ebi.ac.uk/intact/pages/interactions/interactions.xhtml?query="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "IntAct provides a freely available, open source database system and analysis tools for molecular interaction data."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064310"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "RHEA"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "RHEA"
+                },
+                "URL": {
+                    "_text": "http://www.rhea-db.org/reaction?id="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Rhea is a freely available, manually annotated database of chemical reactions created by a collaboration between the SwissProt Group at the Swiss Institute of Bioinformatics (SIB) and the Cheminformatics and Metabolism Group at the European Bioinformatics Institute (EBI) |CITS: [22135291]|."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064311"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SUBTILIST"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "SubtiList (old)"
+                },
+                "URL": {
+                    "_text": "http://genolist.pasteur.fr/SubtiList/genome.cgi?gene_detail+"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064312"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GENECARDS"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "GeneCards"
+                },
+                "URL": {
+                    "_text": "http://www.genecards.org/cgi-bin/carddisp.pl?gene="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "GeneCards[tm] is a database of human genes, their products and their involvement in diseases. It offers concise information about the functions of all human genes that have an approved symbol, as well as selected others. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064313"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PLASMOCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PlasmoCyc"
+                },
+                "URL": {
+                    "_text": "http://biocyc.org/PLASMO/NEW-IMAGE?type=PATHWAY&object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PlasmoCyc is a Genome/Pathway database specifically developed for the eukaryotic parasite Plasmodium falciparum (3D7), which is the major causal agent of malaria worldwide."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064314"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "REGULONDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "RegulonDB"
+                },
+                "URL": {
+                    "_text": "http://regulondb.ccg.unam.mx/search?term=&organism=ECK12&type=All"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "RegulonDB describes the E. coli K-12 transcriptional regulatory network."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064315"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ECHOBASE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "EchoBASE"
+                },
+                "URL": {
+                    "_text": "http://www.york.ac.uk/res/thomas/Gene.cfm?recordID="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "EchoBase is a database that curates new experimental and bioinformatic information about the genes and gene products of the model bacterium Escherichia coli K-12 strain MG1655"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064316"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NEW-WIT-PWY"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "WIT-PWY"
+                },
+                "URL": {
+                    "_text": "http://wit.mcs.anl.gov/WIT/CGI/pw.cgi?compare=&pw=&org=&user=&where=show_diagram"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064317"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PLANTCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PlantCyc"
+                },
+                "URL": {
+                    "_text": "http://pmn.plantcyc.org/PLANT/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PlantCyc is a multiorganism Pathway/Genome database that provides access to manually curated or reviewed information about shared and unique metabolic pathways present in over 250 plant species"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064318"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CHEMSPIDER"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ChemSpider"
+                },
+                "URL": {
+                    "_text": "http://www.chemspider.com/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "ChemSpider is a free chemical structure database providing fast access to over 25 million structures, properties and associated information."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064319"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "METACYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "MetaCyc"
+                },
+                "URL": {
+                    "_text": "http://biocyc.org/META/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "MetaCyc is a universal Pathway database curated from the literature from experimental evidence."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064320"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NCI"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCI Open DB"
+                },
+                "URL": {
+                    "_text": "http://cactus.nci.nih.gov/ncidb2.2/?nsc="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "NCI Open Database is a collection of over 130,000 compounds."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064321"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ARAPORT"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "The Arabidopsis Information Portal"
+                },
+                "URL": {
+                    "_text": "https://apps.araport.org/thalemine/portal.do?externalids="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064322"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "HUMANCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "HumanCyc"
+                },
+                "URL": {
+                    "_text": "http://biocyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "HumanCyc is a Pathway/Genome database for Homo sapiens."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064323"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "METABOLIGHTS"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "MetaboLights"
+                },
+                "URL": {
+                    "_text": "http://www.ebi.ac.uk/metabolights/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064325"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GENE3D"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Gene3D"
+                },
+                "URL": {
+                    "_text": "http://www.cathdb.info/search/by_text?q="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Gene3D database is a large collection of CATH protein domain assignments for ENSEMBL genomes and Uniprot sequences."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064326"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "HSSP"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Homology-derived Secondary Structure of Proteins"
+                },
+                "URL": {
+                    "_text": "http://mrs.cmbi.ru.nl/search?db=hssp&q="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Links to the HSSP database via the EBI SRS server (same URLs as HSSP links from UniProt). PDB IDs are valid IDs."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064327"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "STRING"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "String"
+                },
+                "URL": {
+                    "_text": "http://string-db.org/newstring_cgi/show_network_section.pl?identifier="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "STRING is a database of known and predicted protein interactions."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064328"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "EAWAG-BBD-PWY"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Eawag Biocatalysis/Biodegradation Database - Pathways"
+                },
+                "URL": {
+                    "_text": "http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=p&pathway_abbr="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "Eawag Biocatalysis/Biodegradation Database (Eawag-BBD) is a database of Microbial biocatalytic reactions and biodegradation pathways.",
+                        "The database is maintained by Eidgen¿¿ssische Anstalt f¿¿r Wasserversorgung, Abwasserreinigung und Gew¿¿sserschutz, in Switzerland.",
+                        "Prior to July 2014, the database was named University of Minnesota Biocatalysis/Biodegradation Database (UM-BBD)."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064329"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "FRANTCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "FrantCyc"
+                },
+                "URL": {
+                    "_text": "http://scocyc.jic.bbsrc.ac.uk:1555/FRANT/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064330"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "REGTRANSBASE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "RegTransBase"
+                },
+                "URL": {
+                    "_text": "http://regtransbase.lbl.gov/cgi-bin/regtransbase?page=regulatorinfo&guid="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "RegTransBase is a database of regulatory interactions and transcription factor binding sites in prokaryotes, manually curated from the literature. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064331"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CHEBI"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ChEBI"
+                },
+                "URL": {
+                    "_text": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Chemical Entities of Biological Interest (ChEBI) is a freely available dictionary of molecular entities focused on ¿¿small¿¿ chemical compounds."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064332"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "EAWAG-BBD-CPD"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Eawag BBD Compound"
+                },
+                "URL": {
+                    "_text": "http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=c&compID="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "Eawag Biocatalysis/Biodegradation Database (Eawag-BBD) is a database of Microbial biocatalytic reactions and biodegradation pathways.",
+                        "The database is maintained by Eidgen¿¿ssische Anstalt f¿¿r Wasserversorgung, Abwasserreinigung und Gew¿¿sserschutz, in Switzerland.",
+                        "Prior to July 2014, the database was named University of Minnesota Biocatalysis/Biodegradation Database (UM-BBD)."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064333"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PIRE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PIR"
+                },
+                "URL": {
+                    "_text": "http://pir.georgetown.edu/cgi-bin/nbrfget?xref=uwgp&"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Link to an E. coli K-12 protein in PIR using the E. coli b-number of the gene (E. coli K-12 only)"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064334"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ARALIP"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ARALIP"
+                },
+                "URL": {
+                    "_text": "http://aralip.plantbiology.msu.edu/pathways/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "This database has been developed by a worldwide community effort involving 27 authors and is accompanied by a summary for each pathway in the chapter ",
+                        " in The Arabidopsis Book."
+                    ],
+                    "A": {
+                        "_attributes": {
+                            "href": "http://www.bioone.org/doi/full/10.1199/tab.0133"
+                        },
+                        "_text": "¿¿Acyl Lipid Metabolism¿¿"
+                    }
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064335"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CGSC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Coli Genetic Stock Center"
+                },
+                "URL": {
+                    "_text": "http://cgsc.biology.yale.edu/Site.php?ID="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Escherichia Coli Genetic Stock Center at Yale"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064336"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NCBI-TAXONOMY-DB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI Taxonomy"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "NCBI database describing evolutionary taxonomy of organisms."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064337"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "UNIPROT-PROTEIN-ID"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "UniProt (via Protein ID)"
+                },
+                "URL": {
+                    "_text": "http://www.uniprot.org/uniprot/?query="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064338"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ARACYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "AraCyc"
+                },
+                "URL": {
+                    "_text": "http://pmn.plantcyc.org/ARA/NEW-IMAGE?type=PATHWAY&object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "AraCyc is a Pathway/Genome database for the plant Arabidopsis thaliana columbia"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064339"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MAIZESEQUENCE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "MaizeSequence"
+                },
+                "URL": {
+                    "_text": "http://maizesequence.org/Zea_mays/Gene/Summary?g="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "MaizeSequence.Org provides the latest sequence and annotation of the Zea mays spp mays genome resulting from the NSF-funded Maize Genome Sequencing Project using the public B73 cultivar."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064340"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SOYBASE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Soybase"
+                },
+                "URL": {
+                    "_text": "http://soybase.ncgr.org/cgi-bin/ace/generic/pic/soybase?class=Reaction_or_Pathway&name=%21"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Soybase is a genomic database for Soybean"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064341"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "HPYCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "HpyCyc"
+                },
+                "URL": {
+                    "_text": "http://scocyc.jic.bbsrc.ac.uk:1555/HPY/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064342"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "REFSEQ"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI Reference Sequences Database"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Reference Sequence (RefSeq) collection aims to provide a comprehensive, integrated, non-redundant set of sequences, including genomic DNA, transcript (RNA), and protein products, for major research organisms."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064343"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "FLYBASE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "FlyBase"
+                },
+                "URL": {
+                    "_text": "http://flybase.org/reports/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064344"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "DRUGBANK"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "DrugBank"
+                },
+                "URL": {
+                    "_text": "http://www.drugbank.ca/drugs/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The DrugBank database is a unique bioinformatics and cheminformatics resource that combines detailed drug (i.e. chemical, pharmacological and pharmaceutical) data with comprehensive drug target (i.e. sequence, structure, and pathway) information. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064345"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NCBI-REFSEQ-PRO"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI-Protein"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/protein/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064346"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CGD"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Candida Genome Database"
+                },
+                "URL": {
+                    "_text": "http://www.candidagenome.org/cgi-bin/locus.pl?dbid="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064347"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MAIZEGDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "MaizeGDB"
+                },
+                "URL": {
+                    "_text": "http://maizegdb.org/cgi-bin/displaygenemodelrecord.cgi?id="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "MaizeGDB is the community database for biological information about the crop plant Zea mays commonly called as maize or corn."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064348"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "UNIPROT"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "UniProt"
+                },
+                "URL": {
+                    "_text": "http://www.uniprot.org/uniprot/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The mission of UniProt is to provide the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information.. The UniProt Knowledge Base has two component databases: SwissProt and TrEMBL."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064349"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ANTHRACYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "AnthraCyc"
+                },
+                "URL": {
+                    "_text": "http://scocyc.jic.bbsrc.ac.uk:1555/ANTHRA/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064350"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "HOMINISDB2"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&id="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064351"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SMR"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "SWISS-MODEL"
+                },
+                "URL": {
+                    "_text": "http://swissmodel.expasy.org/repository/smr.php?sptr_ac="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The SWISS-MODEL Repository is a database of annotated three-dimensional comparative protein structure models generated by the fully automated homology-modelling pipeline SWISS-MODEL. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064352"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "UNIGENE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI UniGene (Homo sapiens)"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/UniGene/clust.cgi?ORG=Hs&CID="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "UniGene is an experimental system for automatically partitioning GenBank sequences into a non-redundant set of gene-oriented clusters. Each UniGene cluster contains sequences that represent a unique gene, as well as related information such as the tissue types in which the gene has been expressed and map location."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064353"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "EXPLORENZ"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "IUBMB-ExplorEnz"
+                },
+                "URL": {
+                    "_text": "http://www.enzyme-database.org/query.php?ec="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "EplorEnz is a enzyme information database."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064354"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "REFMET"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://www.metabolomicsworkbench.org/data/refmet_details.php?REFMET_NAME=~a"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064355"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SMART"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Smart"
+                },
+                "URL": {
+                    "_text": "http://smart.embl.de/smart/do_annotation.pl?DOMAIN="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064356"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "DISPROT"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Database of Protein Disorder"
+                },
+                "URL": {
+                    "_text": "http://www.disprot.org/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Database of Protein Disorder (DisProt) is a curated database that provides information about proteins that lack fixed 3D structure in their putatively native states, either in their entirety or in part."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064357"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "REACTOME"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Reactome"
+                },
+                "URL": {
+                    "_text": "http://www.reactome.org/cgi-bin/link?SOURCE=Reactome&ID="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Reactome is a free, online, open-source, curated resource of core pathways and reactions in human biology. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064358"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CAZY"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "CAZy"
+                },
+                "URL": {
+                    "_text": "http://www.cazy.org/.html"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The CAZy (Carbohydrate-Active Enzymes) database describes the families of structurally-related catalytic and carbohydrate-binding modules (or functional domains) of enzymes that degrade, modify, or create glycosidic bonds."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064359"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NCBI-REFSEQ-NA"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ncbi-refseq-na"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/nuccore/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "NCBI refseq nucleotide accession number"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064360"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PHYTOZOME"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Phytozome, the plant genomics resource"
+                },
+                "URL": {
+                    "_text": "https://phytozome.jgi.doe.gov/pz/portal.html#!results?search=0&crown=1&star=1&method=0&searchText="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "According to the ",
+                        ", Phytozome is a joint project of the Department of Energy's Joint Genome Institute and the Center for Integrative Genomics to facilitate",
+                        "comparative genomic studies amongst green plants. Clusters of orthologous and paralogous genes that represent the",
+                        "modern descendents of ancestral gene sets are constructed at key phylogenetic nodes."
+                    ],
+                    "A": {
+                        "_attributes": {
+                            "href": "https://phytozome.jgi.doe.gov/pz/portal.html"
+                        },
+                        "_text": "Phytozome website"
+                    },
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064361"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "AGROCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "AgroCyc"
+                },
+                "URL": {
+                    "_text": "http://scocyc.jic.bbsrc.ac.uk:1555/AGRO/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064362"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "LIPID_MAPS_ISOMERS"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "LIPID MAPS isomers"
+                },
+                "URL": {
+                    "_text": "http://www.lipidmaps.org/data/display_isomersj.pl?iso="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The LIPID MAPS (Metabolites And Pathways Strategy) consortium provides the Nature Lipidomics Gateway to bring together data, tools, and resources for researchers studying lipid biology. The isomer pages allow users to see multiple structural representations of a specific compound class."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064363"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NCBI-REFSEQ"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI-RefSeq"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/nuccore/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064364"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "UM-BBD-PWY"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Eawag Biocatalysis/Biodegradation Database - Pathways"
+                },
+                "URL": {
+                    "_text": "http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=p&pathway_abbr="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "Caution: This external database description is obsolete: University of Minnesota Biocatalysis/Biodegradation Database (UM-BBD) is a database of Microbial biocatalytic reactions and biodegradation pathways.",
+                        "Instead, for dblinks, use the replacement EAWAG-BBD-PWY"
+                    ],
+                    "br": {}
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064365"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "HOMINISDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&id="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064366"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "LIPID_MAPS"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "LIPID MAPS"
+                },
+                "URL": {
+                    "_text": "http://www.lipidmaps.org/data/LMSDRecord.php?LMID="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The LIPID MAPS (Metabolites And Pathways Strategy) consortium provides the Nature Lipidomics Gateway to bring together data, tools, and resources for researchers studying lipid biology. ",
+                    "br": {}
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064367"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SHIGELLACYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ShigellaCyc"
+                },
+                "URL": {
+                    "_text": "http://BioCyc.org/SHIGELLA/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "ShigellaCyc is a Pathway/Genome database for the bacterium Shigella flexneri, Strain 2a str. 2457T."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064368"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "EUPATHDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Eukaryotic Pathogen Database Resources"
+                },
+                "URL": {
+                    "_text": "http://www.eupathdb.org/gene/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "EuPathDB Bioinformatics Resource Center for Biodefense and Emerging/Re-emerging Infectious Diseases is a portal for accessing genomic-scale datasets associated with the eukaryotic pathogens."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064369"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "HMDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "HMDB"
+                },
+                "URL": {
+                    "_text": "http://www.hmdb.ca/metabolites/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064370"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PYLORIGENE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PyloriGene"
+                },
+                "URL": {
+                    "_text": "http://genolist.pasteur.fr/PyloriGene/genome.cgi?external_query+"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PyloriGene is a database that collates and integrates various aspects of the genomic information from Helicobacter pylori,  one of the most common chronic bacterial pathogens of humans."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064371"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "DIP"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Database of Interacting Proteins"
+                },
+                "URL": {
+                    "_text": "http://dip.doe-mbi.ucla.edu/dip/Browse.cgi?ID="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064372"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ENZYME-DB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ENZYME"
+                },
+                "URL": {
+                    "_text": "http://www.expasy.org/enzyme/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "ENZYME is a repository of information relative to the nomenclature of enzymes. It is primarily based on the recommendations of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (IUBMB) and it describes each type of characterized enzyme for which an EC (Enzyme Commission) number has been provided"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064373"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PHYLOMEDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PhylomeDB"
+                },
+                "URL": {
+                    "_text": "http://phylomedb.org/?q=search_tree&seqid="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PhylomeDB is a public database for complete collections of gene phylogenies."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064374"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CAULOCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "CauloCyc"
+                },
+                "URL": {
+                    "_text": "http://scocyc.jic.bbsrc.ac.uk:1555/CAULO/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064375"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "DICTYBASE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Dictybase"
+                },
+                "URL": {
+                    "_text": "http://dictybase.org/db/cgi-bin/gene_page.pl?primary_id="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064376"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NCBI-GENE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI Entrez-Gene"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/gene?term="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "The Entrez-Gene Database allows reference to individual genes that were sequenced as part of a genome sequencing project. The accession number of the genes in the database is referred to as a Gene ID.",
+                        "When references to Gene IDs are included in the annotated genome of an organism, the PathoLogic component of Pathway Tools will create links to this database during the generation of the PGDB."
+                    ],
+                    "br": {}
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064377"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "UM-BBD-CPD"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "UMBBD Compound"
+                },
+                "URL": {
+                    "_text": "http://eawag-bbd.ethz.ch/servlets/pageservlet?ptype=c&compID="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": [
+                        "Caution: This external database description is obsolete: University of Minnesota Biocatalysis/Biodegradation Database (UM-BBD) is a database of Microbial biocatalytic reactions and biodegradation pathways.",
+                        "Instead, for dblinks, use the replacement EAWAG-BBD-CPD"
+                    ],
+                    "br": {}
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064378"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CAS"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "CAS"
+                },
+                "URL": {
+                    "_text": "http://www.commonchemistry.org/ChemicalDetail.aspx?ref="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Chemical Abstract Service"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064379"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "LIGAND-RXN"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "KEGG"
+                },
+                "URL": {
+                    "_text": "http://www.genome.jp/dbget-bin/www_bget?rn:"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "KEGG LIGAND is a composite database consisting of COMPOUND, GLYCAN, REACTION, RPAIR, and ENZYME databases, whose entries are identified by C, G, R, RP, and EC numbers, respectively. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064380"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SGN"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Sol Genomics Network"
+                },
+                "URL": {
+                    "_text": "http://www.sgn.cornell.edu/search/unigene.pl?unigene_id="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The SOL Genomics Network (SGN) is a clade oriented database dedicated to the biology of the Solanaceae family which includes a large number of closely related and many agronomically important species such as tomato, potato, tobacco, eggplant, pepper, and the ornamental Petunia hybrida."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064381"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "UCSC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "UCSC human genome DB"
+                },
+                "URL": {
+                    "_text": "http://genome.ucsc.edu/cgi-bin/hgTracks?org=human&position="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "This site at UCSC contains working drafts for the human, mouse, and rat genomes. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064382"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "HIDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "HIDB"
+                },
+                "URL": {
+                    "_text": "http://www.tigr.org/docs/tigr-scripts/hi_scripts/hi_report.spl?hi_num="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064383"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SGD-PATHWAY"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Saccharamyces Pathway Database"
+                },
+                "URL": {
+                    "_text": "http://pathway.yeastgenome.org/YEAST/new-image?type=PATHWAY&object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "YeastCyc is a Pathway/Genome database for the yeasr Saccharomyces cerevisiae."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064384"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ENTREZ"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI Entrez-Nucleotide"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/nuccore/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Entrez Nucleotide database is a collection of sequences from several sources, including GenBank, RefSeq, and PDB."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064385"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PHOSPHOSITE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Phosphorylation site database for Archaea and Bacteria"
+                },
+                "URL": {
+                    "_text": "http://www.phosphosite.org/uniprotAccAction.do?id="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PhosphoSitePlus¿¿ (PSP) is an online systems biology resource providing comprehensive information and tools for the study of protein post-translational modifications (PTMs)."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064386"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PUBCHEM-SID"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PubChem SID"
+                },
+                "URL": {
+                    "_text": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The PubChem Substance ID maintained by the NCBI (National Center for Biotechnology Information) includes records for compounds that have been electronically submitted by depositors."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064387"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "DBTBS-TRANSCRIPTION-FACTORS"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "DBTBS B. subtilis Transcription Factors"
+                },
+                "URL": {
+                    "_text": "http://dbtbs.hgc.jp/cgi-bin/basic_search.cgi?search_type=trans&keyword="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064388"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NCBI-GENBANK"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI-GenBank"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/nuccore/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064389"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PFAM"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Pfam"
+                },
+                "URL": {
+                    "_text": "http://pfam.xfam.org/family/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Pfam collection of multiple sequence alignments and hidden Markov models for common protein families and domains."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064390"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "BRENDA-COMPOUND"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "BRENDA-Compound"
+                },
+                "URL": {
+                    "_text": "http://www.brenda-enzymes.org/ligand.php?brenda_ligand_id="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064391"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "LIGAND-MAP"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "KEGG"
+                },
+                "URL": {
+                    "_text": "http://www.genome.ad.jp/dbget-bin/www_bget?"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064392"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "NCBI-BIOPROJECT"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "NCBI BioProject"
+                },
+                "URL": {
+                    "_text": "http://www.ncbi.nlm.nih.gov/bioproject/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064393"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "TRITRYPDB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "TriTrypDB, Kinetoplastid Genomic Ressource"
+                },
+                "URL": {
+                    "_text": "http://tritrypdb.org/tritrypdb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&primary_key="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064394"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "HAMAP"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://www.expasy.org/unirules/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064395"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "LIGAND-CPD"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "KEGG LIGAND"
+                },
+                "URL": {
+                    "_text": "http://www.genome.ad.jp/dbget-bin/www_bget?"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "KEGG LIGAND is a composite database consisting of COMPOUND, GLYCAN, REACTION, RPAIR, and ENZYME databases, whose entries are identified by C, G, R, RP, and EC numbers, respectively. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064396"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SGD"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Saccharamyces Genome Database"
+                },
+                "URL": {
+                    "_text": "http://db.yeastgenome.org/locus/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "SGD is a scientific database of the molecular biology and genetics of the yeast Saccharomyces cerevisiae, which is commonly known as baker's or budding yeast."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064397"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ENSEMBL-BSUB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Ensembl ",
+                    "i": {
+                        "_text": "B. subtilis"
+                    }
+                },
+                "URL": {
+                    "_text": "http://www.ensemblgenomes.org/id/ "
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064398"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GRAMENE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Gramene"
+                },
+                "URL": {
+                    "_text": "http://www.gramene.org/Zea_mays/Gene/Summary?g="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Gramene is a curated, open-source data resource that provides plant biologists, geneticists and plant breeders with biological and genomic information on crop and model plants."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064399"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PUBCHEM"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PubChem-compound"
+                },
+                "URL": {
+                    "_text": "http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PubChem provides information on the biological activities of small molecules."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064400"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "DBTBS-GENES"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "DBTBS B. subtilis Operons"
+                },
+                "URL": {
+                    "_text": "http://dbtbs.hgc.jp/cgi-bin/basic_search.cgi?search_type=prom&keyword="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064401"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ENSEMBL"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Ensembl Human"
+                },
+                "URL": {
+                    "_text": "http://www.ensembl.org/Homo_sapiens/Gene/Summary?g="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Ensembl is a joint project between EMBL - EBI and the Sanger Institute to develop a software system which produces and maintains automatic annotation on eukaryotic genomes."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064402"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PDBSUM"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PDBsum"
+                },
+                "URL": {
+                    "_text": "http://www.ebi.ac.uk/pdbsum/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PDBsum is a pictorial database that provides an at-a-glance overview of the contents of each 3D structure deposited in the Protein Data Bank (PDB). "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064403"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "BRENDA"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "BRENDA"
+                },
+                "URL": {
+                    "_text": "http://www.brenda-enzymes.org/enzyme.php?ecno="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "BRENDA (BRaunschweig ENzyme DAtabase) is a comprehensive database for functional and molecular properties of enzymes."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064404"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "DBGET"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://www.genome.ad.jp/dbget-bin/www_bget?"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064405"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MTBRVCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Mtbh37RvCyc"
+                },
+                "URL": {
+                    "_text": "http://BioCyc.org/MTBH37RV/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Mtbh37rvcyc is a Pathway/Genome database for the bacterium Mycobacterium tuberculosis, Strain H37Rv"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064406"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "TRANSPORTER_CLASSIFICATION_DATABASE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Transporter Classification Database"
+                },
+                "URL": {
+                    "_text": "http://www.tcdb.org/search/result.php?tc="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Transporter Classification Database provides information about membrane transport proteins that are classified based on a 5-part comprehensive IUBMB-approved system."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064407"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "BIOSAMPLE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "BIOSAMPLE"
+                },
+                "URL": {
+                    "_text": "https://www.ncbi.nlm.nih.gov/biosample/"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064408"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "LIGAND"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "KEGG-legacy"
+                },
+                "URL": {
+                    "_text": "http://www.genome.ad.jp/dbget-bin/www_bget?"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "KEGG LIGAND is a composite database consisting of COMPOUND, GLYCAN, REACTION, RPAIR, and ENZYME databases, whose entries are identified by C, G, R, RP, and EC numbers, respectively. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064409"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SFLE198214CYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Sfle198214Cyc"
+                },
+                "URL": {
+                    "_text": "http://BioCyc.org/SFLE198214/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Sfle198214Cyc is a Pathway/Genome database for the bacterium Shigella flexneri, Strain 2a str. 301"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064410"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "TAIR"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "The Arabidopsis Information Resource"
+                },
+                "URL": {
+                    "_text": "http://www.arabidopsis.org/servlets/TairObject?type=locus&name="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Arabidopsis Information Resource (TAIR) maintains a database of genetic and molecular biology data for the model higher plant Arabidopsis thaliana  "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064411"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GOLD"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Genomes Online Database"
+                },
+                "URL": {
+                    "_text": "http://genomesonline.org/projects?id="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064412"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PROTEINMODELPORTAL"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Protein Model Portal"
+                },
+                "URL": {
+                    "_text": "http://www.proteinmodelportal.org/query/uniprot/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PMP gives access to various models computed by comparative modeling methods provided by different partner sites, and provides access to various interactive services for model building, and quality assessment. "
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064413"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SCP2DB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://streptomyces.org.uk/cgi-bin/scp2/external.pl?name="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064414"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ECOO157CYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "EcoO157Cyc"
+                },
+                "URL": {
+                    "_text": "http://BioCyc.org/ECOO157/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "This is a Pathway/Genome database for the bacteriumEscherichia coli, Strain O157:H7 EDL933"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064415"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PROSITE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Prosite"
+                },
+                "URL": {
+                    "_text": "http://prosite.expasy.org/cgi-bin/prosite/nicedoc.pl?"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "PROSITE is a database of protein families and domains."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064416"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "DB1"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "GeneDB"
+                },
+                "URL": {
+                    "_text": "http://www.genedb.org/genedb/Search?name=&organism=leish"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064417"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MTBCDCCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "MtbCdcCyc"
+                },
+                "URL": {
+                    "_text": "http://BioCyc.org/MTBCDC/new-image?object="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "MtbCdcCyc is a Pathway/Genome database for the bacterium Mycobacterium tuberculosis, Strain CDC1551"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064418"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PATRIC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PATRIC"
+                },
+                "URL": {
+                    "_text": "http://patricbrc.org/portal/portal/patric/Feature?cType=feature&cId="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064419"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "BIOHEALTHBASE"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "BioHealthBase"
+                },
+                "URL": {
+                    "_text": "http://www.biohealthbase.org/GSearch/details.do?locus="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Biodefense and Public Health Database (BioHealthBase) Bioinformatics Resource Center (BRC) provides a comprehensive genomic and proteomic data repository for five pathogenic organism groups that pose a threat to public health"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064420"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "KNAPSACK"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "KNApSAcK"
+                },
+                "URL": {
+                    "_text": "http://kanaya.naist.jp/knapsack_jsp/information.jsp?sname=C_ID&word="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "KNApSAcK is a species-metabolite relation database provided by the Nara Institute of Science and Technology (NAIST)."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064421"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "MPMP"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://sites.huji.ac.il/malaria/maps/.html"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The Malaria parasite database describes metabolic pathways in Plasmodium falciparum"
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064422"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "Wikipedia"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Wikipedia"
+                },
+                "URL": {
+                    "_text": "http://en.wikipedia.org/wiki/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "A": {
+                        "_attributes": {
+                            "href": "http://en.wikipedia.org"
+                        },
+                        "_text": "Wikipedia"
+                    },
+                    "_text": [
+                        " is a multilingual, web-based, free content",
+                        "encyclopedia project, which is written collaboratively by volunteers from all around the world. "
+                    ],
+                    "br": {}
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064423"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "GOA"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "Gene Ontology Annotation"
+                },
+                "URL": {
+                    "_text": "http://www.ebi.ac.uk/QuickGO/GProtein?ac="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "Links to the GOA database via the QuickGO web interface. UniProt accession numbers are valid IDs."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064424"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "KEGG-PWY"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://www.kegg.com/dbget-bin/show_pathway?"
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064425"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ECOLIWIKI"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "EcoliWiki"
+                },
+                "URL": {
+                    "_text": "http://ecoliwiki.net/colipedia/index.php/"
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "The EcoliWiki is EcoliHub's subsystem for community annotation."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064426"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "SCP1DB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {},
+                "URL": {
+                    "_text": "http://streptomyces.org.uk/cgi-bin/scp1/external.pl?name="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064427"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "CYRPTODB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "CryptoDB"
+                },
+                "URL": {
+                    "_text": "http://cryptodb.org/cryptodb/showRecord.do?name=GeneRecordClasses.GeneRecordClass&id="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064428"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "ECOLIHUB"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "PortEco"
+                },
+                "URL": {
+                    "_text": "http://porteco.org/AjaxSearch.jsp?searchString="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "EcoliHub is being developed to make information now housed in multiple information resources, databases, and websites readily available from a single source."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064429"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "PRODOM"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "ProDom; a protein domain database"
+                },
+                "URL": {
+                    "_text": "http://prodom.prabi.fr/prodom/current/cgi-bin/request.pl?question=SPTR&query="
+                },
+                "EXTERNAL_DB_NOTE": {
+                    "_text": "ProDom is a comprehensive set of protein domain families automatically generated from the UniProt Knowledge Database."
+                },
+                "EXT_DB_INTERNAL_COMMENT": {}
+            },
+            {
+                "_attributes": {
+                    "num": "166"
+                },
+                "EXTERNAL_DB_ID": {
+                    "_text": "GID000064430"
+                },
+                "EXTERNAL_DB_NAME": {
+                    "_text": "BIOCYC"
+                },
+                "EXTERNAL_DB_DESCRIPTION": {
+                    "_text": "BioCyc"
+                },
+                "URL": {
+                    "_text": "http://biocyc.org/getid?id="
+                },
+                "EXTERNAL_DB_NOTE": {},
+                "EXT_DB_INTERNAL_COMMENT": {}
+            }
+        ]
+    }
+}

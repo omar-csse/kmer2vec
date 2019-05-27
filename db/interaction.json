@@ -1,0 +1,3824 @@
+{
+    "_comment": [
+        " Table: INTERACTION",
+        " Columns: ",
+        " 1) INTERACTION_ID",
+        " 2) REGULATOR_ID",
+        " 3) PROMOTER_ID",
+        " 4) SITE_ID",
+        " 5) INTERACTION_FUNCTION",
+        " 6) CENTER_POSITION",
+        " 7) INTERACTION_FIRST_GENE_ID",
+        " 8) AFFINITY_EXP",
+        " 9) INTERACTION_NOTE",
+        " 10) INTERACTION_INTERNAL_COMMENT",
+        " 11) INTERACTION_SEQUENCE",
+        " 12) KEY_ID_ORG"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125142102"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010097"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125142103"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010236"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160713"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010991"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160714"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010241"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160715"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010390"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160716"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009864"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DskA amplifies the magnitude of inhibition effects of ppGpp from ",
+                        "p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|."
+                    ],
+                    "i": {
+                        "_text": "rrnB"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160717"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010118"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "ppGpp and DksA act directly and synergistically to negatively control ",
+                        "p transcription ",
+                        ", reducing the lifetime of the competitor-resistant complex with RNA polymerase |CITS:[16885445]|. DksA is required for inhibition of ",
+                        "p transcription during mid- and late log growth and in stationary phase |CITS:[16885445]|. DksA negatively controls ",
+                        "p for normal growth-phase-dependent regulation of ",
+                        "operon |CITS:[16885445]|. Moreover, DksA inhibits transcription, in part by further destabilizing intrinsically unstable promoter complexes |CITS:[16885445]|. Finally, it was shown that DksA not only amplifies the sensitivity of ",
+                        " operon to ppGpp but also it increases the concentration of the initiating NTP required for transcription |CITS:[16885445]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "dusB"
+                        },
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "dusB "
+                        },
+                        {
+                            "_text": "dusB"
+                        },
+                        {
+                            "_text": "dusB-fis"
+                        },
+                        {
+                            "_text": "dusB-fis"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160718"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009927"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DksA weakly inhibited ",
+                        " (pB) transcription |CITS:[20700605]|. Pronounced impairment of ",
+                        " (pB) activity was caused by ppGpp |CITS:[20700605]|. A dramatic decrease in the level of ",
+                        " (pB)-derived transcripts was observed when both DksA and ppGpp were present in the reaction mixture |CITS:[20700605]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "pcnBp3"
+                        },
+                        {
+                            "_text": "pcnBp3"
+                        },
+                        {
+                            "_text": "pcnBp3"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160719"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125122034"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "ppGpp is the main negative regulator of ",
+                        " (pS2) ",
+                        ". DksA had little effect in inhibiting the activity of ",
+                        "(pS2). However, DksA enhanced the inhibitory effect of ppGpp |CITS:[20700605]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "pcnBp4"
+                        },
+                        {
+                            "_text": "in vivo"
+                        },
+                        {
+                            "_text": "pcnBp4"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160720"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120034549"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160721"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010391"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160722"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010440"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160723"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120011146"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160724"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010392"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160725"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010744"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160726"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010310"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160727"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120015469"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160728"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120015407"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160729"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120015408"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160730"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120016981"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160731"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010331"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160732"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009955"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160733"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120029428"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160734"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120048895"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160735"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010441"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160736"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010381"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter ",
+                        " and ",
+                        " |CITS:[21402902]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "in vivo"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160737"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009865"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DskA amplifies the magnitude of inhibition effects of ppGpp from ",
+                        "p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|."
+                    ],
+                    "i": {
+                        "_text": "rrnB"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160738"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009872"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DskA amplifies the magnitude of inhibition effects of ppGpp from ",
+                        "p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|."
+                    ],
+                    "i": {
+                        "_text": "rrnB"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160739"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009867"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DskA amplifies the magnitude of inhibition effects of ppGpp from ",
+                        "p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|."
+                    ],
+                    "i": {
+                        "_text": "rrnB"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160740"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009868"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DskA amplifies the magnitude of inhibition effects of ppGpp from ",
+                        "p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|."
+                    ],
+                    "i": {
+                        "_text": "rrnB"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160741"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009870"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DskA amplifies the magnitude of inhibition effects of ppGpp from ",
+                        "p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|."
+                    ],
+                    "i": {
+                        "_text": "rrnB"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160742"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010458"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DskA amplifies the magnitude of inhibition effects of ppGpp from ",
+                        "p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|."
+                    ],
+                    "i": {
+                        "_text": "rrnB"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160743"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009864"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": "ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|."
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160744"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010458"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": "ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|."
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160745"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009865"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": "ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|."
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160746"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009872"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": "ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|."
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160747"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009867"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": "ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|."
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160748"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009868"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": "ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|."
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160749"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009870"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": "ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|."
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160750"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010118"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "ppGpp is able to inhibit ",
+                        "p (",
+                        "p) expression slightly in the absence of DksA |CITS:[15294157]|. However, ppGpp and DksA are required for normal stringent control of ",
+                        "p. Both act directly and synergistically to negatively control ",
+                        "p transcription ",
+                        " |CITS:[16885445]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "dusB"
+                        },
+                        {
+                            "_text": "fis"
+                        },
+                        {
+                            "_text": "dusB"
+                        },
+                        {
+                            "_text": "dusB"
+                        },
+                        {
+                            "_text": "in vitro"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160751"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010447"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "i": [
+                        {
+                            "_text": "pyrL"
+                        },
+                        {
+                            "_text": "pyrB"
+                        }
+                    ],
+                    "_text": [
+                        "p2 (",
+                        "p2) contains a G+C-rich sequence immediately dowstream of the _10 region that is similar to the discriminator sequence found in stringently controlled promoters |CITS:[1699940]|."
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160752"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125122034"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160753"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009927"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160754"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010734"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160755"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010188"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160756"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125095431"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160757"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120022001"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160758"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009864"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160759"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010458"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160760"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009865"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160761"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009872"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160762"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009867"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160763"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009868"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160764"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009870"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160765"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120030215"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160766"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125095431"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160767"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120022001"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160768"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010991"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160769"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010241"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160770"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125135020"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "ppGpp regulates the expression of the ",
+                        " gene together with σ",
+                        " and σ",
+                        " during the exponential and stationary phases, respectively |CITS:[11889138]|."
+                    ],
+                    "i": {
+                        "_text": "grxB"
+                    },
+                    "sup": [
+                        {
+                            "_text": "S"
+                        },
+                        {
+                            "_text": "70"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160771"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010187"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160772"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010565"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160773"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120034384"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "i": {
+                        "_text": "leuO"
+                    },
+                    "_text": " expression is induced indirectly via an increase in the cellular Lrp level in response to a ppGpp level increase, which is caused by the slow growth rate as cells enter stationary phase |CITS:[11006083]|."
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160774"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010552"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "i": [
+                        {
+                            "_text": "ftsQ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        }
+                    ],
+                    "_text": [
+                        "p1, ",
+                        "p4, and ",
+                        "p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the ",
+                        " gene could be indirect |CITS:[8407846]|."
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160775"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010553"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "i": [
+                        {
+                            "_text": "ftsQ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        }
+                    ],
+                    "_text": [
+                        "p1, ",
+                        "p4, and ",
+                        "p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the ",
+                        " gene could be indirect |CITS:[8407846]|."
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160776"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010260"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "i": [
+                        {
+                            "_text": "ftsQ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        },
+                        {
+                            "_text": "ftsZ"
+                        }
+                    ],
+                    "_text": [
+                        "p1, ",
+                        "p4, and ",
+                        "p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the ",
+                        " gene could be indirect |CITS:[8407846]|."
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160777"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120034549"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160778"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120034549"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160779"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120029520"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "The positive effect of ppGpp on RelA is through its effect on the ",
+                        " and not the ",
+                        ". This effect is amplified by ribosomal protein L11 and deacylated RNA",
+                        " and mRNA |CITS:[22907080]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "k"
+                        },
+                        {
+                            "_text": "K",
+                            "sub": {
+                                "_text": "m"
+                            }
+                        }
+                    ],
+                    "sub": {
+                        "_text": "cat'"
+                    },
+                    "sup": {
+                        "_text": "Phe"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162254"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010423"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162256"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010424"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162257"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010533"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162260"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125160782"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "ppGpp and its cofactor, DksA, inhibit in two ways the transcription of ",
+                        "p: 1) they directly inhibit its transcription, and 2) they inhibit ",
+                        " expression, which is an activator of the ",
+                        " operon |CITS:[23772072]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "fabH"
+                        },
+                        {
+                            "_text": "fadR"
+                        },
+                        {
+                            "_text": "fabHDG"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162261"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120049205"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125228876"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120034397"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Upon amino acid starvation, ",
+                        "p is negatively regulated by ppGpp due to the presence of the GC-rich discriminator, whose substitution for the AT-rich element abolished stringent control |CITS:[25365487]|."
+                    ],
+                    "i": {
+                        "_text": "rpsB"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125228877"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125203431"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240688"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010239"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "ppGpp regulates positively the expression of ",
+                        ", but it may not be entirely responsible for growth-phase regulation |CITS:[8955316]|."
+                    ],
+                    "i": {
+                        "_text": "lrp"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240689"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010399"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240690"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120011144"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "The ",
+                        " operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) |CITS:[ 27381917]|."
+                    ],
+                    "i": {
+                        "_text": "rplM-rpsI"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240691"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010696"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "The ",
+                        " operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) |CITS:[ 27381917]|."
+                    ],
+                    "i": {
+                        "_text": "rpmB-rpmG"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240692"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125122035"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "The ",
+                        " operon is regulated by ppGpp-DksA-dependent negative stringent control under amino acid starvation, most likely due to the features of the discriminator region (G/C rich) separating the -10 promoter element from the transcription start site (TSS) |CITS: [27381917]|."
+                    ],
+                    "i": {
+                        "_text": "rplU-rpmA"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258879"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009973"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "The ",
+                        " promoter is negatively affected by ppGpp ",
+                        " |CITS:[7680341]| and ",
+                        " during the stringent response |CITS: [11035017]|.",
+                        "Based on results of nuclease protection and primer extension assays, ",
+                        ", ",
+                        ", ",
+                        ", and ",
+                        " were determined to be involved in the stringent response induced by serine hydroxamate  |CITS: [7680341]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "argT"
+                        },
+                        {
+                            "_text": "in vivo"
+                        },
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "leuV"
+                        },
+                        {
+                            "_text": "argT"
+                        },
+                        {
+                            "_text": "metT"
+                        },
+                        {
+                            "_text": "leuX"
+                        }
+                    ],
+                    "br": {}
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258880"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010579"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258881"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010600"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258882"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010580"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258883"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010608"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258884"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010127"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258885"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010579"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258886"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010580"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258887"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010604"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Based on results of nuclease protection and primer extension assays, ",
+                        ", ",
+                        ", ",
+                        ", and ",
+                        " were determined to be involved in the stringent response induced by serine hydroxamate  |CITS: [7680341]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "leuV"
+                        },
+                        {
+                            "_text": "argT"
+                        },
+                        {
+                            "_text": "metT"
+                        },
+                        {
+                            "_text": "leuX"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258888"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010508"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258889"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120009984"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258890"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010580"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258891"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010603"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "Based on results of nuclease protection and primer extension assays, ",
+                        ", ",
+                        ", ",
+                        ", and ",
+                        " were determined to be involved in the stringent response induced by serine hydroxamate  |CITS: [7680341]|.",
+                        " gene expression is not growth rate dependent |CITS: [7680341]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "leuV"
+                        },
+                        {
+                            "_text": "argT"
+                        },
+                        {
+                            "_text": "metT"
+                        },
+                        {
+                            "_text": "leuX"
+                        },
+                        {
+                            "_text": "leuX"
+                        }
+                    ],
+                    "br": {}
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258892"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010237"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258893"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010504"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258894"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010411"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258895"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010597"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258896"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010504"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258897"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010600"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258898"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125141559"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "The binding of ppGpp to ",
+                        " and ",
+                        " genes was evaluated in ",
+                        " W3110 |CITS: [1745229]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "mnmG"
+                        },
+                        {
+                            "_text": "mioC"
+                        },
+                        {
+                            "_text": "Escherichia coli"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258899"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010605"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "i": [
+                        {
+                            "_text": "serW"
+                        },
+                        {
+                            "_text": "serW"
+                        }
+                    ],
+                    "_text": [
+                        "p2 appears to be under stringent control, since the -10 region is followed by a GCGCCCC (G/C-rich) sequence characteristic of promoters regulated by ppGpp |CITS:[7518257][6154042]|. This would negatively affect ",
+                        " transcription as well as other tRNAs |CITS:[6154042]|."
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258900"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010504"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258901"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120034292"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258902"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120034339"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "The binding of ppGpp to ",
+                        " and ",
+                        " genes was evaluated in ",
+                        " W3110 |CITS: [1745229]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "mnmG"
+                        },
+                        {
+                            "_text": "mioC"
+                        },
+                        {
+                            "_text": "Escherichia coli"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258903"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010419"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258904"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120030215"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DksA-ppGpp activate the ",
+                        " promoter, improving σ",
+                        " stability |CITS:[29061665]|. On the other hand, DksA-ppGpp can increase ",
+                        " expression indirectly by another mechanism, possibly by reducing rRNA transcription and thereby increasing RNAP availability |CITS:[29061665]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "iraP"
+                        },
+                        {
+                            "_text": "iraP"
+                        }
+                    ],
+                    "sup": {
+                        "_text": "S"
+                    }
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258905"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010600"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258906"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120030786"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258907"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120030786"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258908"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010410"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "inhibition"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258909"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK120010579"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {},
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258910"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PROMOTER_ID": {
+                    "_text": "ECK125108717"
+                },
+                "SITE_ID": {},
+                "INTERACTION_FUNCTION": {
+                    "_text": "activation"
+                },
+                "CENTER_POSITION": {},
+                "INTERACTION_FIRST_GENE_ID": {},
+                "AFFINITY_EXP": {},
+                "INTERACTION_NOTE": {
+                    "_text": [
+                        "DksA and ppGpp activate the ",
+                        " promoter, improving ",
+                        " translation |CITS:[29061665]|. On the other hand, DksA-ppGpp can increase ",
+                        " expression indirectly by another mechanism, possibly by reducing rRNA transcription and thereby increasing RNAP availability |CITS:[29061665]|."
+                    ],
+                    "i": [
+                        {
+                            "_text": "dsrA"
+                        },
+                        {
+                            "_text": "rpoS"
+                        },
+                        {
+                            "_text": "dsrA"
+                        }
+                    ]
+                },
+                "INTERACTION_INTERNAL_COMMENT": {},
+                "INTERACTION_SEQUENCE": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            }
+        ]
+    }
+}

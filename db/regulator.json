@@ -1,0 +1,192 @@
+{
+    "_comment": [
+        " Table: REGULATOR",
+        " Columns: ",
+        " 1) REGULATOR_ID",
+        " 2) PRODUCT_ID",
+        " 3) REGULATOR_NAME",
+        " 4) REGULATOR_INTERNAL_COMMNET",
+        " 5) REGULATOR_NOTE",
+        " 6) KEY_ID_ORG"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125140670"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004700"
+                },
+                "REGULATOR_NAME": {
+                    "_text": "DksA"
+                },
+                "REGULATOR_INTERNAL_COMMNET": {},
+                "REGULATOR_NOTE": {
+                    "_text": [
+                        "The DksA protein binds directly to RNA polymerase, affecting transcript elongation and augmenting the effect of the alarmone ppGpp on transcription initiation |CITS: [15294156]|.  DksA binding to the RNA polymerase (RNAP) secondary channel interferes with the proper ribonucleotide positioning in the RNAP active site, decreasing open complex stability but only at promoters with intrinsically unstable open complexes, such as the ribosomal promoters |CITS:[25916853]|. DksA together with ppGpp is required for regulation of transcription of ribosomal RNA promoters |CITS: [15294157]|. DksA and ppGpp independently reduce transcription of the ",
+                        "p1 promoter. The additions of both ppGpp and DksA have independent cumulative effects on transcription inhibition of the ",
+                        "p1 promoter |CITS:[25916853]|.",
+                        "DksA is involved in translational regulation of RpoS |CITS: [12142416]|. ",
+                        " mutants have pleiotropic phenotypes. A null mutant is viable |CITS: [2180916]|.  A ",
+                        " mutant exhibited a defect in induction of RpoS production upon entry into stationary phase |CITS: [12193624]| or in the presence of ppGpp  |CITS: [12142416]|.  A ",
+                        " mutant exhibited a complex phenotype with respect to ppGpp regulation |CITS: [12142416]|.  ",
+                        "DksA is required for repair of double-stranded breaks in the chromosome when these breaks",
+                        "occur at two or more locations, but not when there is a single break in the chromosome.",
+                        "This may occur via DksA acting to destabilize transcription complexes, allowing for the replication fork",
+                        "assembly required for double-stranded break repair. DksA works with RecN in this capacity.",
+                        "A ",
+                        " double mutant became filamentous and was unable to divide after",
+                        "induction of double-stranded breaks. DksA may act by destabilizing transcription complexes,",
+                        "allowing for the replication fork assembly required for double-stranded break repair. |CITS:[15948952]|.",
+                        "A ",
+                        " mutant exhibited a defect in amino acid biosynthesis that was suppressed by an ",
+                        " T563P mutation |CITS: [12142416]|.  A ",
+                        " mutation suppressed the replication defect of a plasmid with mutations at the origin of replication |CITS: [9068662]|. DksA overproduction suppressed the heat sensitivity of a ",
+                        " or grpE280 mutant |CITS: [2180916][22267514]|.  Overproduction also suppressed the heat sensitivity, but not the anucleate cell morphology, of a mukB106 mutant |CITS: [7984109]|. Overproduction partially suppressed the filamentous morphology of a ",
+                        " or grpE280 mutant |CITS: [2180916]|. Overproduction suppressed phenotypes of a ",
+                        " mutant |CITS: [8576052]|.  Overproduction also suppressed the filamentous morphology and growth defect of a ",
+                        " mutant in low-salt rich medium |CITS: [10830496]|.  ",
+                        "DksA: dnaK suppressor |CITS: [2180916]|.",
+                        "MsmA: multicopy suppressor of mukB106 |CITS: [7984109]|.",
+                        "The crystal structure of DksA has been solved at 2.0 A resolution, and it shows similarity to the structure of GreA, the ",
+                        "transcription cleavage factor |CITS: [15294156]|.",
+                        "Based on overexpression, deletion, transcription profiling, and RNA polymerase mutant experiments, mutual and antagonistic competition effects between GreA, GreB, and DksA on RNA polymerase activity are observed when ppGpp is absent but are more pronounced when DksA and ppGpp are not present |CITS: [22056927]|. DksA overproduction suppressed the temperature-sensitive phenotype of a  dnaKJ and a grpE280 mutants |CITS:[2180916][22267514]|.",
+                        "GreA/B factors contribute significantly to complex regulation by DksA and ppGpp. Here, GreA has a major role and GreB has a minor role in the DksA-ppGpp regulatory network |CITS: [22056927]|. An interaction network of GreA, GreB, DksA, ppGpp, and RNA polymerase has been proposed |CITS:[22056927]|. ",
+                        "The aspartic acid residue D74 located in the coiled-coil tip of DksA is crucial for function of both positive and negative control of transcription i..."
+                    ],
+                    "i": [
+                        {
+                            "_text": "rrsB"
+                        },
+                        {
+                            "_text": "rrsB"
+                        },
+                        {
+                            "_text": "dksA"
+                        },
+                        {
+                            "_text": "dksA"
+                        },
+                        {
+                            "_text": "dksA"
+                        },
+                        {
+                            "_text": "dksA"
+                        },
+                        {
+                            "_text": "rpoB"
+                        },
+                        {
+                            "_text": "dksA"
+                        },
+                        {
+                            "_text": "dnaK"
+                        },
+                        {
+                            "_text": "dnaK"
+                        },
+                        {
+                            "_text": "prc"
+                        },
+                        {
+                            "_text": "yhhP"
+                        }
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ],
+                    "I": {
+                        "_text": "recN dksA"
+                    }
+                },
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258877"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004700"
+                },
+                "REGULATOR_NAME": {
+                    "_text": "DksA-ppGpp"
+                },
+                "REGULATOR_INTERNAL_COMMNET": {},
+                "REGULATOR_NOTE": {
+                    "_text": [
+                        "DksA and ppGpp increase σ",
+                        " holoenzyme activity |CITS:[12142416]|.",
+                        "Effects on unknown factors or solution conditions such as pH, salt, and template conformation can allow DksA to activate specific promoters in the absence of ppGpp |CITS:[29061665]|."
+                    ],
+                    "sup": {
+                        "_text": "S"
+                    },
+                    "br": {}
+                },
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "REGULATOR_ID": {
+                    "_text": "ECK125258878"
+                },
+                "PRODUCT_ID": {
+                    "_text": "ECK120004700"
+                },
+                "REGULATOR_NAME": {
+                    "_text": "ppGpp"
+                },
+                "REGULATOR_INTERNAL_COMMNET": {},
+                "REGULATOR_NOTE": {
+                    "_text": [
+                        "The nucleotides ppGpp (guanosine 3'-diphosphate 5'-diphosphate) and pppGpp (guanosine 3'-diphosphate 5'-triphosphate), referred to collectively as (p)ppGpp, have been shown to regulate gene expression during the stringent response in some bacteria.  Their levels become elevated during this response and they are key indicators and regulators of it.  The stringent response is a global regulatory system that operates under conditions of nutrient or energy starvation or other environmental stress.  It has varying effects on gene expression and metabolism.  In addition to bacteria, there is evidence that (p)ppGpp may regulate transcription by plastid-encoded RNA polymerase in plant chloroplasts |CITS: [19308923]|.",
+                        "Due to its role as an effector molecule in the stringent response in bacteria, (p)ppGpp has been described as a bacterial alarmone.  It can contribute to the regulation of various cellular processes that are affected by nutritional stress such as growth, cell division, motility, adaptation and virulence.  Its effect on the pathogenicity of some bacteria has led to the development of ppGpp analogs as possible antibacterial compounds |CITS: [18776539]| and new ",
+                        " synthesis |CITS: [18789883]| and detection |CITS: [18166051]| methods for ppGpp.  Different bacteria have different ways of synthesizing and responding to (p)ppGpp, many of which are still being discovered.  Even in the well-studied ",
+                        " many details of ppGpp action remain to be elucidated.  Reviewed in |CITS: [18454629] [15866041] [18359660]|."
+                    ],
+                    "br": {},
+                    "i": [
+                        {
+                            "_text": "in vitro"
+                        },
+                        {
+                            "_text": "Escherichia coli"
+                        }
+                    ]
+                },
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            }
+        ]
+    }
+}

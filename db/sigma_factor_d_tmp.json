@@ -1,0 +1,175 @@
+{
+    "_comment": [
+        " Table: SIGMA_FACTOR_D_TMP",
+        " Columns: ",
+        " 1) SF_ID",
+        " 2) SIGMA_FACTOR",
+        " 3) SF_GENE_GROUP",
+        " 4) SF_TF_GROUP",
+        " 5) SF_PROMOTE_GROUP"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "SF_ID": {
+                    "_text": "1"
+                },
+                "SIGMA_FACTOR": {
+                    "_text": "Sigma70"
+                },
+                "SF_GENE_GROUP": {
+                    "_text": "1552"
+                },
+                "SF_TF_GROUP": {
+                    "_text": "176"
+                },
+                "SF_PROMOTE_GROUP": {
+                    "_text": "1952"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "SF_ID": {
+                    "_text": "2"
+                },
+                "SIGMA_FACTOR": {
+                    "_text": "Sigma32"
+                },
+                "SF_GENE_GROUP": {
+                    "_text": "123"
+                },
+                "SF_TF_GROUP": {
+                    "_text": "19"
+                },
+                "SF_PROMOTE_GROUP": {
+                    "_text": "326"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "SF_ID": {
+                    "_text": "3"
+                },
+                "SIGMA_FACTOR": {
+                    "_text": "Sigma24"
+                },
+                "SF_GENE_GROUP": {
+                    "_text": "125"
+                },
+                "SF_TF_GROUP": {
+                    "_text": "19"
+                },
+                "SF_PROMOTE_GROUP": {
+                    "_text": "522"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "SF_ID": {
+                    "_text": "4"
+                },
+                "SIGMA_FACTOR": {
+                    "_text": "Sigma38"
+                },
+                "SF_GENE_GROUP": {
+                    "_text": "200"
+                },
+                "SF_TF_GROUP": {
+                    "_text": "43"
+                },
+                "SF_PROMOTE_GROUP": {
+                    "_text": "233"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "SF_ID": {
+                    "_text": "5"
+                },
+                "SIGMA_FACTOR": {
+                    "_text": "Sigma54"
+                },
+                "SF_GENE_GROUP": {
+                    "_text": "130"
+                },
+                "SF_TF_GROUP": {
+                    "_text": "33"
+                },
+                "SF_PROMOTE_GROUP": {
+                    "_text": "98"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "SF_ID": {
+                    "_text": "6"
+                },
+                "SIGMA_FACTOR": {
+                    "_text": "Sigma19"
+                },
+                "SF_GENE_GROUP": {
+                    "_text": "5"
+                },
+                "SF_TF_GROUP": {
+                    "_text": "4"
+                },
+                "SF_PROMOTE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "SF_ID": {
+                    "_text": "7"
+                },
+                "SIGMA_FACTOR": {
+                    "_text": "Sigma28"
+                },
+                "SF_GENE_GROUP": {
+                    "_text": "73"
+                },
+                "SF_TF_GROUP": {
+                    "_text": "16"
+                },
+                "SF_PROMOTE_GROUP": {
+                    "_text": "147"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "SF_ID": {
+                    "_text": "8"
+                },
+                "SIGMA_FACTOR": {
+                    "_text": "unknown"
+                },
+                "SF_GENE_GROUP": {
+                    "_text": "0"
+                },
+                "SF_TF_GROUP": {
+                    "_text": "0"
+                },
+                "SF_PROMOTE_GROUP": {
+                    "_text": "0"
+                }
+            }
+        ]
+    }
+}

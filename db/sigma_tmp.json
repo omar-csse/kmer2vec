@@ -1,0 +1,201 @@
+{
+    "_comment": [
+        " Table: SIGMA_TMP",
+        " Columns: ",
+        " 1) SIGMA_ID",
+        " 2) SIGMA_NAME",
+        " 3) SIGMA_SYNONYMS",
+        " 4) SIGMA_GENE_ID",
+        " 5) SIGMA_GENE_NAME",
+        " 6) SIGMA_COREGULATORS",
+        " 7) SIGMA_NOTES",
+        " 8) SIGMA_SIGMULON_GENES",
+        " 9) KEY_ID_ORG"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "SIGMA_ID": {
+                    "_text": "ECK125110291"
+                },
+                "SIGMA_NAME": {
+                    "_text": "Sigma24"
+                },
+                "SIGMA_SYNONYMS": {
+                    "_text": "RpoE"
+                },
+                "SIGMA_GENE_ID": {
+                    "_text": "ECK120001827"
+                },
+                "SIGMA_GENE_NAME": {
+                    "_text": "rpoE"
+                },
+                "SIGMA_COREGULATORS": {},
+                "SIGMA_NOTES": {},
+                "SIGMA_SIGMULON_GENES": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "SIGMA_ID": {
+                    "_text": "ECK125110292"
+                },
+                "SIGMA_NAME": {
+                    "_text": "Sigma28"
+                },
+                "SIGMA_SYNONYMS": {
+                    "_text": "FliA"
+                },
+                "SIGMA_GENE_ID": {
+                    "_text": "ECK120001324"
+                },
+                "SIGMA_GENE_NAME": {
+                    "_text": "fliA"
+                },
+                "SIGMA_COREGULATORS": {},
+                "SIGMA_NOTES": {},
+                "SIGMA_SIGMULON_GENES": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "SIGMA_ID": {
+                    "_text": "ECK125110293"
+                },
+                "SIGMA_NAME": {
+                    "_text": "Sigma32"
+                },
+                "SIGMA_SYNONYMS": {
+                    "_text": "RpoH"
+                },
+                "SIGMA_GENE_ID": {
+                    "_text": "ECK120000888"
+                },
+                "SIGMA_GENE_NAME": {
+                    "_text": "rpoH"
+                },
+                "SIGMA_COREGULATORS": {},
+                "SIGMA_NOTES": {},
+                "SIGMA_SIGMULON_GENES": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "SIGMA_ID": {
+                    "_text": "ECK125110294"
+                },
+                "SIGMA_NAME": {
+                    "_text": "Sigma38"
+                },
+                "SIGMA_SYNONYMS": {
+                    "_text": "RpoS"
+                },
+                "SIGMA_GENE_ID": {
+                    "_text": "ECK120000503"
+                },
+                "SIGMA_GENE_NAME": {
+                    "_text": "rpoS"
+                },
+                "SIGMA_COREGULATORS": {},
+                "SIGMA_NOTES": {},
+                "SIGMA_SIGMULON_GENES": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "SIGMA_ID": {
+                    "_text": "ECK125110295"
+                },
+                "SIGMA_NAME": {
+                    "_text": "Sigma54"
+                },
+                "SIGMA_SYNONYMS": {
+                    "_text": "RpoN"
+                },
+                "SIGMA_GENE_ID": {
+                    "_text": "ECK120000889"
+                },
+                "SIGMA_GENE_NAME": {
+                    "_text": "rpoN"
+                },
+                "SIGMA_COREGULATORS": {},
+                "SIGMA_NOTES": {},
+                "SIGMA_SIGMULON_GENES": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "SIGMA_ID": {
+                    "_text": "ECK125110296"
+                },
+                "SIGMA_NAME": {
+                    "_text": "Sigma70"
+                },
+                "SIGMA_SYNONYMS": {
+                    "_text": "RpoD"
+                },
+                "SIGMA_GENE_ID": {
+                    "_text": "ECK120000887"
+                },
+                "SIGMA_GENE_NAME": {
+                    "_text": "rpoD"
+                },
+                "SIGMA_COREGULATORS": {},
+                "SIGMA_NOTES": {},
+                "SIGMA_SIGMULON_GENES": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "SIGMA_ID": {
+                    "_text": "ECK125134950"
+                },
+                "SIGMA_NAME": {
+                    "_text": "Sigma19"
+                },
+                "SIGMA_SYNONYMS": {
+                    "_text": "FecI"
+                },
+                "SIGMA_GENE_ID": {
+                    "_text": "ECK120000285"
+                },
+                "SIGMA_GENE_NAME": {
+                    "_text": "fecI"
+                },
+                "SIGMA_COREGULATORS": {},
+                "SIGMA_NOTES": {},
+                "SIGMA_SIGMULON_GENES": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            }
+        ]
+    }
+}

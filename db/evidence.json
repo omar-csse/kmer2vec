@@ -1,0 +1,4726 @@
+{
+    "_comment": [
+        " Table: EVIDENCE",
+        " Columns: ",
+        " 1) EVIDENCE_ID",
+        " 2) EVIDENCE_NAME",
+        " 3) TYPE_OBJECT",
+        " 4) EVIDENCE_CODE",
+        " 5) EVIDENCE_NOTE",
+        " 6) EVIDENCE_INTERNAL_COMMENT",
+        " 7) KEY_ID_ORG",
+        " 8) EVIDENCE_TYPE",
+        " 9) EVIDENCE_CATEGORY",
+        " 10) HEAD",
+        " 11) EXAMPLE"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857758"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "promoter fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857762"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "primer extension"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857767"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "in vitro transcription"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857770"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "promoter fusions"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857774"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "lacZ fusions"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857789"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "translational fusions"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857793"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Northern blot analysis"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857806"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "lacZ gene fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857811"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "transcriptional fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857814"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "operon fusions"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857825"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "transcriptional fusions"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857850"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "protein fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857865"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "operon (transcriptional) fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857882"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "gene fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857891"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "primer extension/ gene fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T857922"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "operon fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858057"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "lacZ fusion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858083"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "northern blot"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858101"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Northern analysis/ Microdensitometry"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858106"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "norhtern blot/ primer extension"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858201"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "in vitro transcription/ primer extension analysis"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858240"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "primer extension analysis"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858248"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Northern hybridization analyses"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858265"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "semi-quantitative competitive RT-PCR assay"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "ECK12T858387"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "RT-PCR"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "EVIDENCE_NOTE"
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "EVI"
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "EVIDENCE_CATEGORY"
+                },
+                "HEAD": {
+                    "_text": "HEAD"
+                },
+                "EXAMPLE": {
+                    "_text": "EXAMPLE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000001"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Author statement"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AS"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Author statement.  The evidence for an assertion comes from an author",
+                        "statement in a publication, where that publication does not state direct experimental support",
+                        "for the assertion.  Ordinarily, this code will not be used directly -- generally one of",
+                        "its child codes, EV-TAS or EV-NAS, will be used instead."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Author statement"
+                },
+                "HEAD": {
+                    "_text": "GID000000001"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000002"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Traceable author statement"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "TAS"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Traceable author statement.  The assertion was made in a publication -- such as a review or ",
+                        "in another database -- that itself did not describe an experiment supporting the",
+                        "assertion.  The statement referenced another publication that supported the assertion,",
+                        "but it is unclear whether that publication described an experiment that supported",
+                        "the assertion.  The difference between the codes EV-EXP-TAS and EV-AS-TAS ",
+                        "is that the former code is used when it is certain that experimental evidence supports the",
+                        "assertion, and the latter code is used when there is a possibility that an experiment was",
+                        "not done to support the assertion.",
+                        "In general, references to the primary literature are preferred,",
+                        "but this code can be used when the original article is difficult to locate."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Author statement"
+                },
+                "HEAD": {
+                    "_text": "GID000000001"
+                },
+                "EXAMPLE": {
+                    "_text": "PM: An article that refers to a promoter by citing a paper that is traceable but the curation team has no accesses to."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000003"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Non-traceable author statement"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "NTAS"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Non-traceable author statement.  The assertion was made in a publication such as a review, a meeting abstract, ",
+                        "or another database without a reference to a publication describing an experiment that supports the assertion."
+                    ],
+                    "br": {}
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Author statement"
+                },
+                "HEAD": {
+                    "_text": "GID000000001"
+                },
+                "EXAMPLE": {
+                    "_text": "PM: An article that refers to a promoter by citing a paper, which cannot be traced."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000004"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred by computational analysis"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "ICA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Inferred from computation.  The evidence for an assertion comes from a",
+                        "computational analysis.  The assertion itself might have been made",
+                        "by a person or by a computer, that is, EV-COMP does not specify whether",
+                        "manual interpretation of the computation occurred."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Computational prediction or inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000004"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000005"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Human inference based on similarity to consensus sequences"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "HIBSCS"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "A person inferred, or reviewed a computer inference of,  sequence",
+                        "function based on similarity to a consensus sequence."
+                    ],
+                    "br": {}
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Human inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000012"
+                },
+                "EXAMPLE": {
+                    "_text": "RI:putative binding site identified by an expert by reading the sequence."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000006"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Human inference of promoter position"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "HIPP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A person inferred, or reviewed a computer inference of, promoter position relative to the -10 and -35 boxes."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Human inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000012"
+                },
+                "EXAMPLE": {
+                    "_text": "PM:Identification of a possible promoter by an expert by reading the sequence."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000007"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Human inference of function from sequence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "rna|protein|product|enzymatic-reaction|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "HIFS"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "A person inferred, or reviewed a computer inference of, gene function based ",
+                        "on sequence,  profile, or structural similarity (as computed from sequence) to ",
+                        "one or more other sequences."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Human inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000012"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000008"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Automated inference that a single-gene directon is a transcription unit"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AISGDTU"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Automated inference of transcription unit based on single-gene directon.  Existence of a single-gene transcription unit ",
+                        "for gene G is inferred computationally by the existence of upstream and downstream genes transcribed in the ",
+                        "opposite direction of G."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Computational prediction or inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000013"
+                },
+                "EXAMPLE": {
+                    "_text": "TU:A gene flanked by genes in opposite transcription directions."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000009"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Automated inference based on similarity to consensus sequences"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AIBSCS"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A DNA sequence similar to previously known consensus sequences is computationally identified."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Computational prediction or inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000013"
+                },
+                "EXAMPLE": {
+                    "_text": "RI:computational method (e.g. PATSER) used to identify the binding site."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000010"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Automated inference of promoter position"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AIPP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Automated inference of promoter position relative to the -10 and -35 boxes."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Computational prediction or inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000013"
+                },
+                "EXAMPLE": {
+                    "_text": "PM:Computational prediction."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000011"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Automated inference of function from sequence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "rna|protein| enzymatic-reaction|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AIFS"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Automated inference of function from sequence.   A computer inferred a gene function based on sequence, ",
+                        "profile, or structural similarity (as computed from sequence) to one or more other sequences."
+                    ],
+                    "br": {}
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Computational prediction or inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000013"
+                },
+                "EXAMPLE": {
+                    "_text": "TF: Sequence similarity between effector domains of orthologous transcription factors."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000012"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred by a human based on computational evidence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IHBCE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Human inference.  A curator or author inferred this assertion after review of one or more possible types ",
+                        "of computational evidence such as sequence similarity, recognized motifs or consensus sequence, etc.  ",
+                        "When the inference was made by a computer in an automated fashion, use EV-AINF =AINF does not exist -> use ICWHO"
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Human inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000004"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000013"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred computationally without human oversight"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "ICWHO"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Automated inference.  A computer inferred this assertion through one of many possible methods such as ",
+                        "sequence similarity, recognized motifs or consensus sequence, etc.  When a person made the inference ",
+                        "from computational evidence, use EV-IHBCE"
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Computational prediction or inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000004"
+                },
+                "EXAMPLE": {
+                    "_text": "TU: Computational results with no expert review."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000014"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from experiment"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Inferred from experiment.  The evidence for an assertion comes from a",
+                        "wet-lab experiment of some type."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000014"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000015"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Site mutation"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction|transcription factor|promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "SM"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A cis-mutation in the DNA sequence of the transcription-factor binding site interferes with the operation of the regulatory function. This is considered  strong evidence for the existence and functional role of the DNA binding site."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000034"
+                },
+                "EXAMPLE": {
+                    "_text": "TF: Expression analysis when putative regulator binding sites are mutated. | RI: Site-directed mutagenesis in the DNA binding site."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000016"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Reaction enhanced in mutant"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "enzymatic-reaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "REM"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Gene is isolated and over-expressed, and increased accumulation of reaction product is observed."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000034"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000017"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Reaction blocked in mutant"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "enzymatic-reaction|regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "RBM"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Mutant is characterized, and blocking of reaction is demonstrated."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000034"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000018"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Polar mutation"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "PM"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "If a mutation in a gene or promoter prevents expression of the downstream genes due to a polar effect, the mutated gene is clearly part of the transcription unit."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000034"
+                },
+                "EXAMPLE": {
+                    "_text": "TU:A mutation of the promoter of the first gene affects the expression of neighboring genes."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000019"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred by functional complementation"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "protein|enzymatic-reaction|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IFC"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Protein activity inferred by isolating its gene and performing functional complementation of a well characterized heterologous mutant for the protein."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {
+                    "_text": "GID000000035"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000020"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Gene expression analysis"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction|transcription factor|promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "GEA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "The expression of the gene is analyzed through a transcriptional fusion (i.e. lacZ), and  a difference in expression levels is observed when the regulatory protein is present  (wild type) vs in its absence.  Note that this evidence does not eliminate the possiblity of an indirect effect of the regulator on the regulated gene."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000036"
+                },
+                "EXAMPLE": {
+                    "_text": "RI: Transcriptional fusions (lacZ). | TF:  Transcriptional fusions"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000021"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred through co-regulation"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "ITCR"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Inferred through co-regulation.  A transcription unit is inferred because a set of ",
+                        "adjacent genes that are transcribed in the same direction exhibit similar",
+                        "expression patterns under a range of environmental conditions."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000036"
+                },
+                "EXAMPLE": {
+                    "_text": "TU: 2+ adjacent genes show the same expression pattern across conditions."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000022"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of unpurified protein"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "protein|enzymatic-reaction|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AUP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of unpurified protein. Presence of a protein activity is",
+                        "indicated by an assay, but the protein has not been purified.",
+                        "Expression host is unspecified."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000023"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Transcription initiation mapping"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "TIM"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "The transcription start site is identified by mapping of the 5'end of the transcript."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {
+                    "_text": "PM:Primer extension, S1 mapping, 5'RACE"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000024"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Length of transcript experimentally determined"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "LTED"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "The length of the (transcribed) RNA is experimentally determined.  The length of the mRNA is compared with that of the DNA sequence and by this means the number of genes transcribed are established."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {
+                    "_text": "TU:Northern blot."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000025"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Footprinting"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter|regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "FP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "The binding of a regulator to a DNA or RNA region is shown by footprinting."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000030"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000026"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of protein purified from mixed culture"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "protein|enzymatic-reaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "APPMC"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Protein purified from mixed culture or other multispecies environment (such as, infected plant or animal tissue), and activity measured through in vitro assay."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000027"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of protein purified  to homogeneity"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter|regulatory interaction|protein|enzymatic-reaction|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "APPH"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of purified protein. Protein purified to homogeneity, and",
+                        "activity measured using an in vitro assay.  Expression host is unspecified."
+                    ],
+                    "br": {}
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {
+                    "_text": "PM: In vitro transcription assay."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000028"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of partially-purified protein"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "protein|enzymatic-reaction|promoter|regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "APPP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of partially purified protein from a specific organism. ",
+                        "Protein partially purified, and activity measured using an in vitro",
+                        "assay.  Expression host is unspecified."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000029"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Boundaries of transcription experimentally identified"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "BTEI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Sites or genes bounding the transcription unit are experimentally identified.  Several possible cases exist, such as defining the boundaries of a transcription unit with an experimentally identified promoter and terminator, or with a promoter and a downstream gene that is transcribed in the opposite direction, or with a terminator and an upstream gene that is transcribed in the opposite direction."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {
+                    "_text": "TU:When promoter and terminator are identified."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000030"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Binding of purified proteins"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction|transcription factor|promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "BPP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "There exists physical evidence of the binding of a ligand to its target site (for instance binding of a TF to its TFBS)."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {
+                    "_text": "TF: mobility shift assays, PAGE, filter binding assays"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000031"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Binding of cellular extracts"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction|transcription factor |promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "BCE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "There exists physical evidence of the binding of cellular extracts containing ",
+                        "a regulatory protein to its DNA binding site.  This can be either by ",
+                        "footprinting or mobility shift assays."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {
+                    "_text": "RI:Gel shift analysis. | TF:Gel shift analysis."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000032"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Traceable author statement to experimental support"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "TASES"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Traceable author statement to experimental support.  The assertion was made in a publication -- such as a review or ",
+                        "in another database -- that itself did not describe an experiment supporting the",
+                        "assertion.  However, the statement did reference another publication describing an experiment ",
+                        "that supports the assertion.  The difference between the codes EV-EXP-TAS and EV-AS-TAS ",
+                        "is that the former code is used when it is certain that experimental evidence supports the",
+                        "assertion, and the latter code is used when there is a possibility that an experiment was",
+                        "not done to support the assertion.",
+                        "In general, references to the primary literature are preferred,",
+                        "but this code can be used when the original article is difficult to locate."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Author statement"
+                },
+                "HEAD": {
+                    "_text": "GID000000014"
+                },
+                "EXAMPLE": {
+                    "_text": "PM: A review article refers to a promoter citing a reference as the source for the experimental evidence. This code can be used when the original article is difficult to locate."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000033"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from physical interaction"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter|regulatory interaction|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IPI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "IPI inferred from physical interaction",
+                        "The assertion was inferred from a physical interaction such as"
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ],
+                    "ul": {
+                        "br": [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "li": [
+                            {
+                                "_text": " 2-hybrid interactions "
+                            },
+                            {
+                                "_text": " Co-purification "
+                            },
+                            {
+                                "_text": " Co-immunoprecipitation "
+                            },
+                            {
+                                "_text": " Ion/protein binding experiments "
+                            }
+                        ],
+                        "_text": "br/>    "
+                    },
+                    "p": {
+                        "br": [
+                            {},
+                            {},
+                            {},
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "_text": [
+                            "This code covers physical interactions between the gene product of",
+                            "interest and another molecule (or ion, or complex). For functions such",
+                            "as protein binding or nucleic acid binding, a binding assay is",
+                            "simultaneously IPI and IDA; IDA is preferred because the assay",
+                            "directly detects the binding. For both IPI and IGI, it would be good",
+                            "practice to qualify them with the gene/protein/ion. "
+                        ]
+                    }
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000014"
+                },
+                "EXAMPLE": {
+                    "_text": "TF:Two-hybrid assays, co-immunoprecipitation, co-purification"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000034"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from mutant phenotype"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter|regulatory interaction|transcription factor | enzymatic-reaction|protein|transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IMP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "IMP inferred from mutant phenotype.",
+                        "The assertion was inferred from a mutant phenotype such as"
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ],
+                    "ul": {
+                        "br": [
+                            {},
+                            {},
+                            {},
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "li": [
+                            {
+                                "_text": " Any gene mutation/knockout "
+                            },
+                            {
+                                "_text": " Overexpression/ectopic expression of wild-type or mutant genes "
+                            },
+                            {
+                                "_text": " Anti-sense experiments "
+                            },
+                            {
+                                "_text": " RNA interference experiments "
+                            },
+                            {
+                                "_text": " Specific protein inhibitors "
+                            },
+                            {
+                                "_text": " Complementation "
+                            }
+                        ]
+                    },
+                    "p": {
+                        "br": [
+                            {},
+                            {},
+                            {},
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "_text": [
+                            "Comment: Inferences made from examining mutations or",
+                            "abnormal levels of only the product(s) of the gene of interest are covered by code EV-IMP",
+                            "(compare to code EV-IGI). Use this code for experiments that use antibodies ",
+                            "or other specific inhibitors of RNA or protein activity, even though no",
+                            "gene may be mutated (the rationale is that EV-IMP is used where an",
+                            "abnormal situation prevails in a cell or organism)."
+                        ]
+                    }
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000014"
+                },
+                "EXAMPLE": {
+                    "_text": "PM: Deletion of promoter regions. |  RI: A mutation of a transcription factor has a visible cell phenotype, and it is inferred that the regulator might be regulating the genes responsible for the phenotype. | TF: Any gene mutation/knockout, overexpression/ectopic expression of wild-type genes or genes carrying mutations in the effector binding domain of the transcription factor."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000035"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from genetic interaction"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| promoter|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IGI"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "IGI inferred from genetic interaction.",
+                        "The assertion was inferred from a genetic interaction such as"
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ],
+                    "ul": {
+                        "br": [
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "li": [
+                            {
+                                "_text": " \\ Traditional\\  genetic interactions such as suppressors, synthetic lethals, etc. "
+                            },
+                            {
+                                "_text": " Functional complementation "
+                            },
+                            {
+                                "_text": " Inference about one gene drawn from the phenotype of a mutation in a different gene "
+                            }
+                        ]
+                    },
+                    "p": [
+                        {
+                            "br": [
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {},
+                                {}
+                            ],
+                            "_text": [
+                                "This category includes any combination of alterations in the sequence",
+                                "(mutation) or expression of more than one gene/gene product. This",
+                                "category can therefore cover any of the IMP experiments that are done",
+                                "in a non-wild-type background, although we prefer to use it only when",
+                                "all mutations are documented. When redundant copies of a gene must all",
+                                "be mutated to see an informative phenotype, use the IGI code. (Yes, ",
+                                "this implies some organisms, such as mouse, will have far, far more IGI",
+                                "than IMP annotations.)"
+                            ]
+                        },
+                        {
+                            "br": [
+                                {},
+                                {}
+                            ],
+                            "_text": [
+                                "IMP also covers phenotypic similarity: a phenotype that is informative",
+                                "because it is similar to that of another independent"
+                            ]
+                        }
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000014"
+                },
+                "EXAMPLE": {
+                    "_text": "RI:In vitro titration assay."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000036"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from expression pattern"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription factor|promoter|transcription unit|regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IEP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "IEP inferred from expression pattern.",
+                        "The assertion was inferred from a pattern of expression data such as"
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ],
+                    "ul": {
+                        "br": [
+                            {},
+                            {},
+                            {}
+                        ],
+                        "li": [
+                            {
+                                "_text": " Transcript levels (e.g. Northerns, microarray data) "
+                            },
+                            {
+                                "_text": " Protein levels (e.g. Western blots) "
+                            }
+                        ]
+                    }
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000014"
+                },
+                "EXAMPLE": {
+                    "_text": "TF: Northern blots, western blots, assay for enzyme activity in cell extracts"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000037"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from direct assay"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IDA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "IDA inferred from direct assay.",
+                        "The assertion was inferred from a direct experimental assay such as"
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ],
+                    "ul": {
+                        "br": [
+                            {},
+                            {},
+                            {},
+                            {},
+                            {}
+                        ],
+                        "li": [
+                            {
+                                "_text": " Enzyme assays "
+                            },
+                            {
+                                "_text": " In vitro reconstitution (e.g. transcription) "
+                            },
+                            {
+                                "_text": " Immunofluorescence "
+                            },
+                            {
+                                "_text": " Cell fractionation "
+                            }
+                        ]
+                    }
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000014"
+                },
+                "EXAMPLE": {
+                    "_text": "TF:Microscopy, sedimentation, ultracentrifugation (molecular weight determination of a protein complex), mmunoblotting experiments"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000000038"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred by curator"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IC"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Inferred by curator.  An assertion was inferred by a curator from relevant",
+                        "information such as other assertions in a database."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Human inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000038"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000019501"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Products of adjacent genes in the same biological process"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "PAGTSBP"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "A transcription unit is inferred because there is a set of adjacent genes,",
+                        "encoded in the same direction, coding for products that participate in the",
+                        "same metabolic pathway or biological process. Sometimes, these genes code",
+                        "for subunits of the same protein."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000038"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000027323"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "High-throughput transcription initiation mapping"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "HTTIM"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "The transcription start site is identified using a high-throughput experimental modified RACE approach."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000028083"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from radio-tracer experiment"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "pathway"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IRTE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "The assertion, such as inference of a metabolic pathway, was inferred from a radio-tracer experiment."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000037"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000028084"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Author hypothesis"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AH"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Author hypothesis. The hypothesis is in a publication, but it was clearly indicated in the",
+                        "publication that there was no experimental evidence, or limited evidence, supporting the ",
+                        "hypothesis. This code can be used, for example, for \\ paper chemistry\\  metabolic pathways, ",
+                        "which are pathways drawn from the author's best estimation."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Human inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000001"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000028663"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of unpurified protein expressed in a heterologous host"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "enzymatic-reaction| protein"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AUPEHH"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of unpurified protein from a heterologous host. Presence",
+                        "of a newly acquired protein activity is indicated by an assay",
+                        "performed on a heterologous host expressing recombinant",
+                        "protein(s). The recombinant proteins have not been purified."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000022"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000028664"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of unpurified protein expressed in its native host"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "enzymatic-reaction| protein|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AUPEINH"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of unpurified protein from its native host. Presence of a",
+                        "protein activity is indicated by an assay performed with an organism,",
+                        "but the precise identity of the protein responsible for that activity",
+                        "is not established, since the protein has not been purified."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000022"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000028665"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of protein purified to homogeneity from a heterologous host"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "enzymatic-reaction|protein"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "APPHHH"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of protein purified from a heterologous host. Recombinant",
+                        "protein purified to homogeneity from a heterologous host expressing",
+                        "cloned gene(s), and activity measured using an in vitro assay."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000027"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000028666"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of protein purified to homogeneity from its native host"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "enzymatic-reaction| protein|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "APPHINH"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of protein purified from its native host. Protein",
+                        "purified to homogeneity from its native host, and activity measured",
+                        "using an in vitro assay."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000027"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000028667"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of protein partially-purified from a heterologous host"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "enzymatic-reaction| protein"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "APPPHH"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of protein partially purified from a heterologous",
+                        "host. Recombinant protein partially purified",
+                        "from a heterologous host expressing cloned gene(s), and activity",
+                        "measured using an in vitro assay."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000028"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000028668"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Assay of protein partially-purified from its native host"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "enzymatic-reaction|protein"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "APPPINH"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Direct assay of protein partially purified from its native",
+                        "host. Protein partially purified from its",
+                        "native host, and activity measured using an in vitro assay."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000028"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000038618"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from Biological aspect from Ancestor"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "all objects"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "IBAA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A type of phylogenetic evidence whereby an aspect of a descendent is inferred through the characterization of an aspect of a ancestral gene."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Human inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000012"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000038619"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Automated inference of function by sequence orthology"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "rna|protein|enzymatic-reaction|transcription factor"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AIFSO"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A computer inferred a function based on the function of an orthologous protein in another organism."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Computational prediction or inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000013"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000038620"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Human inference of function by sequence orthology"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "rna|protein|enzymatic-reaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "HIFSO"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A person inferred or reviewed a computer inference of a function based on the function of an orthologous protein in another organism."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Human inference"
+                },
+                "HEAD": {
+                    "_text": "GID000000012"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042750"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "RNA-seq using two enrichment strategies for primary transcripts and consistent biological replicates"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "RS-EPT-CBR"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Identification of TSSs by RNA-seq using at least two different strategies of enrichment for primary transcripts, consistent biological replicates. Example: RNA-seq with enrichment for primary transcripts using terminator exonuclease and differential ligation of adaptors to the 5'end of the RNA."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000042752"
+                },
+                "EXAMPLE": {
+                    "_text": "PM:use of terminator exonuclease and differential ligation of adaptors."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042751"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "RNA-seq using two enrichment strategies for primary transcripts, consistent biological replicates, and evidence for a non-coding gene."
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "RS-EPT-ENCG-CBR"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000042752"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042752"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "RNA-seq"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "RS"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000000023"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042753"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ChIP analysis and statistical validation of TFBSs"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CHIP-SV"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000042755"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042754"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Mapping of signal intensities"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "MSI"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000000036"
+                },
+                "EXAMPLE": {
+                    "_text": "RI: RNA-seq or microarray analysis."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042755"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ChIP analysis"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction|promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CHIP"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000000033"
+                },
+                "EXAMPLE": {
+                    "_text": "RI: ChIP-chip, ChIP-seq."
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042756"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Genomic SELEX"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction|promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "gSELEX"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000000033"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042757"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ROMA"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction|promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "ROMA"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "W  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000042835"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042759"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Mapping of signal intensities, evidence for a single gene, consistent biological replicates"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "MSI-ESG-CBR"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {
+                    "_text": "GID000042754"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042809"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(GEA/gSELEX)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(GEA/gSELEX)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042810"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(GEA/ROMA)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(GEA/ROMA)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042811"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(FP/SM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(FP/SM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042812"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(FP/GEA/gSELEX)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(FP/GEA/gSELEX)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042813"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(CHIP-SV/FP)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(CHIP-SV/FP)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042814"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(CHIP-CV/GEA/gSELEX)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(CHIP-SV/GEA/gSELEX)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042815"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(CHIP-SV/SM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(CHIP-SV/SM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042816"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validatio(GEA/SM/gSELEX)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(GEA/SM/gSELEX)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042817"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(FP/GEA/ROMA)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(FP/GEA/ROMA)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042819"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(GEA/ROMA/SM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction| promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(GEA/ROMA/SM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042820"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(LTED/PM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(LTED/PM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042821"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(PET/PM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(PET/PM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042825"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(TA/TIM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(TA/TIM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042826"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(SM/TA)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(SM/TA)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042827"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(SM/TIM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(SM/TIM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042829"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(RS-EPT-CBR/TA)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(RS-EPT-CBR/TA)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042830"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(RS-EPT-CBR/SM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(RS-EPT-CBR/SM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042835"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "In vitro transcription assay"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter|regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "TA"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "Classical experiment"
+                },
+                "HEAD": {
+                    "_text": "GID000000027"
+                },
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042836"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "paired end di-tagging"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "transcription unit"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "PET"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "S  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "High-throughput protocol"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042837"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(FP/TA)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(FP/TA)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042838"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(FP/TIM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(FP/TIM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042839"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(FP/RS-EPT-CBR)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(FP/RS-EPT-CBR)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042841"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(CHIP-SV/GEA/ROMA)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "regulatory interaction"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(CHIP-SV/GEA/ROMA)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042842"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(FP/RS-EPT-ENCG-CBR)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(FP/RS-EPT-ENCG-CBR)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042843"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(RS-EPT-ENCG-CBR/TA)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(RS-EPT-ENCG-CBR/TA)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042844"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "cross validation(RS-EPT-ENCG-CBR/SM)"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "promoter"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CV(RS-EPT-ENCG-CBR/SM)"
+                },
+                "EVIDENCE_NOTE": {},
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {
+                    "_text": "C  "
+                },
+                "EVIDENCE_CATEGORY": {
+                    "_text": "independent cross-validation"
+                },
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042845"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from Sequence Alignment"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "RNAs, Proteins, Enzymatic-Reactions"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "ISA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Human inference based on a sequence alignment.",
+                        "Sequence similarity with experimentally characterized gene products, as determined by alignments,",
+                        "either pairwise or multiple (tools such as BLAST, ClustalW, MUSCLE)."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042846"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from Sequence Model"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "RNAs, Proteins, Enzymatic-Reactions"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "ISM"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "Human inference based on evidence from some kind of statistical model of a sequence",
+                        "or group of sequences, which is used to make a prediction about the function of a protein or RNA.",
+                        "- Prediction methods for non-coding RNA genes such as tRNASCAN-SE, Snoscan, and Rfam",
+                        "- Predicted presence of recognized functional domains or membership in protein families,",
+                        "  as determined by tools such as profile Hidden Markov Models (HMMs), including Pfam and TIGRFAM",
+                        "- Predicted protein features using tools such as TMHMM (transmembrane regions), SignalP (signal peptides on secreted proteins),",
+                        "  and TargetP (subcellular localization)",
+                        "- any other kind of domain modeling tool or collections of them such as SMART, PROSITE, PANTHER, InterPro, etc.",
+                        "- An entry in the with field of a GO annotation is required when the model used is an object with an accession number",
+                        "  (as found with Pfam, TIGRFAM, InterPro, PROSITE, Rfam, etc.)  The with field may be left blank for tools such as",
+                        "  tRNAscan and Snoscan where there is not an object with an accession to point to."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000042847"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "No biological data available"
+                },
+                "TYPE_OBJECT": {},
+                "EVIDENCE_CODE": {
+                    "_text": "NBDA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": [
+                        "EV-ND is intended for use in GO annotations.",
+                        "Use of the EV-ND evidence code indicates that the annotator at the contributing database found no information",
+                        "that allowed making an annotation to any term indicating specific knowledge from the ontology in question",
+                        "(molecular function, biological process, or cellular component) as of the date indicated. This code should be used only",
+                        "for annotations to the root terms, molecular function ; GO:0003674, biological process ; GO:0008150, or cellular component ; GO:0005575,",
+                        "which, when used in annotations, indicate that no knowledge is available about a gene product in that aspect of GO."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000057453"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Inferred from genomic context"
+                },
+                "TYPE_OBJECT": {},
+                "EVIDENCE_CODE": {
+                    "_text": "IGC"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "IGC  Inferred from genomic context."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064259"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "genomic SELEX"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "mRNA-Binding-Sites, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "GS"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Technique to identify DNA binding sites for a transcription factor based on genomic systematic evolution of ligands by exponential enrichment (SELEX), variant of the classic SELEX protocol."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064260"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "RNA-seq evidence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, mRNA-Binding-Sites, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "RE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Transcriptome analysis by RNA-seq (high-throughput sequencing of fragmented cDNA molecules) provides evidence for regulatory binding sites, based on a comparative analysis of the expression of potential target genes."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064261"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Automated inference based on sequence pattern discovery"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, mRNA-Binding-Sites, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "AIBSPD"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A sequence found by pattern discovery using computational methods."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064262"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Manually curated inference based on sequence pattern discovery"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, mRNA-Binding-Sites, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "MCIBSPD"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A sequence found by pattern discovery using computational methods and reviewed by a person."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064263"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Expression microarray evidence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, mRNA-Binding-Sites, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "EME"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "Transcriptome analysis by expression microarrays provide evidence for regulatory binding sites, based on a comparative analysis of the expression of potential target genes."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064264"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ChIP-seq evidence used in manual assertion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, Regulation-of-Transcription, mRNA-Binding-Sites, Regulation-of-Translation, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CEUMA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A type of chromatin immunoprecipation-seq evidence that is used in a manual assertion."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064265"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ChIP-exo evidence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, Regulation-of-Transcription, mRNA-Binding-Sites, Regulation-of-Translation, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A type of chromatin immunoprecipation evidence that uses gamma-exonuclease to digest transcription-factor-unbound DNA after ChIP for the identification of transcription factor binding site locations with high-resolution data."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064266"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ChIP-seq evidence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, Regulation-of-Transcription, mRNA-Binding-Sites, Regulation-of-Translation, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A type of chromatin immunoprecipation evidence that uses high-throughput sequencing where immunoprecipitated DNA fragments are funnelled into a massively parallel sequencer to produce multiple short reads for locating binding sites of DNA-associated proteins."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064267"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ChIP-exo evidence used in manual assertion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, Regulation-of-Transcription, mRNA-Binding-Sites, Regulation-of-Translation, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CEUMA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A type of chromatin immunoprecipation-exonuclease evidence that is used in a manual assertion."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064268"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ChIP-chip evidence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, Regulation-of-Transcription, mRNA-Binding-Sites, Regulation-of-Translation, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A type of chromatin immunoprecipation evidence that uses a tiling microarray for the detection of protein-bound DNA regions where chromatin is immunoprecipitated for protein tagging and DNA is sheared from the cross-linked protein-DNA complex to be arrayed revealing the protein-bound genomic regions."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064269"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "ChIP-chip evidence used in manual assertion"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, Regulation-of-Transcription, mRNA-Binding-Sites, Regulation-of-Translation, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "CEUMA"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A type of chromatin immunoprecipation-chip evidence that is used in a manual assertion."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "EVIDENCE_ID": {
+                    "_text": "GID000064270"
+                },
+                "EVIDENCE_NAME": {
+                    "_text": "Nucleic acid binding evidence"
+                },
+                "TYPE_OBJECT": {
+                    "_text": "Promoters, Regulation-of-Transcription, mRNA-Binding-Sites, Regulation-of-Translation, DNA-Binding-Sites"
+                },
+                "EVIDENCE_CODE": {
+                    "_text": "NABE"
+                },
+                "EVIDENCE_NOTE": {
+                    "_text": "A type of affinity evidence resulting from the binding of a molecule to DNA or RNA."
+                },
+                "EVIDENCE_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "EVIDENCE_TYPE": {},
+                "EVIDENCE_CATEGORY": {},
+                "HEAD": {},
+                "EXAMPLE": {}
+            }
+        ]
+    }
+}

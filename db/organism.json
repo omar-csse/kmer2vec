@@ -1,0 +1,27 @@
+{
+    "_comment": [
+        " Table: ORGANISM",
+        " Columns: ",
+        " 1) ORGANISM_ID",
+        " 2) ORGANISM_NAME",
+        " 3) ORGANISM_DESCRIPTION",
+        " 4) ORGANISM_NOTE",
+        " 5) ORGANISM_INTERNAL_COMMENT"
+    ],
+    "ROWSET": {
+        "ROW": {
+            "_attributes": {
+                "num": "1"
+            },
+            "ORGANISM_ID": {
+                "_text": "GID000000000"
+            },
+            "ORGANISM_NAME": {
+                "_text": "Escherichia coli K12"
+            },
+            "ORGANISM_DESCRIPTION": {},
+            "ORGANISM_NOTE": {},
+            "ORGANISM_INTERNAL_COMMENT": {}
+        }
+    }
+}

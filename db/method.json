@@ -1,0 +1,257 @@
+{
+    "_comment": [
+        " Table: METHOD",
+        " Columns: ",
+        " 1) METHOD_ID",
+        " 2) METHOD_NAME",
+        " 3) METHOD_DESCRIPTION",
+        " 4) PARAMETER_USED",
+        " 5) METHOD_NOTE",
+        " 6) METHOD_INTERNAL_COMMENT",
+        " 7) KEY_ID_ORG"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "METHOD_ID": {
+                    "_text": "ECK12T2555  "
+                },
+                "METHOD_NAME": {
+                    "_text": "ChIP-seq"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "ChIP-seq"
+                },
+                "PARAMETER_USED": {},
+                "METHOD_NOTE": {},
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "METHOD_ID": {
+                    "_text": "ECK12T3439  "
+                },
+                "METHOD_NAME": {
+                    "_text": "ChIP-exo"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "ChIP-exo"
+                },
+                "PARAMETER_USED": {},
+                "METHOD_NOTE": {},
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "METHOD_ID": {
+                    "_text": "ECK12T3516  "
+                },
+                "METHOD_NAME": {
+                    "_text": "gSELEX"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "gSELEX"
+                },
+                "PARAMETER_USED": {},
+                "METHOD_NOTE": {},
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "METHOD_ID": {
+                    "_text": "ECK12T3531  "
+                },
+                "METHOD_NAME": {
+                    "_text": "ChiP-chip"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "ChiP-chip"
+                },
+                "PARAMETER_USED": {},
+                "METHOD_NOTE": {},
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "METHOD_ID": {
+                    "_text": "GID000054855"
+                },
+                "METHOD_NAME": {
+                    "_text": "Northern Blot"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "Northern Blot"
+                },
+                "PARAMETER_USED": {},
+                "METHOD_NOTE": {},
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "METHOD_ID": {
+                    "_text": "GID000054856"
+                },
+                "METHOD_NAME": {
+                    "_text": "Primer Extension"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "Primer Extension"
+                },
+                "PARAMETER_USED": {},
+                "METHOD_NOTE": {},
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "METHOD_ID": {
+                    "_text": "GID000064146"
+                },
+                "METHOD_NAME": {
+                    "_text": "transcriptional fusion"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "transcriptional fusion"
+                },
+                "PARAMETER_USED": {
+                    "_text": "null"
+                },
+                "METHOD_NOTE": {
+                    "_text": "null"
+                },
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "METHOD_ID": {
+                    "_text": "GID000064147"
+                },
+                "METHOD_NAME": {
+                    "_text": "in vitro transcription"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "in vitro transcription"
+                },
+                "PARAMETER_USED": {
+                    "_text": "null"
+                },
+                "METHOD_NOTE": {
+                    "_text": "null"
+                },
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "METHOD_ID": {
+                    "_text": "GID000064148"
+                },
+                "METHOD_NAME": {
+                    "_text": "translational fusion"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "translational fusion"
+                },
+                "PARAMETER_USED": {
+                    "_text": "null"
+                },
+                "METHOD_NOTE": {
+                    "_text": "null"
+                },
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "METHOD_ID": {
+                    "_text": "GID000064149"
+                },
+                "METHOD_NAME": {
+                    "_text": "Microdensitometry"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "Microdensitometry"
+                },
+                "PARAMETER_USED": {
+                    "_text": "null"
+                },
+                "METHOD_NOTE": {
+                    "_text": "null"
+                },
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "METHOD_ID": {
+                    "_text": "GID000064150"
+                },
+                "METHOD_NAME": {
+                    "_text": "RT-PCR"
+                },
+                "METHOD_DESCRIPTION": {
+                    "_text": "RT-PCR"
+                },
+                "PARAMETER_USED": {
+                    "_text": "null"
+                },
+                "METHOD_NOTE": {
+                    "_text": "null"
+                },
+                "METHOD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            }
+        ]
+    }
+}

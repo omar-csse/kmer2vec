@@ -1,0 +1,78 @@
+{
+    "_comment": [
+        " Table: GROUPS",
+        " Columns: ",
+        " 1) GROUP_ID",
+        " 2) GROUP_NAME"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                },
+                "GROUP_NAME": {
+                    "_text": "GUs related to the two-component system"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656902"
+                },
+                "GROUP_NAME": {
+                    "_text": "GUs related to the signal transduction of the sigma factors"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                },
+                "GROUP_NAME": {
+                    "_text": "GUs related to carbon source utilization"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                },
+                "GROUP_NAME": {
+                    "_text": "GUs related to the metabolism of amino acids"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656905"
+                },
+                "GROUP_NAME": {
+                    "_text": "GUs related to metal utilization"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                },
+                "GROUP_NAME": {
+                    "_text": "Unclassified Gensor Units"
+                }
+            }
+        ]
+    }
+}

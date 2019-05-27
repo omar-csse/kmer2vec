@@ -1,0 +1,251 @@
+{
+    "_comment": [
+        " Table: METADATA",
+        " Columns: ",
+        " 1) METADATA_ID",
+        " 2) METADATA_NAME",
+        " 3) METADATA_SIZE"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "METADATA_ID": {
+                    "_text": "588"
+                },
+                "METADATA_NAME": {
+                    "_text": "NAME"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "METADATA_ID": {
+                    "_text": "589"
+                },
+                "METADATA_NAME": {
+                    "_text": "NOTES"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "METADATA_ID": {
+                    "_text": "590"
+                },
+                "METADATA_NAME": {
+                    "_text": "MAP_POSITION"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "METADATA_ID": {
+                    "_text": "591"
+                },
+                "METADATA_NAME": {
+                    "_text": "STRAND"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "METADATA_ID": {
+                    "_text": "592"
+                },
+                "METADATA_NAME": {
+                    "_text": "SEQUENCE"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "METADATA_ID": {
+                    "_text": "593"
+                },
+                "METADATA_NAME": {
+                    "_text": "EVIDENCE"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "METADATA_ID": {
+                    "_text": "594"
+                },
+                "METADATA_NAME": {
+                    "_text": "REFERENCE"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "METADATA_ID": {
+                    "_text": "595"
+                },
+                "METADATA_NAME": {
+                    "_text": "LOCALIZATION"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "METADATA_ID": {
+                    "_text": "596"
+                },
+                "METADATA_NAME": {
+                    "_text": "IDENTIFIER"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "METADATA_ID": {
+                    "_text": "597"
+                },
+                "METADATA_NAME": {
+                    "_text": "TYPE"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "METADATA_ID": {
+                    "_text": "598"
+                },
+                "METADATA_NAME": {
+                    "_text": "CLASIFICATION"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "METADATA_ID": {
+                    "_text": "599"
+                },
+                "METADATA_NAME": {
+                    "_text": "DESCRIPTION"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "METADATA_ID": {
+                    "_text": "600"
+                },
+                "METADATA_NAME": {
+                    "_text": "SCORE"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "METADATA_ID": {
+                    "_text": "601"
+                },
+                "METADATA_NAME": {
+                    "_text": "FUNCTION"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "METADATA_ID": {
+                    "_text": "602"
+                },
+                "METADATA_NAME": {
+                    "_text": "SIZE"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "METADATA_ID": {
+                    "_text": "603"
+                },
+                "METADATA_NAME": {
+                    "_text": "SPECIFIC VALUES"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "METADATA_ID": {
+                    "_text": "604"
+                },
+                "METADATA_NAME": {
+                    "_text": "CONDITION"
+                },
+                "METADATA_SIZE": {
+                    "_text": "50"
+                }
+            }
+        ]
+    }
+}

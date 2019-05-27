@@ -1,0 +1,5031 @@
+{
+    "_comment": [
+        " Table: SHINE_DALGARNO",
+        " Columns: ",
+        " 1) SHINE_DALGARNO_ID",
+        " 2) GENE_ID",
+        " 3) SHINE_DALGARNO_DIST_GENE",
+        " 4) SHINE_DALGARNO_POSLEFT",
+        " 5) SHINE_DALGARNO_POSRIGHT",
+        " 6) SHINE_DALGARNO_SEQUENCE",
+        " 7) SHINE_DALGARNO_NOTE",
+        " 8) SD_INTERNAL_COMMENT",
+        " 9) KEY_ID_ORG"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014181"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000266"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3151252"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3151257"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aaattacgcgCAGGATaatatccGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014182"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000265"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3151991"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3151996"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acttgcgtccTGGAGAtacacAGT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014183"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000496"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3957829"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3957834"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acgtcaacatCGAGGGctgtcccTGT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014184"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000488"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3957957"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3957962"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cacaacatcaCGAGGAatcaccATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014185"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001215"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3469859"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3469864"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tttacgtcacAAGGGAttatAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014186"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002868"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "511386"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "511391"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aactgtcttaAAGGAGtgtttTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014187"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002869"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-13"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "511625"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "511630"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "atctataaaaAGGAGTtaacaaaagATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014188"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001585"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1621142"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1621147"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tgaaattcagAGGCGGtagAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014189"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003901"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2665422"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2665427"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tatgcttatgGGAGATctacagATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014190"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001484"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1889752"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1889757"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acgcattttaGAGGTGaagaATT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014191"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002681"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3231653"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3231658"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttttacatacTGGACAattttATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014192"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000484"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4223633"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4223638"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tacagaaaaaAGAGACtgtCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014193"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000829"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3793973"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3793978"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tccataattcGAAGGTtacagttATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014194"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002323"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4551304"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4551309"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tcaaccaggtAAGGTAaaacgtTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014195"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004290"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-118"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3544761"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3544766"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gcaacgccacACTTCGgcattcagtccccatccgtgcagcagcacaagatgaacattcccctgacctttggtctgccaccagatgttattcatccgctattgttctcttttgacttacaaggatgaacatATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014196"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001187"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4214129"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4214134"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gaatgactaaAAGGAGagaaAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014197"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001931"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2219488"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2219493"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtaaaagaatGAGGAAagcatCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014198"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000516"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "52435"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "52440"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aaaatgattgTTAACAcccAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014199"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000043"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "51615"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "51620"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cgcgcctttgCAGGAGagttaacGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014200"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000223"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2437938"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2437943"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tttcaggtatAAGGATacgtaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014201"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002648"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2437860"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2437865"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tcgtctcataCAGGTAacacaaaCGT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014202"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001048"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2436658"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2436663"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttgctatttcTGGAGTaaaccacCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014203"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000447"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-14"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2435648"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2435653"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gaaactggtgCAGGAGtatctgtactAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014204"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000210"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2434746"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2434751"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "agtacaaggcATAGGCaaaTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014205"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002160"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3742719"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3742724"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tcaaaaaaacAAGGAAgcctgggATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014206"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002159"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3742541"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3742546"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gcgctaccatCAGGACgcgacaaAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014207"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002247"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3546545"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3546550"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acaaatgaaaGGCCAGgtaaatcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014208"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000558"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "422504"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "422509"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "attttcatcaCAGGGGaattatgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014209"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001399"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1619107"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1619112"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "attacttgccAGGGCAactaatGTG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014210"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001089"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "499980"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "499985"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtaatttgaaAGGAGTttttgTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014211"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001887"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3777386"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3777391"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cgtggactccAGGAGAcctgcaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014212"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001888"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-12"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3779039"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3779044"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tgtcttaacgTGGATGattccttaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014213"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001889"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3779814"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3779819"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "agcattcgagGGAGAAaaacgcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014214"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001303"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2620880"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2620885"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ctgcccctcaAAGGAGaaagagTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014215"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000503"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2867559"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2867564"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ggatcacgggTAGGAGccacctTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014216"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000582"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3086692"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3086697"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "attctctttaGGTGATattaaatATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014217"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001550"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-13"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3199652"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3199657"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttaatcaggcAAGGATaaaatcgctTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014218"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000889"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-17"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3344697"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3344702"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cgttttagcaGGAGAGtacgattctgaacATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014219"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002046"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3347101"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3347106"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gacgttgtgaGGAGAAacagtacATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014220"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000084"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-13"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3574889"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3574894"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cacatctttgCAGGAAaaaaacgctTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014221"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001036"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3592334"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3592339"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tcggtacaacAAGAGAgataaacGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014222"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001425"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4001413"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4001418"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttaagcattgGGAGTCccggtcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014223"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000581"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4128401"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4128406"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acgaagaggaTTAAGTatctCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014224"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000575"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-12"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4128657"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4128662"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acaaagcccaGGGAACttcatcacATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014225"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000946"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-13"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4277453"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4277458"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aagttaacttGAGGTAaagcgatttATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014226"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000303"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4540943"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4540948"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tctgtaattaTAAGGGaaaaacgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014227"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001358"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4611383"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4611388"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gcaaacatacAGGAATaaatcgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014228"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000721"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4636682"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4636687"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ggatatagccTGAGGGgcctgtaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014229"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004333"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4377729"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4377734"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aaaaaccagtAAGGAAacattTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014230"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001324"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2001798"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2001803"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tcatataacgCAGGGCtgtttatCGT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014231"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001761"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4042008"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4042013"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cccacaataaAAGAGGcgatatcGGT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014232"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000511"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-15"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1268147"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1268152"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cattttactcAAGATTaaggcgatcctATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014233"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000512"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "970841"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "970846"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "actgctgatgAGAGTAaatcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014234"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002070"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4365361"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4365366"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tctgttcttgCGAGGTgttTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014235"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000727"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "739494"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "739499"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acttgcgccaTTCAGGagttttATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014236"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001094"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "738990"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "738995"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "taaaccgctcAGGAGCagtaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014237"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000388"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3561829"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3561834"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tttgtaaagaAAGAGAgacgCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014238"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000393"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3560613"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3560618"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aaaataattcCAGGGAtttataAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014239"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001364"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3656747"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3656752"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ctttatagttGAGGATattacGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014240"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001568"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-6"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1348916"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1348921"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gccaccaaaaTAGACAatTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014241"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003471"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-12"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1720834"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1720839"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gcaagctaatTATAAGgagatgaaATT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014242"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002270"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2585531"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2585536"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "caaccaaaaaAGAAGGtcgtTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014243"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002080"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "472586"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "472591"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aattctgaccGGAGGGgatctATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014244"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001753"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "472954"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "472959"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acacagcaacAGGAACgaaaaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014245"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000762"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-16"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2804796"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2804801"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tagacaaataAAGGAAtctttctattgcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014246"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000763"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2805998"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2806003"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tagatcgtgaGGGGGTaaataATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014247"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000764"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2807120"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2807125"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ctgccaaaaaAAGGAAtaacaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014248"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000737"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4046955"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4046960"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gataaacaggCACGGAcattATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014249"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000945"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1329320"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1329325"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtttaaccaaGGTGGGgactcGTG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014250"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002294"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4455771"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4455776"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "agattaaaaaAGGATAgtgacgtATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014251"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000919"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-16"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1896913"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1896918"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtccagtcacCTTGTCaggagtattatcGTG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014252"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001766"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4051334"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4051339"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aacggctaaaAGACGAaccattATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014253"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003524"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1813670"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1813675"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tatgcgtttaGTGAAGccagtAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014254"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002342"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-4"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3578728"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3578733"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tttgtaccttCAGGACGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014255"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002341"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3577600"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3577605"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tcttgtattgTGGGGGcaccacTTT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014256"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002343"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3577068"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3577073"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tattaaaaaaGGCAAAtaagtAGT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014257"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004317"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-6"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4105811"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4105816"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "agattttgggAGCAAAtgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014258"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004104"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3126530"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3126535"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttccctgaacTGGAGCgtttctGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014259"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002572"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3125466"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3125471"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gcggaactttGAGGAGcaggcTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014260"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004103"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3124238"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3124243"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gcccttgaaaAGGAATaacaaAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014261"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002441"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3123814"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3123819"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "taagcgaaaaCGAGGAgataaacAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014262"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001086"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-15"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "441356"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "441361"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gaaaaatattGAGAGTcagacattcatTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014263"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000501"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "441110"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "441115"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cccttttacaCCGGACaatgagtAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014264"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000362"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "141233"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "141238"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "atgaattgaaATGGTGtctcttTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014265"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002443"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "141420"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "141425"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "taaatcatatGGTTAGagatATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014266"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004293"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3558086"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3558091"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acaacgaaaaGAGAAAaacaaAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014267"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002224"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3558255"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3558260"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtcttttataAGGATAtctaagATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014268"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002090"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-6"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4467250"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4467255"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cacgttacagGACAACagGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014269"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000722"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1190455"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1190460"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aattaagacaGGGAGAaataaaAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014270"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000720"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "260106"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "260111"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "taattaaaatCAGGAAtgaaAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014271"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001385"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "358696"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "358701"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ggatttacttATAGGTtgcgAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014272"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000787"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "552599"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "552604"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ccggacccgcGAGGTGcggCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014273"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000693"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "953560"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "953565"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acttaagaagGTAGGTgttaCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014274"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001051"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "813513"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "813518"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "caactccttcAGGTAGcgactcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014275"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001351"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "638931"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "638936"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tcgaaaacacGGAGGAagtatagATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014276"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000784"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-14"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "553112"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "553117"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttgtgcaccaCAGGAGttttaagacgCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014277"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001024"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "432022"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "432027"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ggattttcaaACAGTGgcatacaTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014278"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000163"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "629881"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "629886"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gacacgcacaCGGATAacaactATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014279"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000387"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3562001"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3562006"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acgaaagtgaATGAGGgcagcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014280"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000578"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4132605"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4132610"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "agcgattgatGAGGTAaggtATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014281"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000834"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4097724"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4097729"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tgacgacatcAGGAGGccagtATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014282"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000833"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4098636"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4098641"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tctggccgagGTAGCCacgGTG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014283"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000026"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2310410"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2310415"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ccttaaccagGGAGCTgatTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014284"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000610"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3305824"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3305829"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttttcactggAGAGAAgccctCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014285"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000052"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-6"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2982186"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2982191"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tctctgctggCAGGAAaaAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014286"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000358"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2241674"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2241679"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "atctcataacAGGTAGtgaaTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014287"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000586"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2240353"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2240358"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "taagaaaaacCGGAGAtacCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014288"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000557"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1700945"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1700950"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtccaggcatAAGGATaagatATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014289"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002173"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3756518"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3756523"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ctcacaccgcAAGGAGacgatCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014290"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000181"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2876335"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2876340"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cggtattgcaAAGGAAcggtTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014291"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000280"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-6"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4516681"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4516686"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aaatgatgatGGGGAAggTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014292"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000476"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2850637"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2850642"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "atagttaatgGGAGGCgatATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014293"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000477"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2850989"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2850994"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gaaatagaccAGGAGTgagcgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014294"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000479"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2852124"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2852129"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gttgtatggcGAGGAAaaataATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014295"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000636"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1275836"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1275841"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acagacgtccAAGGAGataccCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014296"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000389"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4118097"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4118102"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "attaactcttCAGGATccgatTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014297"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000544"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2979009"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2979014"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ccggattgcgAGAGAGcgctaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014298"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000401"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2685514"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2685519"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttagctgagtCAGGAGatgcgGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014299"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000725"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3911531"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3911536"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tgaatcctccCAGGAGacatTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014300"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002029"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4466185"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4466190"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtcatctgccATGGGGcttTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014301"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000546"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4354724"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4354729"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "agctggatttAGAGGAaccaaAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014302"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000464"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1035759"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1035764"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ataagtaacaAGGAGCgttcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014303"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000465"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1036342"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1036347"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gatgacacagGAGGAGcagggATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014304"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001673"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1084980"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1084985"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cagtcactatGGAGATcgcggATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014305"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000736"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1676367"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1676372"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cgcaaaaattAAGGGGtaacaTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014306"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000735"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1677909"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1677914"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aaaccgatggAAGGGAatatCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014307"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003611"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-298"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1958966"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1958971"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aggagtaaaaATGGCAttactggaaatttgctgttacagcatggaatgtgcactaacggcgcagcaaaacggcgcagacagagttgaattatgcgcagccccaaaagaggggggcttaacgccgtcgttgggtgtactgaaatccgtgcgccagcgggtgacgatccctgtgcatccgataattcgcccacgcggtggtgatttttgctacagcgacggtgagtttgccgccattcttgaggatgtgcgcacggtccgcgaattaggttttcctggactggtgacgggcgttctcgatgttgacGGG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014308"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000832"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2003860"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2003865"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cgaaagataaAAGGAAatcgcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014309"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001355"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2005291"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2005296"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "atattcatcgGGAGACaggtcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014310"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001988"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2405078"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2405083"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gctacttttgATGAGTaagcAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014311"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004462"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2524884"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2524889"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ccctacagaaAAAGGAtatgTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014312"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002032"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2658942"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2658947"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttttaatttcTGGAAGctaaaCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014313"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000153"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2734178"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2734183"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gatccgttatGGGAGGagtTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014314"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001717"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2756147"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2756152"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ctaaacgcagGGAGACtccccATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014315"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000295"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2854327"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2854332"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tgctttcctgGAAGAAcaaaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014316"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002015"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-7"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2868758"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2868763"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "caatttttccTGGGGGataAAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014317"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001307"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3090336"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3090341"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gttttaacacGGAGTAagtgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014318"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004105"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3128028"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3128033"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cacaacaaagCGAAGCctactCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014319"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004106"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3128260"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3128265"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acctgtgcacGAGGTCcgggaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014320"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001349"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3191946"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3191951"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gcgataaccgGAGGATgtgctTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014321"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001551"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3200971"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3200976"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cataaccgatAAGTAAaggcCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014322"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001624"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3346161"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3346166"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ccaaccgataAGGAAGacactATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014323"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001625"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3346566"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3346571"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ggcaggttctTAGGTGaaattATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014324"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002047"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3347955"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3347960"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acgctggaaaAACGTAaaccATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014325"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000583"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4129823"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4129828"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ggctgcaaacAAGGGGtaaaaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014326"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000039"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4436743"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4436748"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tcacagagacGAGGTGgagaaATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014327"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001196"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4635510"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4635515"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tagataaaaaTGGTAAcaatATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014328"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001197"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-8"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4635996"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4636001"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ggcaataacaGAGGCGatttATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014329"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000141"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-9"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4638166"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4638171"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gccattgcaaAGGAGAagactATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014330"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000504"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-13"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4133819"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4133824"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "taacactgtaGAGGGGagcacattgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014331"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000574"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-12"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4214265"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4214270"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cgtatgtagtGAGGTAatcaggttATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014332"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000653"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-13"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2344849"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2344854"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aattccaaaaACAGGTacgacatacATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014333"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000789"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2621184"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2621189"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtaacgcgtgGGGACCcaagcaGTG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014334"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001029"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4267100"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4267105"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ccgtaaacctGGAGAAccatcgcGTG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014335"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000156"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4436574"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4436579"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cccgatgataAAAGGAtgtccctGAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014336"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000556"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1699342"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1699347"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gttctctacgAGGAGTcgttttATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014337"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000478"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2851851"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2851856"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tgaactggctGGAGACacagcgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014338"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000480"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2853283"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2853288"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ccacggtagcGGCGGCcaggcgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014339"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000350"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4347335"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4347340"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "atacagagttACAGGCtggaagcTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014340"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001729"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-12"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2942577"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2942582"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "catttaacatCAAAGTttaatagcCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014341"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000391"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4117230"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4117235"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "atatgactacGGGACAattaaaCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014342"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000533"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-12"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3597570"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3597575"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "acatcacgaaTGGGGAtttttgacTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014343"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000531"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3596412"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3596417"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gggcgggtttAGAAAGgttacctTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014344"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000534"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-13"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3595491"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3595496"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ctgggtcgccCGGAGGtagagaaagTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014345"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000530"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-13"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3594217"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3594222"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aacggcgcagCGAAAGgagagcaggCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "166"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014346"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000644"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2250827"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2250832"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "cgggtttaacAGGAGTcctcgcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "167"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014347"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000576"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "3152223"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "3152228"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtataaaaacAGGAATcccgacATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "168"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014348"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000947"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4277392"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4277397"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tgaacactgaAAAGAGgcagattTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "169"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014349"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000286"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "4517725"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "4517730"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ctgttccgtcTGGAGTatgggtTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "170"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014350"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000639"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1277626"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1277631"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aaagcctgaaGGAAGAggtttaCAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "171"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014351"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000461"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-15"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1032121"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1032126"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gtgtcgcaagGAGGAGagacgtgcgatATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "172"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014352"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000462"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-12"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1033239"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1033244"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gccaggcaatGAGGATaaacaggcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "173"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014353"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000463"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1035053"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1035058"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "ttaacagcgaAGGAGAatcatcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "174"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014354"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000466"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1036735"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1036740"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "gaaccgcagcAGGAGCgtgcctcATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "175"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014355"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000793"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "1079292"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "1079297"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aataatttttTGGAGActttagATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "176"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014356"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001356"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2005699"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2005704"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tctttgattcAGGACCcagtctgATG"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "177"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014357"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002026"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2406650"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2406655"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "tgagccgccaGTAAGTgataataTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "178"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014358"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001130"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-11"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2522486"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2522491"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "atttattataTGGAGCacttaatTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "179"
+                },
+                "SHINE_DALGARNO_ID": {
+                    "_text": "ECK120014359"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002428"
+                },
+                "SHINE_DALGARNO_DIST_GENE": {
+                    "_text": "-10"
+                },
+                "SHINE_DALGARNO_POSLEFT": {
+                    "_text": "2523993"
+                },
+                "SHINE_DALGARNO_POSRIGHT": {
+                    "_text": "2523998"
+                },
+                "SHINE_DALGARNO_SEQUENCE": {
+                    "_text": "aatgatgcgaCAAGGAaacgatTAT"
+                },
+                "SHINE_DALGARNO_NOTE": {},
+                "SD_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            }
+        ]
+    }
+}

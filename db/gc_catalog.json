@@ -1,0 +1,4273 @@
+{
+    "_comment": [
+        " Table: GC_CATALOG",
+        " Columns: ",
+        " 1) GC_ID",
+        " 2) GC_NAME",
+        " 3) GC_DESCRIPTION"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003344"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| L broth| fumarate 50 mM; glycerol 0.4%"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003345"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| L broth| fumarate 50 mM; glycerol 0.4%| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003348"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| 0.1 MPa"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003349"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| maltose 0.2%| 0.1 MPa"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003356"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| L broth| glucose 11 mM| OD650 of 0.4"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003389"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| acetate 4 g/L| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003390"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| glucose 4 g/L| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003392"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| arcA knockout mutant| L broth| glucose 11 mM| OD650 of 0.4"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003397"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003398"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| paraquat 0.25 mM| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003405"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| maltose 0.2%| 10 to 40 MPa"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003408"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pGS623 (pdhR-lpd) mutant| L broth| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003409"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pGS623 (pdhR-lpd) mutant| L broth| glucose 10 mM| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003420"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| protox assay"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003421"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| chenodeoxycholate; protox assay"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003422"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| deoxycholate; protox assay"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003423"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| glycocholate; protox assay"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003424"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| protox assay; ursodeoxycholate"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003425"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sodium salicylate 5 mM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003627"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| TGYEP| nickel chloride 5 µM; sodium molybdate 1 µM; sodium selenite 1 µM| pH 6.5| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003628"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| TGYEP| nickel chloride 5 µM; sodium formate 30 mM; sodium molybdate 1 µM; sodium selenite 1 µM| pH 6.5| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003653"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| fhlA knockout mutant; plasmid pSU2719 mutant| TGYEP| nickel chloride 5 µM; sodium molybdate 1 µM; sodium selenite 1 µM| pH 6.5| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003654"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| fhlA knockout mutant; plasmid pSKOG (K. oxytoca hydG) mutant| TGYEP| nickel chloride 5 µM; sodium molybdate 1 µM; sodium selenite 1 µM| pH 6.5| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003725"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| paraquat 500 µM; sodium salicylate 5 mM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003741"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; λ(soxR)| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003742"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; λ(soxR)| paraquat 0.25 mM| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "GC_ID": {
+                    "_text": "MCO000003743"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; λ(truncated soxR)| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007299"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| chloroacetic acid| OD650 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007300"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| L broth| fumarate 50 mM; glycerol 0.4%| oxygen atom| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007301"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| yiaJ knockout mutant| chloroacetic acid| OD650 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007302"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007303"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007304"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007305"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| ATP; CTP 800 µM; GTP 800 µM; UTP 800 µM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007306"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| ATP; CTP 800 µM; GTP 800 µM; UTP 50 µM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007307"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pBA11 (birA) mutant; C-T transition at nt -10 from bioA translational start site| M56 medium| T-broth 0.02%"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007308"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pBA11 (birA) mutant; C-T transition at nt -10 from bioA translational start site| M56 medium| T-broth 0.02%; biotin 4 µM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007309"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| chloroacetic acid| oxygen atom| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007310"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| chloroacetic acid| L-ascorbate 60 mM| oxygen atom| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007311"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| chloroacetic acid| L-fucose 60 mM| oxygen atom| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007312"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| chloroacetic acid| glucose 60 mM| oxygen atom| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007313"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| yiaJ knockout mutant| chloroacetic acid| oxygen atom| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007314"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| copper(II) sulfate 3 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007315"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant| copper(II) sulfate 3 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007316"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| copper(II) sulfate 3 mM| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007317"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| L broth| oxygen atom| OD650 of 0.8"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007318"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| L broth| pyruvate 40 mM| OD650 of 0.8"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007319"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| pdhR knockout mutant| L broth| pyruvate 40 mM| OD650 of 0.8"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007320"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| L broth| OD650 of 0.8"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007321"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| pdhR knockout mutant; multicopy plasmid pGS613 (pdhR) mutant| L broth| OD650 of 0.8"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007322"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007323"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| crp knockout mutant| LB medium"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007324"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| cyaA knockout mutant| LB medium"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007325"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| relA knockout mutant; spoT knockout mutant| LB medium"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007326"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB broth| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007327"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB broth| paraquat 0.25 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007328"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant| LB broth| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007329"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSE380 mutant| LB broth| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007330"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSE380 mutant| LB broth| paraquat 0.25 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007331"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant| LB broth| paraquat 0.25 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007332"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 28.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007333"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| LB medium| 28.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007334"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 28.0 C| OD600 of 0.4"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007335"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium; conditioned culture medium| 28.0 C| OD600 of 0.4"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007336"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 28.0 C| mid to late exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007337"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| conditioned culture medium| 28.0 C| mid to late exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007338"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 28.0 C| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007339"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 28.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007340"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007341"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| homoserine lactone 10 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007342"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| sodium arsenite 50 µM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007343"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 37.0 C| OD600 from 0.4 to 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007344"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| acetate 0.4%| 37.0 C| OD600 from 0.4 to 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007345"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| casamino acids 0.4%; glucose 0.4%| 37.0 C| OD600 from 0.4 to 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007346"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| glycerol 0.4%| 37.0 C| OD600 from 0.4 to 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007347"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| casamino acids 0.4%; glycerol 0.4%| 37.0 C| OD600 from 0.4 to 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007348"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 37.0 C| OD600 of 0.3"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007349"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| paraquat 0.5 mM| 37.0 C| OD600 of 0.3"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007350"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 37.0 C| early stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007351"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| LB medium| 37.0 C| early stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007352"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007353"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007354"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| crp knockout mutant; lrp knockout mutant| LB medium| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007355"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| crp knockout mutant| LB medium| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007356"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| cyaA knockout mutant| LB medium| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007357"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 37.0 C| mid to late exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007358"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| conditioned culture medium| 37.0 C| mid to late exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007359"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant| LB medium| 37.0 C| mid to late exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007360"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| iron(2+) sulfate (anhydrous) 20 µM; sodium citrate 10 mM| early exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007361"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| 2,2’-bipyridine 200 µM| early exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007362"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| hydrogen peroxide 100 µM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007363"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| oxyR knockout mutant| LB medium| hydrogen peroxide 100 µM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007364"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007365"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| CCCP 10 µM| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007366"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| DNP 0.5 mM| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007367"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| tetrachlorosalicylanilide 10 µM| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007368"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| ethidium bromide 250 µM| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007369"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| nalidixic acid 160 µM| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007370"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| salicylate 5 mM| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007371"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| ZnCl2 1 mM; glucose 0.4%| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007372"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| hydG knockout mutant| LB medium| ZnCl2 1 mM; glucose 0.4%| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007373"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| hydH knockout mutant| LB medium| ZnCl2 1 mM; glucose 0.4%| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007374"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| glucose 0.4%| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007375"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| cadmium dichloride 0.5 mM; glucose 0.4%| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007376"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| PbCl2 1 mM; glucose 0.4%| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007377"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| ZnCl2 0.2 to 1 mM; glucose 0.4%| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007378"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| glucose 0.5%"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007379"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| glucose 10 mM; thiamine 5 µg/mL| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007380"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| glucose 10 mM; thiamine 5 µg/mL| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007381"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| glucose 2 mg/mL| 37.0 C| OD600 of 0.3"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007382"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| glucose 2 mg/mL; paraquat 0.5 mM| 37.0 C| OD600 of 0.3"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007383"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| glucose| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007384"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007385"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| pH 7.0| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007386"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| himA knockout mutant| LB medium| pH 7.0| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007387"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| LB medium| pH 7.0| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007388"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| himA knockout mutant| LB medium| pH 7.0| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007389"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| Luria broth| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007390"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| Luria broth| Cd(II) 1 to 100 µM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007391"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| Luria broth| Hg(II) 1 to 10 µM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007392"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| Luria broth| Pb(II) 0.5 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007393"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| Luria broth| Zn(II) 1.1 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007394"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| Luria broth| Zn(II) 1 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007395"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| zntR knockout mutant| Luria broth| Zn(II) 1 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007396"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| glucose 0.4%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007397"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| hydrogen peroxide 120 µM; glucose 0.4%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007398"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| glucose 0.4%; sodium chloride 0.35 M| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007399"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| casamino acids 0.05%; glucose 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007400"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| casamino acids 0.05%; fumarate 50 mM; glucose 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007401"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| casamino acids 0.05%; fumarate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007402"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| fumarate 50 mM; glucose 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007403"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| crp knockout mutant| M9 minimal medium| fumarate 50 mM; glucose 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007404"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| M9 minimal medium| glucose 0.4%; sodium chloride 0.35 M| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007405"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007406"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; aspartate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007407"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; fumarate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007408"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; glycerol 0.4%; malate 50 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007409"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; glycerol 0.4%; maleate 50 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007410"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; glycerol 0.4%; succinate 50 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007411"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; casamino acids 0.05%; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007412"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; casamino acids 0.05%; fumarate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007413"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; casamino acids 0.05%; fumarate 50 mM; glycerol 0.4%; nitrate| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007414"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| narL knockout mutant| M9 minimal medium| TMAO 50 mM; casamino acids 0.05%; fumarate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007415"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| fnr knockout mutant| M9 minimal medium| TMAO 50 mM; casamino acids 0.05%; fumarate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007416"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; casamino acids 0.05%; glycerol 0.4%| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007417"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| casamino acids 0.05%; glycerol 0.4%; nitrate 50 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007418"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| casamino acids 0.05%; fumarate 50 mM; glycerol 0.4%| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007419"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| casamino acids 0.05%; glycerol 0.4%; nitrate 50 mM| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007420"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| TMAO 50 mM; casamino acids 0.5%; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007421"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| fumarate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007422"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| arcA knockout mutant| M9 minimal medium| fumarate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007423"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| crp knockout mutant| M9 minimal medium| fumarate 50 mM; glycerol 0.4%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007424"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| fumarate 50 mM; glycerol 0.4%| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007425"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| arcA knockout mutant| M9 minimal medium| fumarate 50 mM; glycerol 0.4%| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007426"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007427"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| copper(II) sulfate 3 mM| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007428"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| paraquat 50 µM| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007429"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| pH 7.0| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007430"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| relA knockout mutant; spoT knockout mutant| M9 minimal medium| pH 7.0| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007431"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| glucose 0.5%; thiamine 10 µg/mL| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007432"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| succinate 0.5%; thiamine 10 µg/mL| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007433"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| succinate 0.5%; thiamine 10 µg/mL; tyramine 3 mM| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007434"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| M9 minimal medium| glucose 0.5%; thiamine 10 µg/mL; tyramine 3 mM| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007435"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| D-xylose 120 µM; L-glutamine 0.2%| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007436"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| D-xylose 120 µM; L-glutamine 0.2%; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "166"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007437"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| D-xylose 120 µM; allantoin 60 mM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "167"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007438"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| D-xylose 120 µM; allantoin| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "168"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007439"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allS knockout mutant| minimal medium| D-xylose 120 µM; L-glutamine 0.2%; allantoin| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "169"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007440"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| D-xylose 120 µM; ammonium sulfate 0.5 mM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "170"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007441"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| D-xylose 120 µM; ammonium sulfate 0.5 mM; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "171"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007442"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| D-xylose 120 µM; ammonium sulfate 20 mM; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "172"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007443"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allS knockout mutant| minimal medium| D-xylose 120 µM; ammonium sulfate 20 mM; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "173"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007444"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| D-xylose 120 µM; ammonium sulfate 20 mM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "174"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007445"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| amino acids 50 µg; glucose 0.2%; thiamine 1 µg/mL| 32.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "175"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007446"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| amino acids 50 µg; glucose 0.2%; methionine 200 µg/mL; thiamine 1 µg/mL| 32.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "176"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007447"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glucose 0.4%| 37.0 C| early to mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "177"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007448"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| cAMP 1 mM; glucose 0.4%| 37.0 C| early to mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "178"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007449"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glucose 0.4%; leucine 0.76 mM| 37.0 C| early to mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "179"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007450"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glucose 0.4%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "180"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007451"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glucose 0.4%; vitamin assay casamino acids 0.5%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "181"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007452"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glycerol 1%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "182"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007453"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| crp knockout mutant| minimal medium| glucose 0.4%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "183"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007454"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| lrp knockout mutant| minimal medium| glucose 0.4%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "184"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007455"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| crp knockout mutant; lrp knockout mutant| minimal medium| glucose 0.4%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "185"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007456"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "186"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007457"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| minimal medium| casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "187"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007458"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| acetate 50 mM; casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| pH 6.5| oxygen atom"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "188"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007459"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| minimal medium| acetate 50 mM; casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| pH 6.5| oxygen atom"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "189"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007460"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| oxygen atom"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "190"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007461"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| methyl methanesulfonate 0.05%; casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| oxygen atom"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "191"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007462"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| minimal medium| casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| oxygen atom"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "192"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007463"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| oxygen atom| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "193"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007464"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "194"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007465"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| oxygen atom| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "195"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007466"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glucose 11 mM| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "196"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007467"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| pdhR knockout mutant| minimal medium| glucose 11 mM| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "197"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007468"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glucose 2%| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "198"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007469"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| sodium acetate 2%| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "199"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007470"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glucose| 37.0 C| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "200"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007471"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| glucose; novobiocin 12.5 µg/mL| 37.0 C| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "201"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007472"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| pyruvate 40 mM| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "202"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007473"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| pdhR knockout mutant| minimal medium| pyruvate 40 mM| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "203"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007474"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| succinate 40 mM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "204"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007475"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| minimal medium| pyruvate 40 mM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "205"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007476"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "206"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007477"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| acetate 0.009%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "207"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007478"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| glucose 0.05%| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "208"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007479"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| N-acetylglucosamine| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "209"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007480"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| N-acetyl-D-mannosamine| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "210"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007481"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| N-acetyl-D-mannosamine| 30.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "211"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007482"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| acetate 4 g/L; rifampicin 500 µg/mL| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "212"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007483"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| amino acids 50 µg; glucose 0.2%; thiamine 1 µg/mL| 32.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "213"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007484"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| amino acids 50 µg; cadmium dichloride 600 µM; glucose 0.2%; thiamine 1 µg/mL| 32.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "214"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007485"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| glucose 4 g/L; rifampicin 500 µg/mL| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "215"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007486"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| glucose| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "216"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007487"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| S-nitrosoglutathione 50 µM; glucose| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "217"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007488"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| S-nitrosoglutathione 50 µM; glucose; homocysteine 1 mM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "218"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007489"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metR knockout mutant| MOPS| S-nitrosoglutathione 50 µM; glucose| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "219"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007490"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| glucose| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "220"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007491"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| glucose; homocysteine 1 mM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "221"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007492"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| glucose; sodium nitroprusside 50 µM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "222"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007493"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metC knockout mutant| MOPS| glucose| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "223"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007494"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metE knockout mutant| MOPS| glucose| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "224"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007495"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metR knockout mutant| MOPS| glucose| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "225"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007496"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MOPS| glucose; homocysteine 1 mM; sodium nitroprusside 50 µM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "226"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007497"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metR knockout mutant| MOPS| glucose; sodium nitroprusside 50 µM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "227"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007498"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MacConkey agar| (NH4)2Fe(SO4)2 30 µM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "228"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007499"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MacConkey agar| (NH4)2Fe(SO4)2 30 µM; 2,2’-bipyridine 20 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "229"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007500"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| MacConkey agar| (NH4)2Fe(SO4)2 30 µM; desferrioxamine B mesylate 20 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "230"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007501"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| N-C- medium| ammonium chloride 10 mM; arginine 1 mM; glucose 0.4%; thiamine hydrochloride 0.015 mM; uracil 1 mM| 37.0 C| OD650 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "231"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007502"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| N-C- medium| ammonium chloride 10 mM; UMP 0.25 mM; arginine 1 mM; glucose 0.4%; thiamine hydrochloride 0.015 mM| 37.0 C| OD650 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "232"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007503"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| TGYEP| nickel chloride 5 µM; sodium molybdate 1 µM; sodium selenite 1 µM| pH 6.5| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "233"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007504"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| TGYEP| nickel chloride 5 µM; sodium formate 30 mM; sodium molybdate 1 µM; sodium selenite 1 µM| pH 6.5| oxygen atom| OD600 from 0.4 to 0.6"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "234"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007505"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant; plasmid pUBAD::rpoS (arabinose-induced rpoS) mutant| minimal medium| acetate 50 mM; casamino acids 0.2%; glucose 0.4%; thiamine 0.2 µg/mL| pH 6.5| oxygen atom"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "235"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007506"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allR knockout mutant| minimal medium| D-xylose 120 µM; ammonium sulfate 20 mM; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "236"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007507"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allR knockout mutant| minimal medium| D-xylose 120 µM; L-glutamine 0.2%; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "237"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007508"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allR knockout mutant| minimal medium| D-xylose 120 µM; ammonium sulfate 0.5 mM; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "238"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007509"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allR knockout mutant| minimal medium| D-xylose 120 µM; ammonium sulfate 20 mM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "239"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007510"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allR knockout mutant| minimal medium| D-xylose 120 µM; L-glutamine 0.2%| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "240"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007511"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allR knockout mutant| minimal medium| D-xylose 120 µM; allantoin 60 mM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "241"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007512"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allR knockout mutant| minimal medium| D-xylose 120 µM; ammonium sulfate 0.5 mM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "242"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007513"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allS knockout mutant| minimal medium| D-xylose 120 µM; L-glutamine zwitterion| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "243"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007514"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allS knockout mutant| minimal medium| D-xylose 120 µM; L-glutamine zwitterion; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "244"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007515"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allS knockout mutant| minimal medium| D-xylose 120 µM; ammonium sulfate 0.5 mM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "245"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007516"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allS knockout mutant| minimal medium| D-xylose 120 µM; ammonium sulfate 0.5 mM; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "246"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007517"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allS knockout mutant| minimal medium| D-xylose 120 µM; L-glutamine 0.2%; glyoxylate| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "247"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007518"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| allS knockout mutant| minimal medium| D-xylose 120 µM; ammonium sulfate 20 mM| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "248"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007519"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| arcA knockout mutant; multicopy plasmid pRB38 (arcA) mutant| L broth| glucose 11 mM| OD650 of 0.4"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "249"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007520"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| conditioned culture medium| tryptone 10 g/L; yeast extract 5 g/L| 37.0 C| mid to late exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "250"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007521"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant| conditioned culture medium| tryptone 10 g/L; yeast extract 5 g/L| 37.0 C| mid to late exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "251"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007522"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| ethyl acetate extract of LB| 37.0 C| OD600 of 1.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "252"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007523"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| ethyl acetate extract of conditioned medium| 37.0 C| OD600 of 1.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "253"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007524"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| fnr knockout mutant| M9 minimal medium| TMAO 50 mM; casamino acids 0.05%; fumarate 50 mM; glycerol 0.4%| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "254"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007525"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| ihfB knockout mutant| minimal medium| glucose 2%| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "255"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007526"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| ihfB knockout mutant| minimal medium| sodium acetate 2%| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "256"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007527"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| iclR knockout mutant; ihfB knockout mutant| minimal medium| sodium acetate 2%| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "257"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007528"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| lrp knockout mutant| LB medium| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "258"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007529"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| marA knockout mutant; marB knockout mutant; marR knockout mutant"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "259"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007530"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| marA knockout mutant; marB knockout mutant; marR knockout mutant| sodium salicylate 5 mM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "260"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007531"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metC knockout mutant| MOPS| S-nitrosoglutathione 50 µM; glucose| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "261"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007532"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metC knockout mutant| MOPS| S-nitrosoglutathione 50 µM; glucose; homocysteine 1 mM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "262"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007533"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metC knockout mutant| MOPS| glucose; homocysteine 1 mM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "263"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007534"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metC knockout mutant| MOPS| glucose; sodium nitroprusside 50 µM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "264"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007535"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metC knockout mutant| MOPS| glucose; homocysteine 1 mM; sodium nitroprusside 50 µM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "265"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007536"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metE knockout mutant| MOPS| S-nitrosoglutathione 50 µM; glucose| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "266"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007537"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metE knockout mutant| MOPS| S-nitrosoglutathione 50 µM; glucose; homocysteine 1 mM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "267"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007538"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metE knockout mutant| MOPS| glucose; homocysteine 1 mM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "268"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007539"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metE knockout mutant| MOPS| glucose; sodium nitroprusside 50 µM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "269"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007540"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| metE knockout mutant| MOPS| glucose; homocysteine 1 mM; sodium nitroprusside 50 µM| pH 7.0| 37.0 C| OD600 below 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "270"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007541"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pAMC35 (pexB) mutant| LB medium| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "271"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007542"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant; multicopy plasmid pAMC35 (pexB) mutant| LB medium| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "272"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007543"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pAMC35 (pexB) mutant| minimal medium| glucose| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "273"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007544"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant; multicopy plasmid pAMC35 (pexB) mutant| minimal medium| glucose| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "274"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007545"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pDEL15 (maoB) mutant| M9 minimal medium| glucose 0.5%; thiamine 10 µg/mL| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "275"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007546"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pDEL15 (maoB) mutant| M9 minimal medium| glucose 0.5%; thiamine 10 µg/mL; tyramine 3 mM| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "276"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007547"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| multicopy plasmid pGS623 (pdhR-lpd) mutant| L broth| pyruvate 40 mM| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "277"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007548"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| narL knockout mutant| M9 minimal medium| TMAO 50 mM; casamino acids 0.05%; fumarate 50 mM; glycerol 0.4%; nitrate| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "278"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007549"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| nrdA knockout mutant; nrdB knockout mutant| rich medium| oxygen atom| 37.0 C| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "279"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007550"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| pH 7.0| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "280"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007551"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| pH 7.0| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "281"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007552"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| paraquat 50 µM| oxygen atom| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "282"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007553"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| paraquat 50 µM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "283"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007554"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| pdhR knockout mutant; multicopy plasmid pGS613 (pdhR) mutant| minimal medium| glucose 11 mM| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "284"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007555"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| pdhR knockout mutant; multicopy plasmid pGS613 (pdhR) mutant| minimal medium| pyruvate 40 mM| OD650 of 0.2"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "285"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007556"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| pdhR knockout mutant; multicopy plasmid pGS613 (pdhR) mutant| L broth| pyruvate 40 mM| OD650 of 0.8"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "286"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007557"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| plasmid pALS13 (not induced truncated relA) mutant| LB medium| 37.0 C| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "287"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007558"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| plasmid pALS13 (IPTG-induced truncated relA) mutant| LB medium| 37.0 C| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "288"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007559"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| plasmid pBAD/Myc-HisA mutant| LB medium| 37.0 C| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "289"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007560"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| plasmid pBADBaeR (arabinose-induced baeR) mutant| LB medium| 37.0 C| mid exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "290"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007561"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| plasmid pRL48 (from nt -1398 to nt +70 relative to rpoS translational start site) mutant| LB medium| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "291"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007562"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| plasmid pRL48 (from nt -1398 to nt +70 relative to rpoS translational start site) mutant| LB medium| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "292"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007563"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| poor medium| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "293"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007564"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| poor medium| sodium nitrate 20 mM| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "294"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007565"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| poor medium| sodium nitrite 2.5 mM| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "295"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007566"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| cra knockout mutant| poor medium| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "296"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007567"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| cra knockout mutant| poor medium| sodium nitrate 20 mM| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "297"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007568"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| cra knockout mutant| poor medium| sodium nitrite 2.5 mM| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "298"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007569"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rich medium| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "299"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007570"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rich medium| sodium nitrate 20 mM| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "300"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007571"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rich medium| sodium nitrite 2.5 mM| 37.0 C| OD650 from 0.5 to 0.7"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "301"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007572"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rich medium| hydroxyurea 50 mM| oxygen atom| 37.0 C| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "302"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007573"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rich medium| oxygen atom| 37.0 C| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "303"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007574"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rich medium| pH 7.0| dioxygen 10 µM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "304"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007575"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rich medium| pH 7.0| dioxygen <10 µM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "305"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007576"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rich medium| pH 7.0| dioxygen > 10 µM"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "306"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007577"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| LE392 conditioned medium| 28.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "307"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007578"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| LB medium| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "308"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007579"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| LB medium| 37.0 C| stationary phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "309"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007580"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| M9 minimal medium| glucose 0.4%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "310"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007581"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| rpoS knockout mutant| M9 minimal medium| hydrogen peroxide 120 µM; glucose 0.4%| 37.0 C| exponential phase"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "311"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007582"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant| LB medium| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "312"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007583"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant| conditioned culture medium| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "313"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007584"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant; plasmid pCX16 (sdiA) mutant| LB medium| 28.0 C| OD600 of 0.65"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "314"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007585"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant; plasmid pCX16 (sdiA) mutant| LB medium| N-Decanoyl-DL-homoserine lactone 1 µM| 28.0 C| OD600 of 0.65"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "315"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007586"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant; plasmid pCX16 (sdiA) mutant| LB medium| N-(3-oxohexanoyl)-L-homoserine lactone 1 µM| 28.0 C| OD600 of 0.65"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "316"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007587"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant; plasmid pCX16 (sdiA) mutant| LB medium| V. harveyi autoinducer 1 µM| 28.0 C| OD600 of 0.65"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "317"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007588"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| sdiA knockout mutant; plasmid pGB2 mutant| LB medium| 28.0 C| OD600 of 0.65"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "318"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007589"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant| LB medium| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "319"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007590"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXR (IPTG-induced soxR) mutant| LB medium| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "320"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007591"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXR (IPTG-induced soxR) mutant| LB medium| 2,2'-bipyridine 150 μm| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "321"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007592"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXR (not induced soxR) mutant| LB medium| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "322"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007593"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXR (not induced soxR) mutant| LB medium| 2,2'-bipyridine 150 μm| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "323"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007594"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXR (IPTG-induced soxR) mutant| LB broth| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "324"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007595"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXR (IPTG-induced soxR) mutant| LB broth| paraquat 0.25 mM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "325"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007596"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSE380 mutant| LB medium| 2,2'-bipyridine 150 μm| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "326"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007597"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXS (IPTG-induced soxS) mutant| LB medium| 2,2'-bipyridine 150 μm| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "327"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007598"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSE380 mutant| LB medium| paraquat 50 µM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "328"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007599"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXS (IPTG-induced soxS) mutant| LB medium| paraquat 50 µM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "329"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007600"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; plasmid pSXR (IPTG-induced soxR) mutant| LB medium| paraquat 50 µM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "330"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007601"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; Φ(soxR)| LB medium| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "331"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007602"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| soxR knockout mutant; soxS knockout mutant; Φ(soxR)| LB medium| paraquat 50 µM| 37.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "332"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007603"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| yiaJ knockout mutant| chloroacetic acid| OD600 of 0.25"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "333"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007604"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| yiaJ knockout mutant| chloroacetic acid| glucose 120 mM| OD600 of 0.25"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "334"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007605"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| yiaJ knockout mutant| chloroacetic acid| cAMP 5 mM; glucose 120 mM| OD600 of 0.25"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "335"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007606"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| yiaJ knockout mutant| chloroacetic acid| glucose 60 mM| oxygen atom| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "336"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007607"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| yiaJ knockout mutant| chloroacetic acid| cAMP 5 mM; glucose 60 mM| oxygen atom| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "337"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007608"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| yiaJ knockout mutant| succinate 60 mM| oxygen atom| OD600 of 0.5"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "338"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007609"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| M9 minimal medium| (NH4)2Fe(SO4)2 30 µM; glucose 0.2%; p-aminobenzoic acid 40 µM; p-hydroxybenzoic acid 40 µM; phenylalanine 0.1 mg/mL; tryptophan; tyrosine 0.1 mg/mL"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "339"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007610"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| M9 minimal medium| (NH4)2Fe(SO4)2 30 µM; N,N,N',N'-tetrakis(2-pyridylmethyl)ethylenediamine 1.5 µM; glucose 0.2%; p-aminobenzoic acid 40 µM; p-hydroxybenzoic acid 40 µM; phenylalanine 0.1 mg/mL; tryptophan; tyrosine 0.1 mg/mL"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "340"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007611"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| M9 minimal medium| (NH4)2Fe(SO4)2 30 µM; zinc sulfate 5 µM; glucose 0.2%; p-aminobenzoic acid 40 µM; p-hydroxybenzoic acid 40 µM; phenylalanine 0.1 mg/mL; tryptophan; tyrosine 0.1 mg/mL"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "341"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007612"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| M9 minimal medium| desferrioxamine B mesylate 5 µM; ferri-desferal 10 µM; glucose 0.2%; p-aminobenzoic acid 40 µM; p-hydroxybenzoic acid 40 µM; phenylalanine 0.1 mg/mL; tryptophan; tyrosine 0.1 mg/mL"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "342"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007613"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| MacConkey agar| (NH4)2Fe(SO4)2 30 µM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "343"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007614"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| MacConkey agar| (NH4)2Fe(SO4)2 30 µM; zinc sulfate 1 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "344"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007615"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| MacConkey agar| (NH4)2Fe(SO4)2 30 µM; desferrioxamine B mesylate 20 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "345"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007616"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| MacConkey agar| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "346"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007617"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| MacConkey agar| (NH4)2Fe(SO4)2 10 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "347"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007618"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| MacConkey agar| EGTA 50 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "348"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007619"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuA knockout mutant| MacConkey agar| MnCl2 1 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "349"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007620"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuB knockout mutant| MacConkey agar| (NH4)2Fe(SO4)2 30 µM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "350"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007621"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuB knockout mutant| MacConkey agar| (NH4)2Fe(SO4)2 30 µM; zinc sulfate 1 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "351"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007622"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuB knockout mutant| MacConkey agar| (NH4)2Fe(SO4)2 30 µM; desferrioxamine B mesylate 20 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "352"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007623"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuB knockout mutant| MacConkey agar| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "353"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007624"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuB knockout mutant| MacConkey agar| (NH4)2Fe(SO4)2 10 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "354"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007625"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuB knockout mutant| MacConkey agar| EGTA 50 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            },
+            {
+                "_attributes": {
+                    "num": "355"
+                },
+                "GC_ID": {
+                    "_text": "MCO000007626"
+                },
+                "GC_NAME": {
+                    "_text": "Escherichia coli| znuB knockout mutant| MacConkey agar| MnCl2 1 mM| 30.0 C"
+                },
+                "GC_DESCRIPTION": {}
+            }
+        ]
+    }
+}

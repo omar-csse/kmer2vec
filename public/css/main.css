@@ -1,0 +1,15 @@
+* {
+    background-color: #eef8ff;
+}
+
+.main-header {
+    color: #2561a1
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 500px;
+}

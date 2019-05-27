@@ -1,0 +1,373 @@
+{
+    "_comment": [
+        " Table: INTERMEDIATE",
+        " Columns: ",
+        " 1) INTERMEDIATE_ID",
+        " 2) INTERMEDIATE_NAME",
+        " 3) INTERMEDIATE_NOTE"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012859"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Tyrosine"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012860"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "RpoS"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012861"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "CpxA"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012862"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "phenylalanine"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012863"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "tryptophan"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012864"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Nitric Oxide"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012865"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "MoeA"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012866"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "sigma 38, AppY"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012867"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Hns, StpA"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012868"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Mlc"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012869"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "DcuR"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012870"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "DcuR, DcuS"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012871"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "ArcB"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012872"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "ppGpp"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012873"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Sigma32"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012874"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "ArcA, AppY"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012875"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "ArcA, BetI"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012876"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Lrp"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012877"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "UDP-glocose"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012878"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Acetyl phosphate"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012879"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "s"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012880"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "F"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012881"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Pyruvate"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012882"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "TorS"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012883"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Fnr, NarP"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012884"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "sigma 54"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012885"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "sigma 24"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012886"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "IHF, ArcA-P"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012887"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "Ferric citrate"
+                },
+                "INTERMEDIATE_NOTE": {}
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "INTERMEDIATE_ID": {
+                    "_text": "GID000012888"
+                },
+                "INTERMEDIATE_NAME": {
+                    "_text": "cya"
+                },
+                "INTERMEDIATE_NOTE": {}
+            }
+        ]
+    }
+}

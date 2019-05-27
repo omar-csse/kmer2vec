@@ -1,0 +1,1203 @@
+{
+    "_comment": [
+        " Table: CHARTS_TMP",
+        " Columns: ",
+        " 1) CHART_NAME",
+        " 2) CHART_TYPE",
+        " 3) CHART_TITLE",
+        " 4) TITLE_X",
+        " 5) TITLE_Y",
+        " 6) OBJECT_NAME",
+        " 7) NUMBER_OPTION",
+        " 8) QUERY_NUMBER",
+        " 9) CHART_ID"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "0"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "0"
+                },
+                "CHART_ID": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma19_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma19 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "2"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "2"
+                },
+                "CHART_ID": {
+                    "_text": "50"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma2470_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma24,Sigma70 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "9"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "9"
+                },
+                "CHART_ID": {
+                    "_text": "57"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma24_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma24 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "3"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "3"
+                },
+                "CHART_ID": {
+                    "_text": "51"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma28_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma28 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "4"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "4"
+                },
+                "CHART_ID": {
+                    "_text": "52"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma32_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma32 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "5"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "5"
+                },
+                "CHART_ID": {
+                    "_text": "53"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma38_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma38 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "6"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "6"
+                },
+                "CHART_ID": {
+                    "_text": "54"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma54_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma54 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "7"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "7"
+                },
+                "CHART_ID": {
+                    "_text": "55"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma7032_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma32,Sigma70 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "10"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "10"
+                },
+                "CHART_ID": {
+                    "_text": "58"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma7038_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma38,Sigma70 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "11"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "11"
+                },
+                "CHART_ID": {
+                    "_text": "59"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma70_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma70 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "8"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "8"
+                },
+                "CHART_ID": {
+                    "_text": "56"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "CHART_NAME": {
+                    "_text": "activator_site_distribution_sigma70__tf_unique_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Activation DNA Binding Sites Distribution In Sigma70 Promoters With TF's Unique"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "22"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "22"
+                },
+                "CHART_ID": {
+                    "_text": "70"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "CHART_NAME": {
+                    "_text": "gene_number_by_sigma_factor_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Genes Regulated by Sigma Factor(s) (Sigmulons)"
+                },
+                "TITLE_X": {
+                    "_text": "Sigma Factor Name"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Genes "
+                },
+                "OBJECT_NAME": {
+                    "_text": "sigma_factor"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "0"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "0"
+                },
+                "CHART_ID": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "CHART_NAME": {
+                    "_text": "gene_number_related_operon_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Genes per Operon"
+                },
+                "TITLE_X": {
+                    "_text": "Number of Genes"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Operons"
+                },
+                "OBJECT_NAME": {
+                    "_text": "operon"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "1"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "1"
+                },
+                "CHART_ID": {
+                    "_text": "11"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "CHART_NAME": {
+                    "_text": "number_of_complex_regulon_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Transcription Factors per Regulons (simple and complex)"
+                },
+                "TITLE_X": {
+                    "_text": "Number of Transcription Factors"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Regulons"
+                },
+                "OBJECT_NAME": {
+                    "_text": "regulon"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "0"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "0"
+                },
+                "CHART_ID": {
+                    "_text": "9"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "CHART_NAME": {
+                    "_text": "promoter_number_by_sigma_factor_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Promoters Associated to Sigma Factor(s)"
+                },
+                "TITLE_X": {
+                    "_text": "Sigma Factor Name"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Promoters"
+                },
+                "OBJECT_NAME": {
+                    "_text": "sigma_factor"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "2"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "2"
+                },
+                "CHART_ID": {
+                    "_text": "17"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "CHART_NAME": {
+                    "_text": "promoter_number_related_operon_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Promoters per Operon"
+                },
+                "TITLE_X": {
+                    "_text": "Number of Promoters "
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Operons"
+                },
+                "OBJECT_NAME": {
+                    "_text": "operon"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "4"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "4"
+                },
+                "CHART_ID": {
+                    "_text": "14"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "CHART_NAME": {
+                    "_text": "protein_number_by_sigma_factor_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Transcription Factors Associated to Sigma Factor(s)"
+                },
+                "TITLE_X": {
+                    "_text": "Sigma Factor Name"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Transcription Factors"
+                },
+                "OBJECT_NAME": {
+                    "_text": "sigma_factor"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "1"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "1"
+                },
+                "CHART_ID": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "1"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "1"
+                },
+                "CHART_ID": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma19_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma19 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "12"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "12"
+                },
+                "CHART_ID": {
+                    "_text": "60"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma24_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma24 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "13"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "13"
+                },
+                "CHART_ID": {
+                    "_text": "67"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma28_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma28 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "14"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "14"
+                },
+                "CHART_ID": {
+                    "_text": "62"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma32_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma32 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "15"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "15"
+                },
+                "CHART_ID": {
+                    "_text": "63"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma38_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma38 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "16"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "16"
+                },
+                "CHART_ID": {
+                    "_text": "64"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma54_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma54 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "17"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "17"
+                },
+                "CHART_ID": {
+                    "_text": "65"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma7024_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma24,Sigma70 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "19"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "19"
+                },
+                "CHART_ID": {
+                    "_text": "72"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma7032_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma32,Sigma70 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "20"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "20"
+                },
+                "CHART_ID": {
+                    "_text": "68"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma7038_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma38,Sigma70 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "21"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "21"
+                },
+                "CHART_ID": {
+                    "_text": "69"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma70_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma70 Promoters"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "18"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "18"
+                },
+                "CHART_ID": {
+                    "_text": "66"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "CHART_NAME": {
+                    "_text": "repressor_site_distribution_sigma70__tf_unique_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Repression DNA Binding Sites Distribution In Sigma70 Promoters With TF's Unique"
+                },
+                "TITLE_X": {
+                    "_text": "Relative Position of DNA Binding Sites (with respect to TSS)"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "OBJECT_NAME": {
+                    "_text": "site_distribution"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "23"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "23"
+                },
+                "CHART_ID": {
+                    "_text": "71"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "CHART_NAME": {
+                    "_text": "sigma_factor_number_related_operon_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Sigma Factor Transcribing Operon"
+                },
+                "TITLE_X": {
+                    "_text": "Number of Sigma Factors"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Operons"
+                },
+                "OBJECT_NAME": {
+                    "_text": "operon"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "2"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "2"
+                },
+                "CHART_ID": {
+                    "_text": "12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "CHART_NAME": {
+                    "_text": "site_number_by_tf_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of DNA Binding Sites per Transcription Factor"
+                },
+                "TITLE_X": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Transcription Factor (s)"
+                },
+                "OBJECT_NAME": {
+                    "_text": "tf"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "0"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "0"
+                },
+                "CHART_ID": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "CHART_NAME": {
+                    "_text": "site_number_related_operon_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of DNA Binding Sites of Transcription Factors per Operon"
+                },
+                "TITLE_X": {
+                    "_text": "Number of DNA Binding Sites"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Operons"
+                },
+                "OBJECT_NAME": {
+                    "_text": "operon"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "3"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "3"
+                },
+                "CHART_ID": {
+                    "_text": "13"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "CHART_NAME": {
+                    "_text": "site_size_by_tf_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Length of DNA Binding Sites per Transcription Factor"
+                },
+                "TITLE_X": {
+                    "_text": "Length of DNA Binding Sites"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Transcription Factor (s)"
+                },
+                "OBJECT_NAME": {
+                    "_text": "tf"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "1"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "1"
+                },
+                "CHART_ID": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "CHART_NAME": {
+                    "_text": "terminator_number_related_operon_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Terminator per Operon"
+                },
+                "TITLE_X": {
+                    "_text": "Number of Terminators"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Operons"
+                },
+                "OBJECT_NAME": {
+                    "_text": "operon"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "6"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "6"
+                },
+                "CHART_ID": {
+                    "_text": "16"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "CHART_NAME": {
+                    "_text": "tf_number_related_operon_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Transcription Factor Regulating Operons"
+                },
+                "TITLE_X": {
+                    "_text": "Number of Transcription Factors"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Operons"
+                },
+                "OBJECT_NAME": {
+                    "_text": "operon"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "5"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "5"
+                },
+                "CHART_ID": {
+                    "_text": "15"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "CHART_NAME": {
+                    "_text": "tu_number_related_operon_X.jpg"
+                },
+                "CHART_TYPE": {
+                    "_text": "bar_chart"
+                },
+                "CHART_TITLE": {
+                    "_text": "Number of Transcription Units  per Operon"
+                },
+                "TITLE_X": {
+                    "_text": "Number of Transcription Units"
+                },
+                "TITLE_Y": {
+                    "_text": "Number of Operons"
+                },
+                "OBJECT_NAME": {
+                    "_text": "operon"
+                },
+                "NUMBER_OPTION": {
+                    "_text": "0"
+                },
+                "QUERY_NUMBER": {
+                    "_text": "0"
+                },
+                "CHART_ID": {
+                    "_text": "10"
+                }
+            }
+        ]
+    }
+}

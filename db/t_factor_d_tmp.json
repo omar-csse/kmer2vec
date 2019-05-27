@@ -1,0 +1,4961 @@
+{
+    "_comment": [
+        " Table: T_FACTOR_D_TMP",
+        " Columns: ",
+        " 1) TF_ID",
+        " 2) T_FACTOR_ID",
+        " 3) T_FACTOR_NAME",
+        " 4) T_FACTOR_SITE_LENGTH",
+        " 5) T_FACTOR_KEY_ID_ORG",
+        " 6) T_FACTOR_SITE_GROUP"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "TF_ID": {
+                    "_text": "1"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015994"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AcrR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "24"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "TF_ID": {
+                    "_text": "2"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012595"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Ada"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "24"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "TF_ID": {
+                    "_text": "3"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120014170"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AdiY"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "TF_ID": {
+                    "_text": "4"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012515"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AgaR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "11"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "TF_ID": {
+                    "_text": "5"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125134683"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AidB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "26"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "TF_ID": {
+                    "_text": "6"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120030264"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AlaS"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "34"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "TF_ID": {
+                    "_text": "7"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015630"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AllR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "TF_ID": {
+                    "_text": "8"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015636"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AllS"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "TF_ID": {
+                    "_text": "9"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012984"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AlpA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "0"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "TF_ID": {
+                    "_text": "10"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011959"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AlsR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "TF_ID": {
+                    "_text": "11"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012987"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AppY"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "TF_ID": {
+                    "_text": "12"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012316"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AraC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "16"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "TF_ID": {
+                    "_text": "13"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011345"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ArcA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "117"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "TF_ID": {
+                    "_text": "14"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011202"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ArgP"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "22"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "TF_ID": {
+                    "_text": "15"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011670"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ArgR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "31"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "TF_ID": {
+                    "_text": "16"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120030724"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ArsR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "24"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "TF_ID": {
+                    "_text": "17"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120026318"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AscG"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "6"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "9"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "TF_ID": {
+                    "_text": "18"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013010"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AsnC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "14"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "TF_ID": {
+                    "_text": "19"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013014"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "AtoC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "TF_ID": {
+                    "_text": "20"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257197"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "BCCP"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "TF_ID": {
+                    "_text": "21"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015687"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "BaeR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "TF_ID": {
+                    "_text": "22"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125145855"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "BasR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "TF_ID": {
+                    "_text": "23"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013017"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "BetI"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "TF_ID": {
+                    "_text": "24"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012646"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "BirA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "40"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "TF_ID": {
+                    "_text": "25"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120051438"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "BluR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "TF_ID": {
+                    "_text": "26"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120029348"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "BolA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "TF_ID": {
+                    "_text": "27"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125145850"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "BtsR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "29"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "TF_ID": {
+                    "_text": "28"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011235"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CRP"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "22"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "293"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "TF_ID": {
+                    "_text": "29"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011250"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CadC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "TF_ID": {
+                    "_text": "30"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013805"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CaiF"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "TF_ID": {
+                    "_text": "31"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013750"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Cbl"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "40"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "TF_ID": {
+                    "_text": "32"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011953"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CdaR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "TF_ID": {
+                    "_text": "33"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125230705"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CecR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "TF_ID": {
+                    "_text": "34"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012036"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ChbR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "19"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "TF_ID": {
+                    "_text": "35"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125141239"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ComR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "TF_ID": {
+                    "_text": "36"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011210"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CpxR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "71"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "TF_ID": {
+                    "_text": "37"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013112"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Cra"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "47"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "TF_ID": {
+                    "_text": "38"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120035002"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CreB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "TF_ID": {
+                    "_text": "39"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013342"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CsgD"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "14"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "25"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "TF_ID": {
+                    "_text": "40"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012075"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CsiR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "TF_ID": {
+                    "_text": "41"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013061"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CspA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "7"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "TF_ID": {
+                    "_text": "42"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257186"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CueR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "19"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "TF_ID": {
+                    "_text": "43"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011941"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CusR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "TF_ID": {
+                    "_text": "44"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013065"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CynR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "9"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "TF_ID": {
+                    "_text": "45"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011312"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CysB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "42"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "18"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "TF_ID": {
+                    "_text": "46"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012407"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "CytR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "23"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "TF_ID": {
+                    "_text": "47"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120034977"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DcuR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "TF_ID": {
+                    "_text": "48"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125235978"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DecR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "0"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "TF_ID": {
+                    "_text": "49"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012664"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DeoR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "TF_ID": {
+                    "_text": "50"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015690"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DhaR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "TF_ID": {
+                    "_text": "51"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120029345"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DicA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "TF_ID": {
+                    "_text": "52"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257188"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DinJ-YafQ"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "TF_ID": {
+                    "_text": "53"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011903"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DnaA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "9"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "15"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "TF_ID": {
+                    "_text": "54"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120034476"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DpiA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "23"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "TF_ID": {
+                    "_text": "55"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013081"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "DsdC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "TF_ID": {
+                    "_text": "56"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013085"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "EbgR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "TF_ID": {
+                    "_text": "57"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120035026"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "EnvR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "24"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "TF_ID": {
+                    "_text": "58"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011792"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "EnvY"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "TF_ID": {
+                    "_text": "59"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011575"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "EvgA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "9"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "TF_ID": {
+                    "_text": "60"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012141"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ExuR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "11"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "TF_ID": {
+                    "_text": "61"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011229"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FNR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "14"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "133"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "TF_ID": {
+                    "_text": "62"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011354"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FabR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "TF_ID": {
+                    "_text": "63"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011824"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FadR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "20"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "TF_ID": {
+                    "_text": "64"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120026337"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FeaR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "21"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "TF_ID": {
+                    "_text": "65"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011394"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FhlA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "14"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "TF_ID": {
+                    "_text": "66"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011186"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Fis"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "235"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "TF_ID": {
+                    "_text": "67"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257194"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FlhDC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "29"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "TF_ID": {
+                    "_text": "68"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125141939"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FliZ"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "10"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "TF_ID": {
+                    "_text": "69"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257185"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FrmR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "0"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "TF_ID": {
+                    "_text": "70"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013118"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "FucR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "TF_ID": {
+                    "_text": "71"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257187"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Fur"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "19"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "110"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "TF_ID": {
+                    "_text": "72"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012092"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GadE"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "15"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "TF_ID": {
+                    "_text": "73"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257204"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GadE-RcsB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "TF_ID": {
+                    "_text": "74"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011465"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GadW"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "18"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "TF_ID": {
+                    "_text": "75"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011458"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GadX"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "33"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "TF_ID": {
+                    "_text": "76"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012713"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GalR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "TF_ID": {
+                    "_text": "77"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012704"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GalS"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "TF_ID": {
+                    "_text": "78"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013131"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GatR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "TF_ID": {
+                    "_text": "79"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012465"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GcvA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "TF_ID": {
+                    "_text": "80"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011437"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GlcC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "TF_ID": {
+                    "_text": "81"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012730"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GlpR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "18"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "TF_ID": {
+                    "_text": "82"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125108627"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GlrR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "TF_ID": {
+                    "_text": "83"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012096"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GntR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "10"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "TF_ID": {
+                    "_text": "84"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013141"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "GutM"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "TF_ID": {
+                    "_text": "85"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011294"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "H-NS"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "128"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "TF_ID": {
+                    "_text": "86"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257184"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HU"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "34"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "TF_ID": {
+                    "_text": "87"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015243"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HcaR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "13"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "TF_ID": {
+                    "_text": "88"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012250"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HdfR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "TF_ID": {
+                    "_text": "89"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125242732"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HigA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "27"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "TF_ID": {
+                    "_text": "90"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257189"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HigB-HigA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "27"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "TF_ID": {
+                    "_text": "91"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257201"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HipAB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "TF_ID": {
+                    "_text": "92"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120026325"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HipB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "33"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "TF_ID": {
+                    "_text": "93"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125228798"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HprR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "TF_ID": {
+                    "_text": "94"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011390"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HyfR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "TF_ID": {
+                    "_text": "95"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125141903"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "HypT"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "TF_ID": {
+                    "_text": "96"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257183"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "IHF"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "13"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "115"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "TF_ID": {
+                    "_text": "97"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011897"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "IclR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "TF_ID": {
+                    "_text": "98"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012101"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "IdnR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "TF_ID": {
+                    "_text": "99"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012965"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "IlvY"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "TF_ID": {
+                    "_text": "100"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011429"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "IscR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "13"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "TF_ID": {
+                    "_text": "101"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015250"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "KdgR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "21"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "TF_ID": {
+                    "_text": "102"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120048960"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "KdpE"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "TF_ID": {
+                    "_text": "103"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012762"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "LacI"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "21"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "TF_ID": {
+                    "_text": "104"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013164"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "LeuO"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "21"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "14"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "TF_ID": {
+                    "_text": "105"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012770"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "LexA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "45"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "TF_ID": {
+                    "_text": "106"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013830"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "LldR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "23"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "TF_ID": {
+                    "_text": "107"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011328"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "LrhA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "91"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "TF_ID": {
+                    "_text": "108"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011383"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Lrp"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "103"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "TF_ID": {
+                    "_text": "109"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015681"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "LsrR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "TF_ID": {
+                    "_text": "110"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013175"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "LysR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "TF_ID": {
+                    "_text": "111"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013406"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MalI"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "TF_ID": {
+                    "_text": "112"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012218"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MalT"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "10"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "15"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "TF_ID": {
+                    "_text": "113"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011412"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MarA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "27"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "TF_ID": {
+                    "_text": "114"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013191"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MarR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "22"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "TF_ID": {
+                    "_text": "115"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125141911"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MatA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "TF_ID": {
+                    "_text": "116"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125140737"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MazE"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "27"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "TF_ID": {
+                    "_text": "117"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257200"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MazE-MazF"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "27"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "TF_ID": {
+                    "_text": "118"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120051441"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "McbR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "TF_ID": {
+                    "_text": "119"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012347"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MelR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "TF_ID": {
+                    "_text": "120"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120048948"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MetJ"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "28"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "TF_ID": {
+                    "_text": "121"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012802"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MetR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "TF_ID": {
+                    "_text": "122"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011482"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MhpR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "TF_ID": {
+                    "_text": "123"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011240"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Mlc"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "23"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "7"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "TF_ID": {
+                    "_text": "124"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125134665"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MlrA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "34"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "TF_ID": {
+                    "_text": "125"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011949"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MngR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "22"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "TF_ID": {
+                    "_text": "126"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257190"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MntR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "22"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "TF_ID": {
+                    "_text": "127"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011220"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ModE"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "24"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "TF_ID": {
+                    "_text": "128"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011593"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MprA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "21"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "TF_ID": {
+                    "_text": "129"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120051460"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MqsA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "13"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "TF_ID": {
+                    "_text": "130"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125165914"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MraZ"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "5"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "TF_ID": {
+                    "_text": "131"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120048826"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "MurR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "TF_ID": {
+                    "_text": "132"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011265"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Nac"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "16"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "TF_ID": {
+                    "_text": "133"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013202"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NadR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "TF_ID": {
+                    "_text": "134"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011908"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NagC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "23"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "20"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "TF_ID": {
+                    "_text": "135"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012559"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NanR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "6"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "9"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "TF_ID": {
+                    "_text": "136"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011502"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NarL"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "99"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "TF_ID": {
+                    "_text": "137"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011508"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NarP"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "22"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "TF_ID": {
+                    "_text": "138"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120035042"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NemR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "TF_ID": {
+                    "_text": "139"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011378"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NhaR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "7"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "TF_ID": {
+                    "_text": "140"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120023539"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NikR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "28"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "TF_ID": {
+                    "_text": "141"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125228822"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NimR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "TF_ID": {
+                    "_text": "142"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011938"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NorR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "13"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "TF_ID": {
+                    "_text": "143"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120033053"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NrdR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "TF_ID": {
+                    "_text": "144"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120016814"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NsrR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "11"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "41"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "TF_ID": {
+                    "_text": "145"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257192"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "NtrC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "31"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "TF_ID": {
+                    "_text": "146"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257196"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "OmpR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "22"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "TF_ID": {
+                    "_text": "147"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011302"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "OxyR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "36"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "TF_ID": {
+                    "_text": "148"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011563"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PaaX"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "39"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "TF_ID": {
+                    "_text": "149"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125242743"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PdeL"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "24"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "TF_ID": {
+                    "_text": "150"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012246"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PdhR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "9"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "TF_ID": {
+                    "_text": "151"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120020634"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PepA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "27"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "TF_ID": {
+                    "_text": "152"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125158270"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PgrR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "TF_ID": {
+                    "_text": "153"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011306"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PhoB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "19"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "38"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "TF_ID": {
+                    "_text": "154"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011492"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PhoP"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "34"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "TF_ID": {
+                    "_text": "155"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120015234"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PrpR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "24"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "TF_ID": {
+                    "_text": "156"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011400"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PspF"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "TF_ID": {
+                    "_text": "157"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012854"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PurR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "16"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "21"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "TF_ID": {
+                    "_text": "158"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012029"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PutA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "6"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "TF_ID": {
+                    "_text": "159"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125160661"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "PuuR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "TF_ID": {
+                    "_text": "160"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012277"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "QseB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "13"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "TF_ID": {
+                    "_text": "161"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257199"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RacR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "0"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "TF_ID": {
+                    "_text": "162"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013229"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RbsR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "TF_ID": {
+                    "_text": "163"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125158217"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RcdA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "10"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "9"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "TF_ID": {
+                    "_text": "164"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125162247"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RclR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "TF_ID": {
+                    "_text": "165"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120033010"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RcnR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "166"
+                },
+                "TF_ID": {
+                    "_text": "166"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257195"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RcsAB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "7"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "167"
+                },
+                "TF_ID": {
+                    "_text": "167"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011324"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RcsB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "14"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "14"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "168"
+                },
+                "TF_ID": {
+                    "_text": "168"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257193"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RcsB-BglJ"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "11"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "169"
+                },
+                "TF_ID": {
+                    "_text": "169"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120048934"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RelB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "12"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "170"
+                },
+                "TF_ID": {
+                    "_text": "170"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257202"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RelB-RelE"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "11"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "171"
+                },
+                "TF_ID": {
+                    "_text": "171"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012877"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RhaR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "172"
+                },
+                "TF_ID": {
+                    "_text": "172"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012337"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RhaS"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "173"
+                },
+                "TF_ID": {
+                    "_text": "173"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011190"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Rob"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "18"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "174"
+                },
+                "TF_ID": {
+                    "_text": "174"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120033066"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RstA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "175"
+                },
+                "TF_ID": {
+                    "_text": "175"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011489"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RtcR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "176"
+                },
+                "TF_ID": {
+                    "_text": "176"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120033905"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "RutR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "177"
+                },
+                "TF_ID": {
+                    "_text": "177"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011856"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "SdiA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "178"
+                },
+                "TF_ID": {
+                    "_text": "178"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120032161"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "SgrR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "34"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "179"
+                },
+                "TF_ID": {
+                    "_text": "179"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012253"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "SlyA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "12"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "14"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "180"
+                },
+                "TF_ID": {
+                    "_text": "180"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013242"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "SoxR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "181"
+                },
+                "TF_ID": {
+                    "_text": "181"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011298"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "SoxS"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "32"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "182"
+                },
+                "TF_ID": {
+                    "_text": "182"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013144"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "SrlR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "183"
+                },
+                "TF_ID": {
+                    "_text": "183"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120034571"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "StpA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "184"
+                },
+                "TF_ID": {
+                    "_text": "184"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125202685"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "SutR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "185"
+                },
+                "TF_ID": {
+                    "_text": "185"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013255"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "TdcA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "186"
+                },
+                "TF_ID": {
+                    "_text": "186"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013259"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "TdcR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "12"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "187"
+                },
+                "TF_ID": {
+                    "_text": "187"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012482"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "TorR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "10"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "10"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "188"
+                },
+                "TF_ID": {
+                    "_text": "188"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011406"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "TreR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "189"
+                },
+                "TF_ID": {
+                    "_text": "189"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012176"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "TrpR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "10"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "190"
+                },
+                "TF_ID": {
+                    "_text": "190"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120051451"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "TtdR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "7"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "191"
+                },
+                "TF_ID": {
+                    "_text": "191"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120011194"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "TyrR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "19"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "192"
+                },
+                "TF_ID": {
+                    "_text": "192"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120048769"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "UhpA"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "193"
+                },
+                "TF_ID": {
+                    "_text": "193"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012153"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "UidR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "194"
+                },
+                "TF_ID": {
+                    "_text": "194"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012165"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "UlaR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "20"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "4"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "195"
+                },
+                "TF_ID": {
+                    "_text": "195"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125228870"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "UvrY"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "196"
+                },
+                "TF_ID": {
+                    "_text": "196"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012145"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "UxuR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "197"
+                },
+                "TF_ID": {
+                    "_text": "197"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013780"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "XapR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "13"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "198"
+                },
+                "TF_ID": {
+                    "_text": "198"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013786"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "XylR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "18"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "6"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "199"
+                },
+                "TF_ID": {
+                    "_text": "199"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257198"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "XynR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "0"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "200"
+                },
+                "TF_ID": {
+                    "_text": "200"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012313"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YdeO"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "26"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "8"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "201"
+                },
+                "TF_ID": {
+                    "_text": "201"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125158221"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YdfH"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "0"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "202"
+                },
+                "TF_ID": {
+                    "_text": "202"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125228840"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YebK"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "0"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "203"
+                },
+                "TF_ID": {
+                    "_text": "203"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125135147"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YefM"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "14"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "204"
+                },
+                "TF_ID": {
+                    "_text": "204"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257203"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YefM-YoeB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "14"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "205"
+                },
+                "TF_ID": {
+                    "_text": "205"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120013665"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YeiL"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "206"
+                },
+                "TF_ID": {
+                    "_text": "206"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120051444"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YgiV"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "0"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "207"
+                },
+                "TF_ID": {
+                    "_text": "207"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257182"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YhaJ"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "0"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "208"
+                },
+                "TF_ID": {
+                    "_text": "208"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120014044"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YiaJ"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "21"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "209"
+                },
+                "TF_ID": {
+                    "_text": "209"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125228843"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YjjQ"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "15"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "7"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "210"
+                },
+                "TF_ID": {
+                    "_text": "210"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125158264"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YpdB"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "10"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "211"
+                },
+                "TF_ID": {
+                    "_text": "211"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125110189"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YqhC"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "24"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "212"
+                },
+                "TF_ID": {
+                    "_text": "212"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125134855"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "YqjI"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "31"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "213"
+                },
+                "TF_ID": {
+                    "_text": "213"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK125257191"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ZntR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "22"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "1"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "214"
+                },
+                "TF_ID": {
+                    "_text": "214"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120014103"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "ZraR"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "17"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "2"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "215"
+                },
+                "TF_ID": {
+                    "_text": "215"
+                },
+                "T_FACTOR_ID": {
+                    "_text": "ECK120012020"
+                },
+                "T_FACTOR_NAME": {
+                    "_text": "Zur"
+                },
+                "T_FACTOR_SITE_LENGTH": {
+                    "_text": "23"
+                },
+                "T_FACTOR_KEY_ID_ORG": {
+                    "_text": "ECK12"
+                },
+                "T_FACTOR_SITE_GROUP": {
+                    "_text": "3"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,2941 @@
+{
+    "_comment": [
+        " Table: EFFECTOR",
+        " Columns: ",
+        " 1) EFFECTOR_ID",
+        " 2) EFFECTOR_NAME",
+        " 3) CATEGORY",
+        " 4) EFFECTOR_TYPE",
+        " 5) EFFECTOR_NOTE",
+        " 6) EFFECTOR_INTERNAL_COMMENT",
+        " 7) KEY_ID_ORG"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK120011271"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK120011905"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "ATP"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK120015124"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Aes"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK120028000"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "TorI"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK120029999"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Methyl"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK120030008"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Deoxyribose-5-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK120030043"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "MalK"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK120030049"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "EIIGlc"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145899"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "N-acetyl-L-serine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145902"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Acetate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145904"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Ag"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145905"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Au"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145907"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Cd",
+                    "sup": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145910"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Hg"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145911"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Idonate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145912"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "ADP"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145915"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Guanine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145916"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Alfa-acetohydroxybutirate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145918"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": [
+                        "[2Fe-2S]",
+                        " oxydized"
+                    ],
+                    "sup": {
+                        "_text": "3+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145920"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "[2Fe-2S] reduced"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145926"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Sulphide"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145927"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Thiosulphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145928"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Trehalose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145930"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Carbonyl cyanide p-(trifluoro-methoxy)phenylhydrazone"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145933"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "MalY"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145935"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "D-fucose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145938"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Purine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145942"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Benzoate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145943"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Menadione"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145944"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Paraquat"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145945"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Phenazine methosulfate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145946"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Plumbagin"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145947"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Sodium salicylate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145948"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": [
+                        "[2Fe-2S]",
+                        " reduced"
+                    ],
+                    "sup": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145949"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "DhaK"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145951"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Proflavin"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125145952"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "R6G"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125146583"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "3-(2,3-dihydroxyphenyl)propionate [DHPP]"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125161300"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Met-oxidized"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257205"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "β-D-galactose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257206"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "cyclic-AMP"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257207"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Fe",
+                    "SUP": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257208"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-leucine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257209"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "D-serine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257210"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "formate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257211"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "hypoxanthine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257212"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-arginine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257213"
+                },
+                "EFFECTOR_NAME": {
+                    "i": {
+                        "_text": "S"
+                    },
+                    "_text": "-adenosyl-L-methionine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {
+                    "_text": "|FRAME: S-ADENOSYLMETHIONINE| (AdoMet) is a sulfonium compound in which each of the carbons attached to the sulfur is activated toward nucleophilic attack."
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257214"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "pyruvate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257215"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-tyrosine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257216"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "α-L-arabinopyranose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257217"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "biotinyl-5'-adenylate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257218"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "maltotriose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257219"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "glycolate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {
+                    "_text": [
+                        "GlcC (for glycolate utilization) negatively controls the expression of genes involved in the utilization of glycolate as the sole source of carbon ",
+                        " It is negatively autoregulated and coordinately activated by transcription of the divergent operon ",
+                        ", which is related to the transport and metabolism of glycolate ",
+                        " Synthesis of ",
+                        " genes is induced when ",
+                        " is grown on glycolate  ",
+                        "GlcC features an N-terminal domain containing a helix-turn-helix motif ",
+                        "and a putative C-terminal domain that includes the key residues involved in coinducer recognition and oligomerization. ",
+                        "Although little is known about the mechanism of regulation of the GlcC transcription factor, Pellicer et al. demonstrated that it is a regulator that acts as a repressor by binding to ",
+                        "-acting elements, inverted repeat sequences that are not well-little conserved, that overlap the ATG sequence "
+                    ],
+                    "a": [
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "Pellicer MT,1999. Pellicer MT,1996"
+                        },
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "Pellicer MT,1999"
+                        },
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "Pellicer MT,1999"
+                        },
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "Pellicer MT,1996"
+                        },
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "Pellicer MT,1999"
+                        }
+                    ],
+                    "i": [
+                        {
+                            "_text": "glc"
+                        },
+                        {
+                            "_text": "glc"
+                        },
+                        {
+                            "_text": "Escherichia coli"
+                        },
+                        {
+                            "_text": "cis"
+                        }
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ]
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257220"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "melibiose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257221"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Cu",
+                    "SUP": {
+                        "_text": "+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257222"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Na",
+                    "SUP": {
+                        "_text": "+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257223"
+                },
+                "EFFECTOR_NAME": {
+                    "i": {
+                        "_text": "O"
+                    },
+                    "_text": "-acetyl-L-serine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257224"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Zn",
+                    "SUP": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257225"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "α-D-xylopyranose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257226"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "xanthosine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257227"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-tartrate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257228"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "D-ribose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {
+                    "_text": [
+                        "|FRAME: RIBOSE D-Ribose| has many different forms in solution. In decreasing order of frequency, the species are |FRAME: CPD0-1110| (59%), |FRAME: CPD-15829| (20%), |FRAME: CPD0-1108| (13%), |FRAME: CPD-10330| (7%) and |FRAME: CPD-15818 open chain| (0.1%) ",
+                        ".",
+                        "This compound class represents a reducing sugar that exists in solution in multiple configurations. The open-chain structure shown here is provided only as a schematic illustration of chirality. Consult the appropriate class instances for information on specific ring structures and their anomeric configuration."
+                    ],
+                    "a": {
+                        "_attributes": {
+                            "href": "#myRef",
+                            "class": "linkBlue"
+                        },
+                        "_text": "Drew98"
+                    },
+                    "br": {}
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257229"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-homocysteine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257230"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "α-L-rhamnopyranose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257231"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Mn",
+                    "SUP": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257232"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "molybdate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257233"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "allantoin"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257234"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "cyanate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257235"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "α-D-galacturonate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257236"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-alanine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257237"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "D-xylonate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257238"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "5-dehydro-D-gluconate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257239"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-carnitine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257240"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": [
+                        "(",
+                        ")-lactate"
+                    ],
+                    "i": {
+                        "_text": "S"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {
+                    "_text": [
+                        "Lactate, or 2-hydroxypropanoate, was discovered in 1780 by a Swedish chemist, Scheele,",
+                        "who isolated it from sour milk. It is the simplest hydroxycarboxylic acid and exists as 2 stereoisomers.",
+                        "Lactate has a pK of 3.86 and dissociates freely at physiological pH, yielding a lactate ion:lactic acid ratio",
+                        "of 3000:1",
+                        "."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ],
+                    "a": {
+                        "_attributes": {
+                            "href": "#myRef",
+                            "class": "linkBlue"
+                        },
+                        "_text": "15987839"
+                    }
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257241"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "3-(3-hydroxyphenyl)propanoate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257242"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-tryptophan"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257243"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-fuculose 1-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257244"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": [
+                        "(2",
+                        ",3",
+                        ")-2-methylcitrate"
+                    ],
+                    "i": [
+                        {
+                            "_text": "S"
+                        },
+                        {
+                            "_text": "S"
+                        }
+                    ]
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257245"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "3-phenylpropanoate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257246"
+                },
+                "EFFECTOR_NAME": {
+                    "i": {
+                        "_text": "N"
+                    },
+                    "_text": "-monoacetylchitobiose 6'-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257247"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-phenylalanine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257248"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Ni",
+                    "SUP": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257249"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "a [2Fe-2S] iron-sulfur cluster"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {
+                    "_text": [
+                        "|FRAME: FeS-Centers Iron-sulfur clusters| consist of nonheme iron complexed to sulfur in several ways. They serve as prosthetic groups of many proteins, which function as intracellular electron carriers with a low reduction potential.",
+                        "In addition to their roles in electron transfer reactions, iron-sulfur clusters are also known to participate in the activation of substrates, the stabilization of radicals and structures, the protection of proteins from enzymes and the storage of iron and sulfur. They act as sensors of iron, dioxygen, the superoxide ion, and possibly nitric oxide, and participate in gene expression regulation ",
+                        ".",
+                        "In |FRAME: CPD-6| the irons are coordinated to the sulfurs of 4 cysteine side chains."
+                    ],
+                    "br": [
+                        {},
+                        {}
+                    ],
+                    "a": {
+                        "_attributes": {
+                            "href": "#myRef",
+                            "class": "linkBlue"
+                        },
+                        "_text": "16466637"
+                    }
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257250"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": [
+                        "(",
+                        ")-(+)-allantoin"
+                    ],
+                    "i": {
+                        "_text": "S"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257251"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": [
+                        "(",
+                        ")-2-acetolactate"
+                    ],
+                    "i": {
+                        "_text": "S"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125257252"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "an acyl-CoA"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {
+                    "_text": [
+                        "|FRAME:ACYL-COA Acyl-CoAs| are oxoacids that have been activated by |FRAME: CO-A|. They are often classified by the length of their acyl moiety.",
+                        "|FRAME: Medium-Chain-Acyl-CoAs Medium-chain acyl-CoAs|  are derived from |FRAME: Medium-chain-fatty-acids fatty acids with aliphatic chains of 6-12 carbons|.",
+                        "|FRAME: Long-Chain-Acyl-CoAs Long-chain acyl-CoAs| are derived from |FRAME: Long-Chain-Fatty-Acids fatty acids with aliphatic chains of 13-22 carbons|.",
+                        "|FRAME: VERY-LONG-CHAIN-FATTY-ACYL-COA Very-long-chain fatty acyl-CoAs| are derived from |FRAME: Very-long-chain-fatty-acids fatty acids with aliphatic chains of 23 carbons or longer|."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272593"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "allolactose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272594"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "antimonite ion"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272595"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "glyoxylate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272596"
+                },
+                "EFFECTOR_NAME": {
+                    "i": {
+                        "_text": "N"
+                    },
+                    "_text": "-acetyl-D-glucosamine 6-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272597"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "adenosine 5'-phosphosulfate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272598"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "phenylacetyl-CoA"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272599"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-asparagine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272600"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "formaldehyde"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272601"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "glycerol"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272602"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "D-sorbitol"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272603"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "autoinducer 2"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272604"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "carbonylcyanide m-chlorophenylhydrazone"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272605"
+                },
+                "EFFECTOR_NAME": {
+                    "i": {
+                        "_text": "sn"
+                    },
+                    "_text": "-glycerol 3-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272606"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "putrescine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272607"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "2,4-dinitrophenol"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272608"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "β-D-fructose 1,6-bisphosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272609"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "2-dehydro-3-deoxy-D-gluconate 6-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272610"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "choline"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272611"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "α-D-glucuronate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {
+                    "_text": "|FRAME: GLUCURONATE| is a carboxylic acid that often forms a hexapyranose ring structure.",
+                    "br": {}
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272612"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "D-gluconate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272613"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "ethidium"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272614"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "nitric oxide"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272615"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "D-fructuronate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272616"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "(4S)-4-hydroxy-5-phosphooxypentane-2,3-dione"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {
+                    "_text": [
+                        "This compound is a C5-phosphorylated derivative of the open form of |FRAME: DIHYDROXYPENTANEDIONE|",
+                        "."
+                    ],
+                    "br": {},
+                    "a": {
+                        "_attributes": {
+                            "href": "#myRef",
+                            "class": "linkBlue"
+                        },
+                        "_text": "17274596"
+                    }
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272617"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-ascorbate 6-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272618"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "cytidine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272619"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "glycine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272620"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "thymine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272621"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "arsenite"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272622"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "β-D-fructofuranose 1-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272623"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "α,α-trehalose 6-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272624"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272625"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "Co",
+                    "SUP": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272626"
+                },
+                "EFFECTOR_NAME": {
+                    "i": {
+                        "_text": "N,N'"
+                    },
+                    "_text": "-diacetylchitobiose 6'-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272627"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "salicylate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272628"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "L-lysine"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272629"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "methylglyoxal"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {},
+                "EFFECTOR_NOTE": {
+                    "_text": [
+                        "Methylglyoxal is the aldehyde form of |FRAME: PYRUVATE|.",
+                        "It is both an aldehyde and a ketone, or a ketal.",
+                        "Methylglyoxal is produced in small amounts during glycolysis, by the enzyme",
+                        "|FRAME:METHGLYSYN-CPLX| that converts |FRAME:DIHYDROXY-ACETONE-PHOSPHATE| to",
+                        "methylglyoxal.",
+                        "It is also a byproduct of fatty acid metabolism (via |FRAME:ACETONE|) and of protein metabolism",
+                        "(via |FRAME:AMINO-ACETONE|, which is formed by the degradation of |FRAME: THR|).",
+                        "|FRAME: METHYL-GLYOXAL| is highly toxic, and is detoxified by several pathways (see",
+                        "|FRAME:Methylglyoxal-Detoxification|)."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272630"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "uracil"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272631"
+                },
+                "EFFECTOR_NAME": {
+                    "i": {
+                        "_text": "N"
+                    },
+                    "_text": "-acetyl-D-muramate 6-phosphate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272632"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "D-allose"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272633"
+                },
+                "EFFECTOR_NAME": {
+                    "i": {
+                        "_text": "N"
+                    },
+                    "_text": "-acetylneuraminate"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {
+                    "_text": [
+                        "Sialic acids are an important family of related 9-carbon sugars acids, present on the surface of many different cells and functioning in a wide range of different biological processes.",
+                        "-acetylneuraminate, the most ubiquitous species amongst the sialic acids, is widely distributed in the",
+                        "animal kingdom as a component of oligosaccharides, glycoproteins, and glycolipids.",
+                        "-acetylneuraminate carries out various biological functions by acting as receptors for",
+                        "microorganisms, viruses, toxins, and hormones, by masking receptors, and by regulation of the immune",
+                        "system.",
+                        "N-acetylneuraminic acid is the predominant form of sialic acid present in humans. It can be found as a terminal sugar on a wide range of surface glycoconjugates ",
+                        ". The α-anomer is the form that is found when sialic acid is bound to glycans, but in solution it exists mainly (over 90%) in the β-anomeric form ",
+                        ". ",
+                        "A number of bacteria that can colonize humans make use of N-acetylneuraminic acid as a nutrient source. In addition, some pathogens such as |FRAME: TAX-727| use sialic acid in an immune evasion mechanism by adding N-acetylneuraminic acid to their lipopolysaccharide ",
+                        ", which provides increased survival in human serum. Most of these organisms are not capable of synthesizing N-acetylneuraminic acid and import it into the cells ",
+                        " after conversion (either spontaneous or enzymatic) to the β-anomer ",
+                        " ."
+                    ],
+                    "br": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ],
+                    "i": [
+                        {
+                            "_text": "N"
+                        },
+                        {
+                            "_text": "N"
+                        }
+                    ],
+                    "a": [
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "11841250"
+                        },
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "Severi E,2008"
+                        },
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "12180977. 10447878"
+                        },
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "16262798"
+                        },
+                        {
+                            "_attributes": {
+                                "href": "#myRef",
+                                "class": "linkBlue"
+                            },
+                            "_text": "Severi E,2008"
+                        }
+                    ]
+                },
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272689"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": [
+                        "[4Fe-4S]",
+                        " reduced"
+                    ],
+                    "sup": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272691"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": [
+                        "[2Fe-2S]",
+                        " oxidized"
+                    ],
+                    "sup": {
+                        "_text": "2+"
+                    }
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "negative"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "EFFECTOR_ID": {
+                    "_text": "ECK125272694"
+                },
+                "EFFECTOR_NAME": {
+                    "_text": "dATP"
+                },
+                "CATEGORY": {},
+                "EFFECTOR_TYPE": {
+                    "_text": "positive"
+                },
+                "EFFECTOR_NOTE": {},
+                "EFFECTOR_INTERNAL_COMMENT": {},
+                "KEY_ID_ORG": {
+                    "_text": "ECK12"
+                }
+            }
+        ]
+    }
+}

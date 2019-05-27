@@ -1,0 +1,5193 @@
+{
+    "_comment": [
+        " Table: MEDIUM",
+        " Columns: ",
+        " 1) MEDIUM_ID",
+        " 2) MEDIUM_NAME",
+        " 3) MEDIUM_DESCRIPTION"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012487"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012488"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012489"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012490"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012491"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012492"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012493"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012494"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012495"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012496"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012497"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012498"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012499"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012500"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012501"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012502"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012503"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012504"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012505"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012506"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012507"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012508"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012509"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012510"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012511"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012512"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012513"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012514"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012515"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012516"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012517"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012518"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012519"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012520"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012521"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012522"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012523"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012524"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012525"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012526"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012527"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012528"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012529"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012530"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012531"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012532"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012533"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012534"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012535"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012536"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012537"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012538"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012539"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012540"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012541"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012542"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012543"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012544"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012545"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012546"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012547"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012548"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012549"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012550"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012551"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012552"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012553"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012554"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "M9 Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012555"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Minimal Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012556"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012557"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012558"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012559"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012560"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012561"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012562"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012563"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012564"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012565"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012566"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012567"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012568"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012569"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012570"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012571"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012572"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012573"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012574"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012575"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012576"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "It is expressed in exponential growth and is affected by cya and crp mutations"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012577"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "It is expressed in exponential growth and is affected by cya and crp mutations"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012578"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "It is expressed in exponential growth and is affected by cya and crp mutations"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012579"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ammonia"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012580"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ammonia"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012581"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ammonia"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012582"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012583"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012584"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012585"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012586"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012587"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012588"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012589"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012590"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012591"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012592"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012593"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012594"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012595"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012596"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012597"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012598"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012599"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Rich Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012600"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012601"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012602"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012603"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012604"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012605"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012606"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012607"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012608"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012609"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012610"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012611"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012612"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012613"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012614"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Overproduction of OsmB or Lpp or Pal or lipoprotein-28 or NlpD or Tra protein"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012615"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Overproduction of OsmB or Lpp or Pal or lipoprotein-28 or NlpD or Tra protein"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012616"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Overproduction of OsmB or Lpp or Pal or lipoprotein-28 or NlpD or Tra protein"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012617"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Overproduction of OsmB or Lpp or Pal or lipoprotein-28 or NlpD or Tra protein"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012618"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Overproduction of OsmB or Lpp or Pal or lipoprotein-28 or NlpD or Tra protein"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012619"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Overproduction of OsmB or Lpp or Pal or lipoprotein-28 or NlpD or Tra protein"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012620"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Overproduction of OsmB or Lpp or Pal or lipoprotein-28 or NlpD or Tra protein"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012621"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with m-chlorophenylhidrazone"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012622"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with m-chlorophenylhidrazone"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012623"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with m-chlorophenylhidrazone"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012624"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with m-chlorophenylhidrazone"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012625"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012626"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012627"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012628"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012629"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012630"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012631"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012632"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012633"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012634"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012635"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012636"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012637"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012638"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012639"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012640"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012641"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012642"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012643"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012644"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012645"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012646"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012647"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012648"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012649"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012650"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012651"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "166"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012652"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "167"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012653"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "168"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012654"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "169"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012655"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "170"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012656"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "171"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012657"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "172"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012658"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "173"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012659"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "174"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012660"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "175"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012661"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "176"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012662"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "177"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012663"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "178"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012664"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "179"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012665"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "180"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012666"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "181"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012667"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "182"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012668"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "183"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012669"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "184"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012670"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "185"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012671"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "186"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012672"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "187"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012673"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "188"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012674"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "189"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012675"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "190"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012676"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "191"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012677"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "192"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012678"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "193"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012679"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "194"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012680"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "195"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012681"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "196"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012682"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "197"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012683"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "198"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012684"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "199"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012685"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "200"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012686"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "201"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012687"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "202"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012688"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "203"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012689"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "204"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012690"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "205"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012691"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "206"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012692"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "207"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012693"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "208"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012694"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "209"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012695"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "210"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012696"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "211"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012697"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "212"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012698"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "213"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012699"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "214"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012700"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "215"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012701"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "216"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012702"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "217"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012703"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "218"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012704"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "219"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012705"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "220"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012706"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "221"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012707"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "222"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012708"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "223"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012709"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "224"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012710"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "225"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012711"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "226"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012712"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "227"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012713"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "228"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012714"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "229"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012715"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "230"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012716"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "231"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012717"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "232"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012718"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "233"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012719"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "234"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012720"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "235"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012721"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "236"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012722"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "237"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012723"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "238"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012724"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "239"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012725"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "240"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012726"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "241"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012727"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "242"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012728"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "243"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012729"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "LB Medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "244"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012730"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "GM"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "245"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012731"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "246"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012732"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "247"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012733"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "248"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012734"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "249"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012735"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "250"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012736"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "251"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012737"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "252"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012738"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "253"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012739"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "254"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012740"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "255"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012741"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "256"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012742"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "ppGpp added to the medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "257"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012743"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "258"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012744"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "259"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012745"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "260"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012746"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "261"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012747"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "262"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012748"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "263"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012749"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "264"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012750"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "265"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012751"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "266"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012752"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "267"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012753"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "268"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012754"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "269"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012755"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "270"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012756"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "271"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012757"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "272"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012758"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "273"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012759"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "274"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012760"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "275"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012761"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "276"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012762"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "277"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012763"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "278"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012764"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "279"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012765"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "280"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012766"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "281"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012767"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "282"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012768"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "283"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012769"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "284"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012770"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "285"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012771"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "286"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012772"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "287"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012773"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "288"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012774"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "289"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012775"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "290"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012776"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "291"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012777"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "292"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012778"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "293"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012779"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "294"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012780"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "50 oC"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "295"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012781"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "296"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012782"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "297"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012783"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "298"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012784"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "299"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012785"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "300"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012786"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "301"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012787"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "302"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012788"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "303"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012789"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "304"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012790"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "305"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012791"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "306"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012792"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "307"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012793"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "308"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012794"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "309"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012795"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "310"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012796"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "311"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012797"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "312"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012798"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "313"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012799"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Shift down pH to 5"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "314"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012800"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Shift down pH to 5"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "315"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012801"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Shift down pH to 5"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "316"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012802"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Shift down pH to 5"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "317"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012803"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Shift down pH to 5"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "318"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012804"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Shift down pH to 5"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "319"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012805"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Shift down pH to 5"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "320"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012806"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Shift down pH to 5"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "321"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012807"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ppGpp"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "322"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012808"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ppGpp"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "323"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012809"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ppGpp"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "324"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012810"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ppGpp"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "325"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012811"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ppGpp"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "326"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012812"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth on Defined Medium with ppGpp"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "327"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012813"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "328"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012814"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "329"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012815"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "330"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012816"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "331"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012817"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "332"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012818"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "333"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012819"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "334"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012820"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "335"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012821"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "336"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012822"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "0.1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "337"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012823"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "0.1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "338"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012824"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "0.1 uM of hydrogen peroxide"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "339"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012825"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Medium that previously supported the E .coli growth"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "340"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012826"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Medium that previously supported the E .coli growth"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "341"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012827"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Medium that previously supported the E .coli growth"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "342"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012828"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Medium that previously supported the E .coli growth"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "343"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012829"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Medium that previously supported the E .coli growth"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "344"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012830"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Medium that previously supported the E .coli growth"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "345"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012831"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "346"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012832"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "347"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012833"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "348"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012834"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "349"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012835"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "350"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012836"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "351"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012837"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth of Defined Medium with potassium glutamate"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "352"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012838"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth of Defined Medium with potassium glutamate"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "353"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012839"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth of Defined Medium with potassium glutamate"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "354"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012840"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth of Defined Medium with potassium glutamate"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "355"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012841"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth of Defined Medium with potassium glutamate"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "356"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012842"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth of Defined Medium with potassium glutamate"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "357"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012843"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth of Defined Medium with potassium glutamate"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "358"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012844"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "359"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012845"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "360"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012846"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "361"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012847"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "362"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012848"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "363"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012849"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "pta and ackA genes are required"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "364"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012850"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "pta and ackA genes are required"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "365"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012851"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "without medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "366"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012852"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth in restricted medium, the induction of bolA beggining in late exponential and is more induced on stationary phase"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "367"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012853"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth in restricted medium, the induction of bolA beggining in late exponential and is more induced on stationary phase"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "368"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012854"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth in restricted medium, the induction of bolA beggining in late exponential and is more induced on stationary phase"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "369"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000012855"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Growth in restricted medium, the induction of bolA beggining in late exponential and is more induced on stationary phase"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "370"
+                },
+                "MEDIUM_ID": {
+                    "_text": "GID000054851"
+                },
+                "MEDIUM_NAME": {
+                    "_text": "Unknown medium"
+                },
+                "MEDIUM_DESCRIPTION": {
+                    "_text": "-"
+                }
+            }
+        ]
+    }
+}

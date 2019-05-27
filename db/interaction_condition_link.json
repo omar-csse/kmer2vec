@@ -1,0 +1,1993 @@
+{
+    "_comment": [
+        " Table: INTERACTION_CONDITION_LINK",
+        " Columns: ",
+        " 1) INTERACTION_ID",
+        " 2) CONDITION_ID",
+        " 3) EXP_CONDITION"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160713"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "Amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160714"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160715"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160715"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160716"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160716"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160716"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160717"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "steady-state growth"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160718"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160719"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160720"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent condition and changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160721"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160721"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160722"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160722"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160723"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160723"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160724"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160724"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160725"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160725"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160726"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160726"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160727"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160727"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160728"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160728"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160729"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160729"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160730"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160730"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160731"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160731"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160732"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160732"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160733"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160733"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160734"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160734"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160735"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160735"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160736"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160736"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160737"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160737"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160737"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160738"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160738"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160738"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160739"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160739"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160739"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160740"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160740"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160740"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160741"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160741"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160741"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160742"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160742"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160742"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160743"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160743"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160743"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160744"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160744"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160744"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160745"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160745"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160745"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160746"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160746"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160746"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160747"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160747"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160747"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160748"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160748"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160748"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160749"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160749"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160749"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160750"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "steady-state growth"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160751"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent conditions"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160752"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160753"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160754"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160755"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160756"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160757"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "exponential phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160758"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160758"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160758"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160759"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160759"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160759"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160760"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160760"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160760"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160761"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160761"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160761"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160762"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160762"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160762"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160763"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160763"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160763"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160764"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160764"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160764"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160765"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "phosphate starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160766"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "Transition from exponential phase to stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160766"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160767"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "exponential phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160768"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160769"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160770"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160771"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "Transition from exponential phase to Stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160772"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "Transition from exponential phase to Stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160773"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "Transition from exponential phase to Stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160774"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160775"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160776"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160777"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent condition and changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125160778"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent condition and changes in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162254"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162256"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162257"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162260"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125162261"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125228876"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "Amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240688"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "Transition from exponential phase to Stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240690"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240691"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125240692"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258879"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response induced by serine hydroxamate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258879"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "growth rate-dependent"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258880"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258882"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258883"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "change in the growth rate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258884"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258885"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258886"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258887"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "growth rate-dependent"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258887"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response induced by serine hydroxamate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258888"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258889"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary growth phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258890"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258891"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response induced by serine hydroxamate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258892"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258894"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid  starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258894"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "growth rate-dependent"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258895"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent condition"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258898"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258901"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258902"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258903"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent response"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258904"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258906"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258907"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258908"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "growth rate-dependent"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258908"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "amino acid starvation"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258909"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "INTERACTION_ID": {
+                    "_text": "ECK125258910"
+                },
+                "CONDITION_ID": {},
+                "EXP_CONDITION": {
+                    "_text": "Stationary phase"
+                }
+            }
+        ]
+    }
+}

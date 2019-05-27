@@ -1,0 +1,2080 @@
+{
+    "_comment": [
+        " Table: GU_GROUP_LINK",
+        " Columns: ",
+        " 1) GU_ID",
+        " 2) GROUP_ID"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127678"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127679"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127680"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127681"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127682"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127683"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127684"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127685"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127686"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127687"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127688"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127689"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127690"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127691"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127692"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127693"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127694"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127695"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127696"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127697"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127698"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127699"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127700"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127701"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127702"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127703"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127704"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127705"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127706"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127707"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127708"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127709"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127710"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127711"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127712"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127713"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127714"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127715"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127716"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127717"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127718"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127719"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127720"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127721"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127722"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127723"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127724"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127725"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127726"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127727"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127728"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127729"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127730"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127731"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127732"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127733"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127734"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127735"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127736"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127737"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127738"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127739"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127740"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127741"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127742"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127743"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127744"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127745"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127746"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127747"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127748"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127749"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127750"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127751"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127752"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127753"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127754"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127755"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127756"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127757"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127758"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127759"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127760"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127761"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127762"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127763"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127764"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127765"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127766"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127767"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127768"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127769"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127770"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127771"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127772"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127773"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127774"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127775"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127776"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127777"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127778"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127779"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127780"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127781"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127782"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127783"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127784"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127785"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127786"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127787"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127788"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127789"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127790"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127791"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127792"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127793"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127794"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127795"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127796"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127797"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127798"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127799"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127800"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127801"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127802"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127803"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127804"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656905"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127805"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127806"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127807"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127808"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127809"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127811"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127812"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127813"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127814"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127815"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127816"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127817"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127818"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127819"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127820"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127821"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127822"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127823"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127824"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127825"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127826"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127827"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127828"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127829"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127830"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127831"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127832"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127833"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127834"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127835"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127836"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127837"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127838"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127839"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127840"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127841"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127842"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127843"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "166"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127844"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "167"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127845"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "168"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127846"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "169"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127847"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "170"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127848"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "171"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127849"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656901"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "172"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127850"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "173"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127851"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "174"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127852"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "175"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127853"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "176"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127854"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "177"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127855"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "178"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127856"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "179"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127857"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656903"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "180"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127858"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "181"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127859"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "182"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127860"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "183"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127861"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "184"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127862"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "185"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127863"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "186"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127864"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656904"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "187"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127865"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "188"
+                },
+                "GU_ID": {
+                    "_text": "GU0000127866"
+                },
+                "GROUP_ID": {
+                    "_text": "ECK12T656906"
+                }
+            }
+        ]
+    }
+}

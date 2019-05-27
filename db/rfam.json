@@ -1,0 +1,1651 @@
+{
+    "_comment": [
+        " Table: RFAM",
+        " Columns: ",
+        " 1) RFAM_ID",
+        " 2) GENE_ID",
+        " 3) RFAM_TYPE",
+        " 4) RFAM_DESCRIPTION",
+        " 5) RFAM_SCORE",
+        " 6) RFAM_STRAND",
+        " 7) RFAM_POSLEFT",
+        " 8) RFAM_POSRIGHT",
+        " 9) RFAM_SEQUENCE"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125145739"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001526"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; riboswitch"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "TPP riboswitch (THI element)"
+                },
+                "RFAM_SCORE": {
+                    "_text": "65.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "75511"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "75610"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uacacuaacgCCGUUCUCAACGGGGUGCCACGCGUACGCGUGCGCUGAGAAAAUACCCGUCGAACCUGAUCCGGAUAACGCCGGCGAAGGGAUUUGAGGCUCCUUCUCAAguccuuugcc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230739"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000850"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RNase E 5' UTR element"
+                },
+                "RFAM_SCORE": {
+                    "_text": "248.8"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1144392"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1144728"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uaaugaggccGUUUCCGUGUCCAUCCUUGUUAAAACAAGAAAUUUUACGGAAUAACCCAUUUUGCCCGACCGAUCAUCCACGCAGCAAUGGCGUAAGACGUAUUGAUCUUUCAGGCAGUUAGCGGGCUGCGGGUUGCAGUCCUUACCGGUAGAUGGAAAUAUUUCUGGAGAGUAAUACCCAGUCUGUUUCUUUGAUAAUUGCGCUGUUUUUCCGCAUGAAAAACGGGCAACCGACACUCUGCGCCUCUUUGAGCUGACGAUAACCGUGAGGUUGGCGACGCGACUAGACACGAGGCCAUCGGUUCACACCCGGAAAGGCGUUACUUUGCCCGCAGCUUAGUCGUCAAuguaagaaua"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230740"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001088"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; frameshift_element"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "DnaX ribosomal frameshifting element"
+                },
+                "RFAM_SCORE": {
+                    "_text": "96.8"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "493356"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "493420"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uugcagcgcgUGCAGGGAGCAACCAAAGCAAAAAAGAGUGAACCGGCAGCCGCUACCCGCGCGCGGCCGGUGAAUaacgcugcgc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230741"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002402"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "63"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "780561"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "780729"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "agugggucguUAGCUCAGUUGGUAGAGCAGUUGACUUUUAAUCAAUUGGUCGCAGGUUCGAAUCCUGCACGACCCACCAAUCGCUAAGGUGGAAGCGGUAGUAAAACGUGAAGGAUAACGUUGCAUGAGCAACGGCCCGAAGGGCGAGACGAAGUCGAGUCAUCCUGCACGACCCACCAcuaacauagu"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230742"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000623"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "58.5"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "780850"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "781016"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "accgggucguUAGCUCAGUUGGUAGAGCAGUUGACUUUUAAUCAAUUGGUCGCAGGUUCGAAUCCUGCACGACCCACCAGUUUUAACAUCGAAGACAGAUGUUAAGCGUGUAGGAUAACGUUGCGUCAGCAACGGCCCGUAGGGCGAGCGAAGCGAGUCAUCCUGCACGACCCACCAcuaaugacgg"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230743"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000242"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "105.7"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "3708448"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "3708581"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "caggcuuuuuUGCAUCUGCAGCUCAUGAGGAUGAGAACCUCCGGGGGCAGGGAGGUUCGACUCGAGCGAAGCGAGAGAACGUUGCGCCAGCAACGGCCCGCAGGGCGAGCCACGAAGUGGCGAGUAAUCCUCUAUCACCGACCAaauucgaaaa"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230744"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001005"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "131.9"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1286888"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1287019"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "gcaaucaaauAUUCUGCCCAUGCGGGGAAGGAUGAGAAGCUUCGACUAAGGUUCGGCUCGAGCGUCAGCGAGAGAGCGUUGCCGCAGGCAACGACCCGAAGGGCGAAGCGCGCAGCGCUGAGUAAUCCUUCCCCCACCACCAucacuuucaa"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230745"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001396"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "49.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2521359"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2521484"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ggcgcuuuuuUACUAUCUGCGAUACUCAAAGAUUCGAACCUGCAGCAGGUUUGAGUUGAGCGCAGCGAAACAACGGAGCCGCUCGCGGCGACGGCCCGAAGGGCGAGCGAAGCGAGUCAUCCUGCACGACCCACCAauguaaaaaa"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230746"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001005"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "131.2"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1287363"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1287494"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "gauugugaaaGUUUGCACUCAUCGGGGAAGGGUGAGAACCUUCGACUAAGGUUCGAUUCGAGCGAAAGCGAGAGAACGUUGCCACAGGCAACGGCCCGAAGGGUGAGGAGCGAAGCGACGAAUAAUCCUUCCCCCACCACCAucucaagcau"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230747"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001005"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "135.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1287066"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1287197"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "gcaauuaaauAUUCUGCCCAUGCGGGGAAGGAUGAGAAGCUUCGACCAAGGUUCGACUCGAGCGCCAGCGAGAGAGCGUUGCCGCAGGCAACGACCCGAAGGGCGAAGCGCGCAGCGCUGAGUAAUCCUUCCCCCACCACCAucacuuucaa"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230748"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001005"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "132.1"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1286710"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1286841"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "gcaaucaaauAUUCUGCCCAAGCGGGGAAGGAUGAGAAGCUUCGACCAAGGUUCGACUUGAGCGCCAGCGAGAGAGCGUUGCCGCAGGCAACGACCCGAAGGGCGAAGCGCGCAGCGCUGAGUAAUCCUUCCCCCACCACCAucgcuuccuu"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230749"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000623"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "48.8"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "781683"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "781808"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ggcgcuuuuuUGCUAUCUGCGAUACUCAAAGAUUCGAACCUGCAGCAGGUUUGAGUUGAGCGCAGCGAAACAACGGAGCCGCUCGCGGCGACGGCCCGAAGGGCGAGCGAAGCGAGUCAUCCUGCACGACCCACCAauguaaaaaa"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230750"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000458"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; riboswitch"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "FMN riboswitch (RFN element)"
+                },
+                "RFAM_SCORE": {
+                    "_text": "127"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "3184570"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "3184718"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uagugaauccGCUUAUUCUCAGGGCGGGGCGAAAUUCCCCACCGGCGGUAAAUCAACUCAGUUGAAAGCCCGCGAGCGCUUUGGGUGCGAACUCAAAGGACAGCAGAUCCGGUGUAAUUCCGGGGCCGACGGUUAGAGUCCGGAUGGGAGAGAGUAACGauucugucgg"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230751"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000623"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "64"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "781376"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "781543"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uaugggucguUAGCUCAGUUGGUAGAGCAGUUGACUUUUAAUCAAUUGGUCGCAGGUUCGAAUCCUGCACGACCCACCAAUUUAAAGGUGGUUACUGGUAGAGAACGUGAAGGAUAACGUUGCGUUAGCAACGGCCCGAAGGGCGAGACGAAGUCGAGUCAUCCUGCACGACCCACCAuccugaauga"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230752"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000623"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "58"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "781154"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "781320"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "cucgggucguUAGCUCAGUUGGUAGAGCAGUUGACUUUUAAUCAAUUGGUCGCAGGUUCGAAUCCUGCACGACCCACCAGUUUUAACAUCAAACUCAGAUGUUAAGCGUGAAGGAUAACGUUGCGCCAGCAACGGCCCGUAGGGCGAGCGAAGCGAGUCAUCCUGCACGACCCACCAaucuuaaaga"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230753"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003132"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "45.8"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1097384"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1097520"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uuuuuuucguAUAUUGCACACACCGGGGGGAUGAGAAGCCCCGACCGGGGUUCGACAACUGGCGACAGCCAGUUGGACAGACCGUGAACGCAGUGAGCGGGCUGCCCGCAGGGCGAGCGAAGCGAGUCAAUCCCCCCCUCACCGCCAuauuuaaaga"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230754"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003132"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "RtT RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "45.8"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1097203"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1097339"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uuuuuuucguAUAUUGCACACACCGGGGGGAUGAGAAGCCCCGACCGGGGUUCGACAACUGGCGACAGCCAGUUGGACAGACCGUGAACGCAGUGAGCGGGCUGCCCGCAGGGCGAGCGAAGCGAGUCAAUCCCCCCCUCACCGCCAuauuuaaaga"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230755"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000987"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Threonine operon leader"
+                },
+                "RFAM_SCORE": {
+                    "_text": "122.9"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "191"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "310"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "acaacauccaUGAAACGCAUUAGCACCACCAUUACCACCACCAUCACCAUUACCACAGGUAACGGUGCGGGCUGACGCGUACAGGAAACACAGAAAAAAGCCCGCACCUGACAGUGCGGGCUUUUUUUUUcgaccaaagg"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230756"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001253"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Leucine operon leader"
+                },
+                "RFAM_SCORE": {
+                    "_text": "145.2"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "83573"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "83722"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ucgcauucauCUGGAGCUGAUUUAAUGACUCACAUCGUUCGCUUUAUCGGUCUACUACUACUAAACGCAUCUUCUUUGCGCGGUAGACGAGUGAGCGGCAUCCAGCAUUAAGCCAGCACGCAGUCAAACAAAAAACCCGCGCCAUUGCGCGGGUUUUUUUaugcccgaag"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230757"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001248"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Tryptophan operon leader"
+                },
+                "RFAM_SCORE": {
+                    "_text": "90.4"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1322968"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1323061"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uuucguacugAAAGGUUGGUGGCGCACUUCCUGAAACGGGCAGUGUAUUCACCAUGCGUAAAGCAAUCAGAUACCCAGCCCGCCUAAUGAGCGGGCUUUUUUUUgaacaaaauu"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230758"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000442"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Histidine operon leader"
+                },
+                "RFAM_SCORE": {
+                    "_text": "131.6"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2090022"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2090145"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uuaaacaccaCCAUCAUCACCAUCAUCCUGACUAGUCUUUCAGGCGAUGUGUGCUGGAAGACAUUCAGAUCUUCCAGUGGUGCAUGAACGCAUGAGAAAGCCCCCGGAAGAUCACCUUCCGGGGGCUUUUUUAUugcgcgguug"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230759"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000848"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "rncO"
+                },
+                "RFAM_SCORE": {
+                    "_text": "256.9"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2704009"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2704223"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "auauucccccGAAGUUUAAGGUUGGCACCUCCAGGUUGCCACGGCACACGAAACAGCGUUGGUCCCCAUAUACCGGUAAACUGAAACUGCAGCGAAGCAGUUAGCAGAACCAUGUAUAUCAGGUCUGUUUCGUGUGCUGAAUUGUUGACGCAUUUAUUUAUUGGUAUCGCAUGAACCCCAUCGUAAUUAAUCGGCUUCAACGGAAGCUGGGCUACACUUUUAAUCaucaggaacu"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230760"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001543"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; riboswitch"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Moco (molybdenum cofactor) riboswitch"
+                },
+                "RFAM_SCORE": {
+                    "_text": "97.8"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "816912"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "817056"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uaguaucggcAUAACCACUAAACACUCUAGCCUCUGCACCUGGGUCAACUGAUACGGUGCUUUGGCCGUGACAAUGCUCGUAAAGAUUGCCACCAGGGCGAAGGAAGAAAUGACUUCGCCUCCCGUAUCUGGAAAGGUGUACAUGGCUUCACAACugacugaugc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230761"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002316"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; riboswitch"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Magnesium Sensor"
+                },
+                "RFAM_SCORE": {
+                    "_text": "125.9"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "4467416"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "4467531"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "gcuuuuuucaCUUACCGGAGGUUAUAUGGAACCUGAUCCCACGCCUCUCCCUCGACGGAGAUUAAAACUUUUCCGGUAAGCCCGUCUUUUCACGGCGUUACCGGAUGCGUAAGGCCGUGACGUUUUaacgucccug"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230762"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001564"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "mini-ykkC RNA motif"
+                },
+                "RFAM_SCORE": {
+                    "_text": "50.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "4376811"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "4376857"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "aaccaucagcUUUGCAGGACGACCUGCAAACGCCUCUUUUCACCGGGGACGGCCCCAauucuccgga"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230763"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003897"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "iscR stability element"
+                },
+                "RFAM_SCORE": {
+                    "_text": "138"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2661533"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2661642"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "acgcgcuuaaUAAAAAGAAUUCAGAAUCAGGCCGGAGUGCUAAAUACUCCGUAAACACGGUCGUACAUCCAGCCGGUAGCCUGAUUCCUUGCAUUGAGUGAUGUACGGAGUUUAUAGAGCaaugaaauua"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230764"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001312"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "JUMPstart RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "55.2"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "3808182"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "3808220"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "agugcguuauCAGUAUUCAGGUAGCUGUUGAGCCUGGGGCGGUAGCGUGcuuuuuucug"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230765"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003693"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "JUMPstart RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "57.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2137422"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2137460"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uaaacuaaauCAGUGUAUUGGUAGCUAAAAAGCCAGGGGCGGUAGCGUGucuggaugcc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230766"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002273"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "JUMPstart RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "60"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2113137"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2113175"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ggcaugcaugCAGUGCUCUGGUAGCUGUAAAGCCAGGGGCGGUAGCGUGcauuaauacc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230767"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001992"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "nuoG RNA"
+                },
+                "RFAM_SCORE": {
+                    "_text": "45.5"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2400173"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2400215"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "gcugguaaccGAAUUUCGAUUAACGCUCAGUCUCUGACUGAGAAAACUGGAAGcaugcuaaug"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230768"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003414"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; thermoregulator"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "cspA thermoregulator"
+                },
+                "RFAM_SCORE": {
+                    "_text": "117.1"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1638428"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1638813"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uuaaugguguUCUGGUUUGUUACAAAUUUAUCUGAAGCAGUCAUUGUUAUAAUUUUAUUAUUUGUACCUCUUGAGAUUUCCUUGUUGGUUUUUCUCUCUGAUAUUUUUUUUCGGACCAUUCUGCCCAAGGGCUAAUUUCUUCAAAAGGUAAUAAUUAUGUCUAACAAAAUGACUGGUUUAGUGAAAUGGUUUAACCCUGAAAAAGGUUUUGGUUUCAUCACGCCGAAAGAUGGCAGCAAAGAUGUGUUUGUCCAUUUCUCAGCAAUUCAGAGCAACGAUUUCAAAACAUUAACUGAGAAUCAGGAAGUUGAAUUUGGUAUUGAGAACGGACCUAAAGGUCCUGCCGCUGUUCAUGUAGUGGCGCUUUGAGGUAGACAAUAUUACAAACCAUAUUCAcuuuagaugc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230769"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000162"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; thermoregulator"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "cspA thermoregulator"
+                },
+                "RFAM_SCORE": {
+                    "_text": "493.4"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "3719889"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "3720316"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "aaugcacaucAACGGUUUGACGUACAGACCAUUAAAGCAGUGUAGUAAGGCAAGUCCCUUCAAGAGUUAUCGUUGAUACCCCUCGUAGUGCACAUUCCUUUAACGCUUCAAAAUCUGUAAAGCACGCCAUAUCGCCGAAAGGCACACUUAAUUAUUAAAGGUAAUACACUAUGUCCGGUAAAAUGACUGGUAUCGUAAAAUGGUUCAACGCUGACAAAGGCUUCGGCUUCAUCACUCCUGACGAUGGCUCUAAAGAUGUGUUCGUACACUUCUCUGCUAUCCAGAACGAUGGUUACAAAUCUCUGGACGAAGGUCAGAAAGUGUCCUUCACCAUCGAAAGCGGCGCUAAAGGCCCGGCAGCUGGUAACGUAACCAGCCUGUAAUCUCUGCUUAAAAGCACAGAAUCUAAGAUCCCUGCCAUUUGGCGGGGAUUUUUUUauuuguuuuc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230770"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002091"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; thermoregulator"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "cspA thermoregulator"
+                },
+                "RFAM_SCORE": {
+                    "_text": "161.2"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1641323"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1641715"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uaaugauugcGUCGGUUUGAAGAACAGACGAUAUACGAAGUAGUUUACUAAAGCAGUUCUCAUUUCAGGUGUUAUUCACUUAUUCCUUCUUUGAGUCUCUCCAAUUAAGUACGAAGUCGUUUCUGUUAUGCAAACCAUUUAUGCCGAAAGGCUCAAGUUAAGGAAUGUAGAAUGUCAAAUAAAAUGACUGGUUUAGUAAAAUGGUUUAACGCUGAUAAAGGUUUCGGCUUUAUUUCUCCUGUUGAUGGUAGUAAAGAUGUGUUUGUGCAUUUUUCUGCGAUUCAGAAUGAUAAUUAUCGAACCUUAUUUGAAGGUCAAAAGGUUACCUUCUCUAUAGAGAGUGGUGCUAAAGGUCCUGCAGCAGCAAAUGUCAUCAUUACUGAUUAAAAUUCAUCGCUCGUCUguauacgaua"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230771"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001535"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; riboswitch"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "TPP riboswitch (THI element)"
+                },
+                "RFAM_SCORE": {
+                    "_text": "77.2"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "4196180"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "4196280"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uugcggggcuAAUUUCUUGUCGGAGUGCCUUAACUGGCUGAGACCGUUUAUUCGGGAUCCGCGGAACCUGAUCAGGCUAAUACCUGCGAAGGGAACAAGAGUUAAUCUGCUaucgcaucgc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230772"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003587"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; thermoregulator"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "cspA thermoregulator"
+                },
+                "RFAM_SCORE": {
+                    "_text": "140.2"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1907151"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1907611"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uuucggguuaAACGAGGUACAGUUCUGUUUAUGUGUGGCAUUUUCAGUAAAGAAGUCCUGAGUAAACACGUUGACGUUGAAUACCGCUUCUCUGCCGAGCCUUAUAUUGGUGCCUCAUGCAGUAAUGUGUCAGUUUUAUCUAUGUUAUGCCUGCGGGCGAAGAAAACAAUCUAAGGAAUUUUUCAAAUGGCAAAGAUUAAAGGUCAGGUUAAGUGGUUCAACGAGUCUAAAGGUUUUGGCUUCAUUACUCCGGCUGAUGGCAGCAAAGAUGUGUUCGUACACUUCUCCGCUAUCCAGGGUAAUGGCUUCAAAACUCUGGCUGAAGGUCAGAACGUUGAGUUCGAAAUUCAGGACGGCCAGAAAGGUCCGGCAGCUGUUAACGUAACAGCUAUCUGAUCGAAUCCACUGAUCUGAAGUGUGAAUACGCUUCAAUCUCGCUAUAAAGCCUCGUCGAAUGCGAGGCUUUUUACUaugcuuuauc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230773"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120002072"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; thermoregulator"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "cspA thermoregulator"
+                },
+                "RFAM_SCORE": {
+                    "_text": "126.7"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "657103"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "657549"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ugccuggaugCGCUUUCAGUUUUGAGACAAAUGAAGUUUUAGUAACUUCUUUAAAAUCAAUAGCUAAAAUAAGUAACAUCAAAAAUAACGCGACUUUUAUCACUUUUUAGUAAAGUUACACUGGACAAAGCGUACCACAAUUGGUGUACUGGUAACCGACACAGCAUUUGUGUCUAUUUUUCAUGUAAAGGUAAUUUUGAUGUCUAAGAUUAAAGGUAACGUUAAGUGGUUUAAUGAGUCCAAAGGAUUCGGUUUCAUUACUCCGGAAGACGGCAGCAAAGACGUGUUCGUACACUUCUCUGCAAUCCAGACUAAUGGUUUUAAAACUCUUGCUGAAGGUCAGCGCGUAGAGUUCGAAAUCACUAACGGUGCCAAAGGCCCUUCUGCUGCAAACGUAAUCGCUCUGUAAGAUACGUCAGCAAGAAUUCAAAACCCGCUUAAUCAGCGGGUUUUUUUUggucuuuagu"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230774"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120003112"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; thermoregulator"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "cspA thermoregulator"
+                },
+                "RFAM_SCORE": {
+                    "_text": "161.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1051305"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1051727"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uaauagcugcGUCGGUUUGAAAGACAGACAGCAUACAAAGUAGUUUACUAAAGCAGUUCUCAUUAUCAGGCAUUAUCCCCUUCUUUUGAGUCUCUCUCCUGAACACUAAGUAGUUUCUGUAUUAAAGCCCUGUUUGCCGAAAGGCCCAAAAUGAAGGAAGUAAAAUAUGUCUAAUAAAAUGACUGGUUUAGUAAAAUGGUUUAACGCAGAUAAAGGUUUUGGCUUUAUCACUCCUGAUGAUGGCAGCAAAGACGUUUUCGUCCAUUUCACCGCCAUCCAGAGCAAUGAAUUCCGCACGCUGAACGAAAAUCAGAAAGUUGAAUUUUCUAUUGAGCAGGGGCAACGUGGCCCCGCGGCAGCGAACGUUGUUACGCUCUAAGGUUGCCAUUAUUACUCAACAUCUCCAUUUCCGCUGUCCAUGUUGUCAUGGUUCacaguaccgc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230775"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001488"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; thermoregulator"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Repression of heat shock gene expression (ROSE) element"
+                },
+                "RFAM_SCORE": {
+                    "_text": "100.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "3867416"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "3867488"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ugauggguguUCUGGCUACCUGACCUGUCCAUUGUGGAAGGUCUUACAUUCUCGCUGAUUUCAGGAGCUAUUGAUUAUGCGUAacuuugauuu"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230776"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000699"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Phenylalanine leader peptide"
+                },
+                "RFAM_SCORE": {
+                    "_text": "130.8"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2737598"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2737723"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "aggaaacaaaCAUGAAACACAUACCGUUUUUCUUCGCAUUCUUUUUUACCUUCCCCUGAAUGGGAGGCGUUUCGUCGUGUGAAACAGAAUGCGAAGACGAACAAUAAGGCCUCCCAAAUCGGGGGGCCUUUUUUAUugauaacaaa"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230777"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001246"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Phenylalanine leader peptide"
+                },
+                "RFAM_SCORE": {
+                    "_text": "77.4"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1799152"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1799276"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "aaagguaacgCAAGCAAUGAAUGCUGCUAUUUUCCGCUUCUUUUUUUACUUUAGCACCUGAAUCCAGGAGGCUAGCGCGUGAGAAGAGAAACGGAAAACAGCGCCUGAAAGCCUCCCAGUGGAGGCUUUUUUUGUaugcgcguuu"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230778"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000279"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Selenocysteine insertion sequence 2"
+                },
+                "RFAM_SCORE": {
+                    "_text": "87.1"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "4298900"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "4298954"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ugcugcgcucGUGUCUGACACGGCCCAUCGGUUGCAGGUCUGCACCAAUCGGUCGGUAAUGGCGCaaugagcaau"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230779"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001205"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Selenocysteine insertion sequence 3"
+                },
+                "RFAM_SCORE": {
+                    "_text": "84.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1547983"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1548041"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ccaggcgcgcGUCUGACACGGACCAACGGUAGCAAGUCUUGCUCCAACAUUUGGUCGCGGUGCGAUGACcaaccacugg"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230780"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001789"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Selenocysteine insertion sequence 3"
+                },
+                "RFAM_SCORE": {
+                    "_text": "84.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "4085182"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "4085240"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ccaggcgcguGUCUGACACGGACCAACGGUAGCAAGUCUUGCUCCAACAUUUGGUCGCGGUGCGAUGACcaaccacugg"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230781"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000797"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "PyrC leader"
+                },
+                "RFAM_SCORE": {
+                    "_text": "68.5"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1122608"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1122657"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "cguuuccgcuUAUCCUUUGUGUCCGGCAAAAACAUCCCUUCAGCCGGAGCAUAGAGAUUAaugacugcac"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230782"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120004467"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; riboswitch"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "TPP riboswitch (THI element)"
+                },
+                "RFAM_SCORE": {
+                    "_text": "66.9"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "2185336"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "2185432"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "aucaucgcaaCCAAACGACUCGGGGUGCCCUUCUGCGUGAAGGCUGAGAAAUACCCGUAUCACCUGAUCUGGAUAAUGCCAGCGUAGGGAAGUCACGGACCACCAGGucauugcuuc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230783"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000798"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "PyrD leader"
+                },
+                "RFAM_SCORE": {
+                    "_text": "98.1"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "1004700"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "1004773"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ccgcaggucaAUUCCCUUUUGGUCCGAACUCGCACAUAAUACGCCCCCGGUUUGCACACCGGGAAUCCAGGAGAGUUCAUGUACuaccccuucg"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230784"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120001619"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "ClpQY promoter"
+                },
+                "RFAM_SCORE": {
+                    "_text": "62.5"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "4122285"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "4122342"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uugcauuaugCCCCGUACUUUUGUACGGGGUUUGUACUCUGUAUUCGUAACCAAGGGGUCAGCUCGUGacaacuauag"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230785"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000905"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; leader"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Ribosomal S15 leader"
+                },
+                "RFAM_SCORE": {
+                    "_text": "115.6"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "3311628"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "3311742"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uaacguacacUGGGAUCGCUGAAUUAGAGAUCGGCGUCCUUUCAUUCUAUAUACUUUGGAGUUUUAAAAUGUCUCUAAGUACUGAAGCAACAGCUAAAAUCGUUUCUGAGUUUGGUCGUGACGCAaacgacaccg"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230786"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000903"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Alpha operon ribosome binding site"
+                },
+                "RFAM_SCORE": {
+                    "_text": "104.1"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "3442439"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "3442550"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ucuuuuguauGUCUGUGCGUUUCCAUUUGAGUAUCCUGAAAACGGGCUUUUCAGCAUGGAACGUACAUAUUAAAUAGUAGGAGUGCAUAGUGGCCCGUAUAGCAGGCAUUAACAUUCCUGAUcauaagcaug"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230787"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000543"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; riboswitch"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Lysine riboswitch"
+                },
+                "RFAM_SCORE": {
+                    "_text": "126.5"
+                },
+                "RFAM_STRAND": {
+                    "_text": "reverse"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "4233325"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "4233521"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "ugcgcuagcgCAGGCCAGAAGAGGCGCGUUGCCCAAGUAACGGUGUUGGAGGAGCCAGUCCUGUGAUAACACCUGAGGGGGUGCAUCGCCGAGGUGAUUGAACGGCUGGCCACGUUCAUCAUCGGCUACAGGGGCUGAAUCCCCUGGGUUGUCACCAGAAGCGUUCGCAGUCGGGCGUUUCGCAAGUGGUGGAGCACUUCUGGGUGAaaauaguagc"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "RFAM_ID": {
+                    "_text": "ECK125230788"
+                },
+                "GENE_ID": {
+                    "_text": "ECK120000122"
+                },
+                "RFAM_TYPE": {
+                    "_text": "Cis-reg; riboswitch"
+                },
+                "RFAM_DESCRIPTION": {
+                    "_text": "Cobalamin riboswitch"
+                },
+                "RFAM_SCORE": {
+                    "_text": "98.3"
+                },
+                "RFAM_STRAND": {
+                    "_text": "forward"
+                },
+                "RFAM_POSLEFT": {
+                    "_text": "4163384"
+                },
+                "RFAM_POSRIGHT": {
+                    "_text": "4163574"
+                },
+                "RFAM_SEQUENCE": {
+                    "_text": "uuguuacaacCUGUAGCAUCCACUUGCCGGUCCUGUGAGUUAAUAGGGAAUCCAGUGCGAAUCUGGAGCUGACGCGCAGCGGUAAGGAAAGGUGCGAUGAUUGCGUUAUGCGGACACUGCCAUUCGGUGGGAAGUCAUCAUCUCUUAGUAUCUUAGAUACCCCUCCAAGCCCGAAGACCUGCCGGCCAACGUCGCAUCUGGuucucaucau"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,1867 @@
+{
+    "_comment": [
+        " Table: CONDITION",
+        " Columns: ",
+        " 1) CONDITION_ID",
+        " 2) CONTROL_CONDITION",
+        " 3) CONTROL_DETAILS",
+        " 4) EXP_CONDITION",
+        " 5) EXP_DETAILS",
+        " 6) CONDITION_GLOBAL",
+        " 7) CONDITION_NOTES"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012401"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without paraquat"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with paraquat"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oxidative Stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012402"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Exponential phase"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Stationary phase"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Growth  phase"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012403"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth on glucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth on glycerol"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012404"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth on glucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Glucose starvation"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012405"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "No addition of NaCl"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Addition of NaCl"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Osmotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012406"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without Tyrosine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth on Tyrosine 1 mM"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012407"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without phenylalanine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on phenylalanine 1 mM"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012408"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without tryptophan"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on tryptophan 1 mM"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012409"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth without inosine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth on inosine"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Nucleotides"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012410"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without tyrosine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with tyrosine"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012411"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without tetracycline"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with tetracycline"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Antibiotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012412"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without phenylalanine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with phenylalanine"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012413"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth without S-nitrosoglutathione"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth on S-nitrosoglutathione"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oxidative Stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012414"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth without sodium nitroprusside"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth on sodium nitroprusside"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oxidative Stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012415"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without tryptophan"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with tryptophan"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012416"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without nitric oxide (NO)"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with nitric oxid"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oxidative Stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012417"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Stress without hydrogen peroxide"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Hydrogen peroxide treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oxidative"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012418"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "anaerobic growth"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "aerobic growth"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Aerobiosis/ Anaerobiosis"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012419"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth without ammonia starvation"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth on ammonia starvation"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Nitrogen source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012420"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without chloramphenicol"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with chloramphenicol"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Antibiotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012421"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without ampicillin"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with ampicillin"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Antibiotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012422"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without nalidixic acid"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with nalidixic acid"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Antibiotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012423"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without norfloxacin"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with norfloxacin"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Antibiotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012424"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without salicylate"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Salicylate treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Antibiotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012425"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no-overproduction of NlpE"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "overproduction of NlpE"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Compounds overproduction"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012426"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no-overproduction of OmpF"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "overproduction of OmpF"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Compounds overproduction"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012427"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no-overproduction of OmpC"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "overproduction of OmpC"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Compounds overproduction"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012428"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no-overproduction of OmpX"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "overproduction of OmpX"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Compounds overproduction"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012429"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no protein overproduction"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "protein overproduction"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Compounds overproduction"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012430"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on  LB"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on no-optimal carbon source"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012431"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth in ammonia"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on nitrate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Nitrogen source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012432"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "extracellular pH"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "shift up extracellular pH"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "pH"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012433"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "extracellular pH 5.0"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "extracellular pH 6.0"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "pH"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012434"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no supplemented"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "supplemented with glucose"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012435"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no-overproduction of sigma E"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "overproduction of sigma E"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Compounds overproduction"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012436"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Isoosmotic condition"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "hypoosmotic environmet"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Osmotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012437"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth with phosphate"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "phosphate starvation"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oligoelements"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012438"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "aerobiosis"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "anaerobiosis"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Aerobiosis/ Anaerobiosis"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012439"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without maltose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on maltose"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012440"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on aerobiosis"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on anaerobiosis"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Aerobiosis/ Anaerobiosis"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012441"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without nitrate"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Nitrate treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Aerobiosis/ Anaerobiosis"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012442"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on glycerol"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on glucose"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012443"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on aerobiosis"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on microaerobiosis"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Aerobiosis/ Anaerobiosis"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012444"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on microaerobiosis"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on anaerobiosis"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Aerobiosis/ Anaerobiosis"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012445"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on thymine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "thymine starvation"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Nucleotides"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012446"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without fumarate"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth with fumarate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012447"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on glycerol"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on others carbon sources"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012448"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on glucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on succinate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {
+                    "_text": "M9 medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012449"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on glucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on malate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {
+                    "_text": "M9 medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012450"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on glucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on tartrate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {
+                    "_text": "M9 medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012451"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on glucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on aspartate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {
+                    "_text": "M9 medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012452"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on glucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on malate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {
+                    "_text": "M9 medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012453"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without glycine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth with glycine"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012454"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without inosine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth with inosine"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012455"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without homocysteine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth with homocysteine"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012456"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "iron repletion"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "iron depletion"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oligoelements"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012457"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without metal"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth with metal"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oligoelements"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012459"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Isoosmotic condition"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "hyperosmotic condition"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Osmotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012460"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "beginning of growth"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "exponential growth"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Growth  phase"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012461"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "with amino acids"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "without amino acids"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012462"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without heat shock"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with heat shock"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Temperature stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012463"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without glucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth with glucose"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012464"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth on optimal carbon source"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": " Growth on non-optimal carbon source"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012465"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "isoosmotic extracellular pH"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "extracellular pH shift down"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "pH"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012466"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no stringent condition"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "stringent condition"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Stringent response"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012467"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth at 37oC"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on cold shock"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Temperature stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012468"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without oxidative stress"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "oxidative stress"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oxidative Stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012469"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without condition"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "condition of high cell density"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Growth  phase"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012470"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without hydrostatic pressure"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with hydrostatic pressure"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Osmotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012471"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Culture medium without amino acids"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth with amino acid on the medium"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012472"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth on minimal medium"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth on rich medium"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Media composition"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012473"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no-alkylating conditions"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "alkylating conditions"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oxidative Stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012474"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth without glucitol"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth on glucitol"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012475"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "no motility"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "motility"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Motility"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012476"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth on L-cysteine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth on L-djenkolate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oligoelements"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012477"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without vitamin"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with vitamin"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oligoelements"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012478"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "without antibiotic stress"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "with antibiotic stress"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Antibiotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012479"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": " With Iron"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Without Iron"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oligoelements"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012480"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without glycolate"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "growth with glycolate"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012481"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth without ferric supplement"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth with ferric supplement"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Oligoelements"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012482"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth without arsenite"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth with arsenite"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Antibiotic stress"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012483"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth without proline"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth with proline"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012484"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth not supplemented  with fucose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth in medium supplemented with focuse"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012485"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Growth with ammonia"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Growth with alternative nitrogen source"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Nitrogen source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000012486"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "Culture in early exponential growth phase"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Culture in late exponential growth phase"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Growth  phase"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000059993"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without nitrite"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Nitrite treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Aerobiosis/ Anaerobiosis"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000059995"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without bile salts"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Bile salts treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Bile salts"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000059997"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without S-adenosylmethionine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "S-adenosylmethionine treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000059999"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without methionine"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Methionine treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Amino acids"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000060001"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without allose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Allose treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000060003"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth without chitobiose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Chitobiose treatment"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "CONDITION_ID": {
+                    "_text": "GID000060005"
+                },
+                "CONTROL_CONDITION": {
+                    "_text": "growth with chitobiose"
+                },
+                "CONTROL_DETAILS": {},
+                "EXP_CONDITION": {
+                    "_text": "Absence of chitobiose"
+                },
+                "EXP_DETAILS": {},
+                "CONDITION_GLOBAL": {
+                    "_text": "Carbon Source"
+                },
+                "CONDITION_NOTES": {}
+            }
+        ]
+    }
+}

@@ -1,0 +1,4559 @@
+{
+    "_comment": [
+        " Table: GC_CONTRAST",
+        " Columns: ",
+        " 1) CONTRAST_ID",
+        " 2) GC_CONTROL_ID",
+        " 3) GC_EXPERIMENTAL_ID",
+        " 4) GC_NOTES",
+        " 5) GC_VARIABLE"
+    ],
+    "ROWSET": {
+        "ROW": [
+            {
+                "_attributes": {
+                    "num": "1"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000003434"
+                },
+                "GC_CONTROL_ID": {},
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003344"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L broth∣ fumarate 50 mM∣ glycerol 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "2"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000003438"
+                },
+                "GC_CONTROL_ID": {},
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003345"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L broth∣ fumarate 50 mM∣ glycerol 0.4%∣ mid exponential phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "3"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000003446"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003348"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003349"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "maltose 0.2%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "4"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004106"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003389"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003390"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "acetate 4 g/L∣ glucose 4 g/L"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "5"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004141"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003627"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003628"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium formate 30 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "6"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004200"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003397"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003398"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 0.25 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "7"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004205"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003653"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003654"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSKOG (K. oxytoca hydG) mutant∣ plasmid pSU2719 mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "8"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004215"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003349"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003405"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "0.1 MPa∣ 10 to 40 MPa"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "9"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004247"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003408"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003409"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 10 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "10"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004308"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003420"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003421"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "chenodeoxycholate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "11"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004312"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003420"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003422"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "deoxycholate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "12"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004316"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003420"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003423"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glycocholate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "13"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004320"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003420"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003424"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "ursodeoxycholate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "14"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004370"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003425"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003725"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 500 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "15"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004394"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003741"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003742"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 0.25 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "16"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000004396"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003741"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003743"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "λ(soxR)∣ λ(truncated soxR)"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "17"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007627"
+                },
+                "GC_CONTROL_ID": {},
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007299"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "chloroacetic acid∣ OD650 of 0.5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "18"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007629"
+                },
+                "GC_CONTROL_ID": {},
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007300"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L broth∣ fumarate 50 mM∣ glycerol 0.4%∣ mid exponential phase∣ oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "19"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007632"
+                },
+                "GC_CONTROL_ID": {},
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007301"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "chloroacetic acid∣ OD650 of 0.5∣ yiaJ knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "20"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007634"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007302"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007303"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "exponential phase∣ stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "21"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007636"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007303"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007304"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "22"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007638"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007305"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007306"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "UTP 50 µM∣ UTP 800 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "23"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007640"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007307"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007308"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "biotin 4 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "24"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007642"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007309"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007310"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L-ascorbate 60 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "25"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007644"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007309"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007311"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L-fucose 60 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "26"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007646"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007309"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007312"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 60 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "27"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007648"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007309"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007313"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "yiaJ knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "28"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007651"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007314"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007315"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "soxR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "29"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007653"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007316"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007314"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "30"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007655"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007300"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003345"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "31"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007658"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007318"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007319"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "pdhR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "32"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007660"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007320"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007321"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "multicopy plasmid pGS613 (pdhR) mutant∣ pdhR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "33"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007662"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007322"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007323"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "crp knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "34"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007664"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007322"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007324"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cyaA knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "35"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007666"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007322"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007325"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "relA knockout mutant∣ spoT knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "36"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007668"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007326"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007327"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 0.25 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "37"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007670"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007326"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007328"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "soxR knockout mutant∣ soxS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "38"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007672"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007326"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007329"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSE380 mutant∣ soxR knockout mutant∣ soxS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "39"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007674"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007327"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007330"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSE380 mutant∣ soxR knockout mutant∣ soxS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "40"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007676"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007327"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007331"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "soxR knockout mutant∣ soxS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "41"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007678"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007332"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007333"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "42"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007680"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007334"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007335"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "conditioned culture medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "43"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007682"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007336"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007337"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ conditioned culture medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "44"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007684"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007338"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007339"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "mid exponential phase∣ stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "45"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007686"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007340"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007341"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homoserine lactone 10 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "46"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007688"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007340"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007342"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium arsenite 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "47"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007690"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007343"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007344"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ M9 minimal medium∣ acetate 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "48"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007692"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007343"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007345"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ M9 minimal medium∣ casamino acids 0.4%∣ glucose 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "49"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007694"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007343"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007346"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ M9 minimal medium∣ glycerol 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "50"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007696"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007343"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007347"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ M9 minimal medium∣ casamino acids 0.4%∣ glycerol 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "51"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007698"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007348"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007349"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 0.5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "52"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007701"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007350"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007351"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "53"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007703"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007352"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007353"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "exponential phase∣ stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "54"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007705"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007352"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007354"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "crp knockout mutant∣ lrp knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "55"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007707"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007352"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007355"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "crp knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "56"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007709"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007352"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007356"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cyaA knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "57"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007711"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007357"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007358"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ conditioned culture medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "58"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007714"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007357"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007359"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sdiA knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "59"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007716"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007360"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007361"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "2,2’-bipyridine 200 µM∣ iron(2+) sulfate (anhydrous) 20 µM∣ sodium citrate 10 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "60"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007719"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007362"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007363"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxyR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "61"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007721"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007364"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007365"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "CCCP 10 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "62"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007723"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007364"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007366"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "DNP 0.5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "63"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007725"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007364"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007367"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "tetrachlorosalicylanilide 10 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "64"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007727"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007364"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007368"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "ethidium bromide 250 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "65"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007729"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007364"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007369"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "nalidixic acid 160 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "66"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007731"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007364"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007370"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "salicylate 5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "67"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007733"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007371"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007372"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "hydG knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "68"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007736"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007371"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007373"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "hydH knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "69"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007739"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007374"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007375"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cadmium dichloride 0.5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "70"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007742"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007374"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007376"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "PbCl2 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "71"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007745"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007374"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007377"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "ZnCl2 0.2 to 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "72"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007748"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007378"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007322"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 0.5%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "73"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007751"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007379"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007380"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "exponential phase∣ stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "74"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007753"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007381"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007382"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 0.5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "75"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007756"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007383"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007340"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "76"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007758"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007384"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007362"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "hydrogen peroxide 100 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "77"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007761"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007385"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007386"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "himA knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "78"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007763"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007387"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007388"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "himA knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "79"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007765"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007389"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007390"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "Cd(II) 1 to 100 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "80"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007768"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007389"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007391"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "Hg(II) 1 to 10 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "81"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007771"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007389"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007392"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "Pb(II) 0.5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "82"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007774"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007389"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007393"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "Zn(II) 1.1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "83"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007777"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007394"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007395"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "zntR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "84"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007780"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007396"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007397"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "hydrogen peroxide 120 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "85"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007782"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007396"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007398"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium chloride 0.35 M"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "86"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007784"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007399"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007400"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "fumarate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "87"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007786"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007400"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007401"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 0.4%∣ glycerol 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "88"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007788"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007402"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007403"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "crp knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "89"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007790"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007398"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007404"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "90"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007792"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007405"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007406"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "aspartate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "91"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007794"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007405"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007407"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "fumarate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "92"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007796"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007405"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007408"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "malate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "93"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007798"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007405"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007409"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "maleate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "94"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007800"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007405"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007410"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "succinate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "95"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007802"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007411"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007412"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "fumarate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "96"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007804"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007412"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007413"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "nitrate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "97"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007806"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007412"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007414"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "narL knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "98"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007808"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007412"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007415"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "fnr knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "99"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007810"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007416"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007411"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "100"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007812"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007401"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007411"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "TMAO 50 mM∣ fumarate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "101"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007814"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007401"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007417"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "fumarate 50 mM∣ nitrate 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "102"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007816"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007418"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007401"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "103"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007819"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007419"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007417"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "104"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007821"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007420"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007405"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "casamino acids 0.5%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "105"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007823"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007421"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007402"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 0.4%∣ glycerol 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "106"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007825"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007421"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007412"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "TMAO 50 mM∣ casamino acids 0.05%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "107"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007827"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007421"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007422"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "arcA knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "108"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007829"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007421"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007423"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "crp knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "109"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007831"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007424"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007425"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "arcA knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "110"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007833"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007426"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007427"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "copper(II) sulfate 3 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "111"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007835"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007426"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007428"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "112"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007837"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007429"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007430"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "relA knockout mutant∣ spoT knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "113"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007839"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007431"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007432"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 0.5%∣ succinate 0.5%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "114"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007842"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007431"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007433"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 0.5%∣ succinate 0.5%∣ tyramine 3 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "115"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007844"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007432"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007433"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "tyramine 3 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "116"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007846"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007434"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007433"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 0.5%∣ succinate 0.5%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "117"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007849"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007435"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007436"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glyoxylate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "118"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007852"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007435"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007437"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L-glutamine 0.2%∣ allantoin 60 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "119"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007855"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007438"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007439"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L-glutamine 0.2%∣ allS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "120"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007857"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007440"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007441"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glyoxylate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "121"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007860"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007442"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007436"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L-glutamine 0.2%∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "122"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007863"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007442"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007441"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "ammonium sulfate 0.5 mM∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "123"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007866"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007442"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007443"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "allS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "124"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007868"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007444"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007442"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glyoxylate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "125"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007874"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007445"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007446"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "methionine 200 µg/mL"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "126"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007877"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007447"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007448"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cAMP 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "127"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007879"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007447"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007449"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "leucine 0.76 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "128"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007881"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007450"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007352"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ minimal medium∣ glucose 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "129"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007883"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007450"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007451"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "vitamin assay casamino acids 0.5%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "130"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007885"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007450"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007452"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 0.4%∣ glycerol 1%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "131"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007887"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007450"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007453"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "crp knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "132"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007889"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007450"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007454"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "lrp knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "133"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007891"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007450"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007455"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "crp knockout mutant∣ lrp knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "134"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007893"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007456"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007457"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "135"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007896"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007458"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007459"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "136"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007898"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007460"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007456"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "137"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007900"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007460"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007461"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "methyl methanesulfonate 0.05%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "138"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007902"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007460"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007458"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "acetate 50 mM∣ pH 6.5"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "139"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007904"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007460"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007462"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "140"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007906"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007463"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007464"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "141"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007908"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007463"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007465"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "exponential phase∣ stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "142"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007910"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007466"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007467"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "pdhR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "143"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007912"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007468"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007469"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 2%∣ sodium acetate 2%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "144"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007914"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007470"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007471"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "novobiocin 12.5 µg/mL"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "145"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007917"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007472"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007473"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "pdhR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "146"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007919"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007474"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007475"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "pyruvate 40 mM∣ succinate 40 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "147"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007922"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007476"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007477"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "acetate 0.009%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "148"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007924"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007476"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007478"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 0.05%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "149"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007926"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007479"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007480"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "N-acetylglucosamine∣ N-acetyl-D-mannosamine"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "150"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007928"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003389"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007482"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rifampicin 500 µg/mL"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "151"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007930"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007483"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007484"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cadmium dichloride 600 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "152"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007933"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003390"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007485"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rifampicin 500 µg/mL"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "153"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007935"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007486"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007476"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "154"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007937"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007487"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007488"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "155"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007939"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007487"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007489"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "metR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "156"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007941"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007490"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007487"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "S-nitrosoglutathione 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "157"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007943"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007490"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007491"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "158"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007945"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007490"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007492"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium nitroprusside 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "159"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007947"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007490"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007493"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "metC knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "160"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007949"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007490"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007494"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "metE knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "161"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007951"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007490"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007495"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "metR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "162"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007953"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007492"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007496"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "163"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007955"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007492"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007497"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "metR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "164"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007957"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007498"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007499"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "2,2’-bipyridine 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "165"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007959"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007498"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007500"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "desferrioxamine B mesylate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "166"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007961"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007501"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007502"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "UMP 0.25 mM∣ uracil 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "167"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007963"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007503"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007504"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium formate 30 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "168"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007965"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007459"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007505"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pUBAD::rpoS (arabinose-induced rpoS) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "169"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007967"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007506"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007507"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L-glutamine 0.2%∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "170"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007970"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007506"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007508"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "ammonium sulfate 0.5 mM∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "171"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007973"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007509"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007510"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L-glutamine 0.2%∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "172"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007976"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007509"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007511"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "allantoin 60 mM∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "173"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007979"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007509"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007512"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "ammonium sulfate 0.5 mM∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "174"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007983"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007513"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007514"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glyoxylate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "175"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007986"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007515"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007516"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glyoxylate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "176"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007989"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007443"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007517"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "L-glutamine 0.2%∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "177"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007992"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007443"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007516"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "ammonium sulfate 0.5 mM∣ ammonium sulfate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "178"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000007995"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007518"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007443"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glyoxylate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "179"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008000"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007519"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000003392"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "multicopy plasmid pRB38 (arcA) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "180"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008002"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007520"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007521"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sdiA knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "181"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008004"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007522"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007523"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "ethyl acetate extract of LB∣ ethyl acetate extract of conditioned medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "182"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008006"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007524"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007415"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "183"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008008"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007525"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007526"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 2%∣ sodium acetate 2%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "184"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008010"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007526"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007527"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "iclR knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "185"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008012"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007454"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007528"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ minimal medium∣ glucose 0.4%"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "186"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008014"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007529"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007530"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium salicylate 5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "187"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008016"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007531"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007532"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "188"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008018"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007493"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007531"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "S-nitrosoglutathione 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "189"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008020"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007493"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007533"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "190"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008022"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007493"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007534"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium nitroprusside 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "191"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008024"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007534"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007535"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "192"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008026"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007536"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007537"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "193"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008028"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007494"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007536"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "S-nitrosoglutathione 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "194"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008030"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007494"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007538"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "195"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008032"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007494"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007539"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium nitroprusside 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "196"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008034"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007539"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007540"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "homocysteine 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "197"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008036"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007541"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007542"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "198"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008038"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007543"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007544"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "199"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008040"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007545"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007546"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "tyramine 3 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "200"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008043"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000003408"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007547"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "pyruvate 40 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "201"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008048"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007414"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007548"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "nitrate"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "202"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008050"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007550"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007551"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "rpoS knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "203"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008052"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007552"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007553"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "oxygen atom"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "204"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008054"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007467"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007554"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "multicopy plasmid pGS613 (pdhR) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "205"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008057"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007473"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007555"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "multicopy plasmid pGS613 (pdhR) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "206"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008060"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007321"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007556"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "pyruvate 40 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "207"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008062"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007557"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007558"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pALS13 (IPTG-induced truncated relA) mutant∣ plasmid pALS13 (not induced truncated relA) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "208"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008065"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007559"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007560"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pBAD/Myc-HisA mutant∣ plasmid pBADBaeR (arabinose-induced baeR) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "209"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008070"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007561"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007562"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "exponential phase∣ stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "210"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008072"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007563"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007564"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium nitrate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "211"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008075"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007563"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007565"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium nitrite 2.5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "212"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008078"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007563"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007566"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cra knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "213"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008081"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007564"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007567"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cra knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "214"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008084"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007565"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007568"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cra knockout mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "215"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008087"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007569"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007570"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium nitrate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "216"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008090"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007569"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007571"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "sodium nitrite 2.5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "217"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008093"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007574"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007575"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "dioxygen 10 µM∣ dioxygen <10 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "218"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008095"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007574"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007576"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "dioxygen 10 µM∣ dioxygen >10 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "219"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008097"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007570"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007564"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "poor medium∣ rich medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "220"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008099"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007333"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007577"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ LE392 conditioned medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "221"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008101"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007578"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007579"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "exponential phase∣ stationary phase"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "222"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008103"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007580"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007581"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "hydrogen peroxide 120 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "223"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008105"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007582"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007583"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "LB medium∣ conditioned culture medium"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "224"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008107"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007584"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007585"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "N-Decanoyl-DL-homoserine lactone 1 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "225"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008109"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007584"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007586"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "N-(3-oxohexanoyl)-L-homoserine lactone 1 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "226"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008111"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007584"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007587"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "V. harveyi autoinducer 1 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "227"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008113"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007588"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007584"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pCX16 (sdiA) mutant∣ plasmid pGB2 mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "228"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008115"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007589"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007590"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSXR (IPTG-induced soxR) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "229"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008119"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007589"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007592"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSXR (not induced soxR) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "230"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008123"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007329"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007594"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSE380 mutant∣ plasmid pSXR (IPTG-induced soxR) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "231"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008125"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007330"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007595"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSE380 mutant∣ plasmid pSXR (IPTG-induced soxR) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "232"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008127"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007596"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007591"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSE380 mutant∣ plasmid pSXR (IPTG-induced soxR) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "233"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008129"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007596"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007597"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSE380 mutant∣ plasmid pSXS (IPTG-induced soxS) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "234"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008131"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007598"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007599"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "plasmid pSE380 mutant∣ plasmid pSXS (IPTG-induced soxS) mutant"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "235"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008133"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007590"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007600"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "236"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008135"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007601"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007602"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "paraquat 50 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "237"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008137"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007603"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007604"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 120 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "238"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008139"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007604"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007605"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cAMP 5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "239"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008141"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007606"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007607"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "cAMP 5 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "240"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008143"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007313"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007606"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "glucose 60 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "241"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008146"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007313"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007608"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "chloroacetic acid∣ succinate 60 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "242"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008150"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007609"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007611"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "zinc sulfate 5 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "243"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008152"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007609"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007612"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "(NH4)2Fe(SO4)2 30 µM∣ desferrioxamine B mesylate 5 µM∣ ferri-desferal 10 µM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "244"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008154"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007613"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007614"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "zinc sulfate 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "245"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008156"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007613"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007615"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "desferrioxamine B mesylate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "246"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008158"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007616"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007617"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "(NH4)2Fe(SO4)2 10 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "247"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008160"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007616"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007618"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "EGTA 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "248"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008162"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007616"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007619"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "MnCl2 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "249"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008164"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007620"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007621"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "zinc sulfate 1 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "250"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008166"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007620"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007622"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "desferrioxamine B mesylate 20 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "251"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008168"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007623"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007624"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "(NH4)2Fe(SO4)2 10 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "252"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008170"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007623"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007625"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "EGTA 50 mM"
+                }
+            },
+            {
+                "_attributes": {
+                    "num": "253"
+                },
+                "CONTRAST_ID": {
+                    "_text": "MCO000008172"
+                },
+                "GC_CONTROL_ID": {
+                    "_text": "MCO000007623"
+                },
+                "GC_EXPERIMENTAL_ID": {
+                    "_text": "MCO000007626"
+                },
+                "GC_NOTES": {},
+                "GC_VARIABLE": {
+                    "_text": "MnCl2 1 mM"
+                }
+            }
+        ]
+    }
+}
