@@ -18,7 +18,9 @@ To download TensorFlow run the following command in the terminal:
 
 &nbsp;
 
-> pip install tensorflow
+```bash 
+    pip install tensorflow
+```
   
 &nbsp;
 
@@ -29,7 +31,11 @@ After installing the pre-requests, navigate to the kmer2vec folder and run the p
 
 To train the model:
 
-> npm run train
+```bash 
+    npm run train
+```
+
+&nbsp;
 
 After running the model a data folder inside **lib** with the filtered regulonDB data will be generated in json files.
 
@@ -42,11 +48,13 @@ To visualize the project with **Tensorboard** run the following command, make su
 ```bash 
     npm run visualize
 ```
+&nbsp;
 
 You will get a URL in the response, usually, the port is **6006**. So most likely you need to navigate to the following URL:
 
 > [TensorBoard 1.13.1 at http://localhost:6006](http://localhost:6006/)
 
+&nbsp;
 
 Finally, you will have three tabs:
 
