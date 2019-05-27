@@ -27,7 +27,7 @@ To download TensorFlow run the following command in the terminal:
 
 To change the hyperparameters of the kmer2vec model, navigate to line 323 in kmer2vec.py and change the following parameters as wanted.
 
-```ruby
+```python
     kmer2vec = Kmer2vec(embedding_size=128, batch_size=128, num_sampled=16, learningRate=1, window_size=2)
 
 ```
