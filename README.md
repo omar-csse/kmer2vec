@@ -1,6 +1,6 @@
 # kmer2vec model
 
-This is a project to find the relation between different DNA kmers of the promotors with sigma70 factor from regulonDB. Each DNA sequence is divided into kmers of length 6. Tensorboard is used to visualize the prediction of the model. Also, to visualize the nearest **kmers** in 3D  
+This is a project to find the relation between different DNA kmers of the promotors with sigma70 factor from [**regulonDB**](https://github.com/omar-csse/kmer2vec/tree/master/db). Each DNA sequence is divided into kmers of length 6. Tensorboard is used to visualize the prediction of the model. Also, to visualize the nearest **kmers** in 3D  
 
 #
 
@@ -48,9 +48,16 @@ To train the model:
 
 &nbsp;
 
-After running the model a data folder inside **lib** with the filtered regulonDB data will be generated in json files.
+The following files will run in this order:
+- [sigma70.py](https://github.com/omar-csse/kmer2vec/blob/master/lib/sigma70.py)
+- [data.py](https://github.com/omar-csse/kmer2vec/blob/master/lib/data.py)
+- [kmer2vec.py](https://github.com/omar-csse/kmer2vec/blob/master/lib/kmer2vec.py)
 
-Also, a log.txt file will be generated to check the logs of **kmer2vec.py**. Note that the **logs** folder is for the output of **Tensorflow**. So, each time training a model, a unique folder with timestamp inside the **logs** folder will be generated and can be visualized in **Tensorboard**.
+&nbsp;
+
+After running the model a [**data**](https://github.com/omar-csse/kmer2vec/tree/master/lib/data) folder inside [**lib**](https://github.com/omar-csse/kmer2vec/tree/master/lib) with the filtered regulonDB data will be generated in json files.
+
+Also, a [**log.txt**](https://github.com/omar-csse/kmer2vec/blob/master/lib/log.txt) file will be generated to check the logs of **kmer2vec.py**. Note that the **logs** folder is for the output of **Tensorflow**. So, each time training a model, a unique folder with timestamp inside the [**logs**](https://github.com/omar-csse/kmer2vec/tree/master/lib/logs) folder will be generated and can be visualized in **Tensorboard**.
  
 &nbsp;
 
@@ -63,7 +70,7 @@ To visualize the project with **Tensorboard** run the following command, make su
 
 You will get a URL in the response, usually, the port is **6006**. So most likely you need to navigate to the following URL:
 
-> [TensorBoard 1.13.1 at http://localhost:6006](http://localhost:6006/)
+> TensorBoard 1.13.1 at [http://localhost:6006](http://localhost:6006/)
 
 &nbsp;
 

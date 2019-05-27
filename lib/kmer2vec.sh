@@ -1,10 +1,10 @@
 #!/bin/bash -l
 
 #PBS -N kmer2vec
-#PBS -l ncpus=8
-#PBS -l ngpus=4
+#PBS -l ncpus=6
+#PBS -l ngpus=2
 #PBS -l gputype=P100
-#PBS -l mem=32GB
+#PBS -l mem=16GB
 #PBS -l walltime=48:00:00
 cd $PBS_O_WORKDIR    
 
