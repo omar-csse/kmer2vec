@@ -49,8 +49,12 @@ To train the model:
 &nbsp;
 
 The following files will run in this order:
-- [sigma70.py](https://github.com/omar-csse/kmer2vec/blob/master/lib/sigma70.py)&emsp;&emsp;to generate &emsp;=>&emsp;[sigma70.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/sigma70.json)
-- [data.py](https://github.com/omar-csse/kmer2vec/blob/master/lib/data.py)&emsp;&emsp;&emsp;&ensp;&nbsp;to generate &emsp;=>&emsp;[[corpus.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/corpus.json), [data.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/data.json), [corpus.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/corpus.json), [int2kmer.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/int2kmer.json), [kmer2int.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/kmer2int.json), [kmers.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/kmers.json), [sequences.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/sequences.json)]
+- [sigma70.py](https://github.com/omar-csse/kmer2vec/blob/master/lib/sigma70.py)&emsp;&emsp;to generate &emsp;=>&emsp;[sigma70.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/sigma70.json)&nbsp;&nbsp;
+
+&nbsp;  
+- [data.py](https://github.com/omar-csse/kmer2vec/blob/master/lib/data.py)&emsp;&emsp;&emsp;&ensp;&nbsp;to generate &emsp;=>&emsp;[corpus.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/corpus.json), [data.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/data.json), [corpus.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/corpus.json), [int2kmer.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/int2kmer.json), [kmer2int.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/kmer2int.json), [kmers.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/kmers.json), [sequences.json](https://github.com/omar-csse/kmer2vec/blob/master/lib/data/sequences.json)&nbsp;&nbsp;
+
+&nbsp; 
 - [kmer2vec.py](https://github.com/omar-csse/kmer2vec/blob/master/lib/kmer2vec.py)&emsp;&nbsp;to run the model 
 
 &nbsp;
