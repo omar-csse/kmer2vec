@@ -39,7 +39,9 @@ Also, a log.txt file will be generated to check the logs of **kmer2vec.py**. Not
 
 To visualize the project with **Tensorboard** run the following command, make sure to navigate to kmer2vec folder.
 
-> npm run visualize
+```bash 
+    npm run visualize
+```
 
 You will get a URL in the response, usually, the port is **6006**. So most likely you need to navigate to the following URL:
 
