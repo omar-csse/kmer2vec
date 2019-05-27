@@ -5,7 +5,7 @@ This is a project to find the relation between different DNA kmers of the promot
 #
 
 
-### Prerequests:
+### Prerequisites:
 
 - Python 3.x and pip
 - Node.js
@@ -25,7 +25,19 @@ To download TensorFlow run the following command in the terminal:
 
 #
 
-After installing the pre-requests, navigate to the kmer2vec folder and run the project with the following commands:
+To change the hyperparameters of the kmer2vec model, navigate to line 323 in kmer2vec.py and change the following parameters as wanted.
+
+```ruby
+    kmer2vec = Kmer2vec(embedding_size=128, batch_size=128, num_sampled=16, learningRate=1, window_size=2)
+
+```
+
+
+#
+
+&nbsp;
+
+After installing the Prerequisites, navigate to the kmer2vec folder and run the project with the following commands:
 
 
 To train the model:
