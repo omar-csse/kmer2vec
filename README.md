@@ -16,7 +16,6 @@ This is a project to find the relation between different DNA kmers of the promot
 
 To download TensorFlow run the following command in the terminal:
 
-&nbsp;
 
 ```bash 
     pip install tensorflow
