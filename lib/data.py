@@ -57,7 +57,6 @@ class Data(object):
             kmer = sequence[i : i + self._k]
             sequence_kmers.append(kmer)
 
-            # if kmer not in self._kmers:
             self._kmers.append(kmer)
 
         self._kmers_size = len( set(self._kmers) )

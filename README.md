@@ -61,7 +61,7 @@ The following files will run in this order:
 
 After running the model a [**data**](https://github.com/omar-csse/kmer2vec/tree/master/lib/data) folder inside [**lib**](https://github.com/omar-csse/kmer2vec/tree/master/lib) with the filtered regulonDB data will be generated in json files.
 
-Also, a [**log.txt**](https://github.com/omar-csse/kmer2vec/blob/master/lib/log.txt) file will be generated to check the logs of **kmer2vec.py**. Note that the **logs** folder is for the output of **Tensorflow**. So, each time training a model, a unique folder with timestamp inside the [**logs**](https://github.com/omar-csse/kmer2vec/tree/master/lib/logs) folder will be generated and can be visualized in **Tensorboard**.
+Also, a [**log.txt**](https://github.com/omar-csse/kmer2vec/tree/master/lib/logs/log.txt) file will be generated to check the output of the current trained model. It will be added inside the model [**logs**](https://github.com/omar-csse/kmer2vec/tree/master/lib/logs) folder. Note that the [**logs**](https://github.com/omar-csse/kmer2vec/tree/master/lib/logs) folder is the output of **Tensorflow**. So, each time training a model, a unique folder with timestamp inside the [**logs**](https://github.com/omar-csse/kmer2vec/tree/master/lib/logs) folder will be generated and can be visualized in **Tensorboard**.
  
 &nbsp;
 

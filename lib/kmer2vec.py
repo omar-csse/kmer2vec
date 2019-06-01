@@ -70,7 +70,13 @@ class Kmer2vec(object):
 
         self._cleanDirectories()
 
-        self._log_file = open(self._dir_path + '/log.txt', 'a')
+        now = datetime.now()
+
+        version = now.strftime("%m %d %Y-%H:%M:%S")
+        self._tensorboard_path = self._dir_path + '/logs/kmer2vec-' + version
+        os.makedirs(self._tensorboard_path)
+
+        self._log_file = open(self._tensorboard_path + '/log.txt', 'a')
         return self._log_file
 
 
@@ -87,8 +93,8 @@ class Kmer2vec(object):
         print("\n\nTensorFlow version: " + tf.__version__)
         self._log_file.write("\n\nTensorFlow version: " + tf.__version__ + "\n\n")
         self._log_file.write("""kmer2vec model (skipgram).""")
-        self._log_file.write("\n\nimplementing word2vec algorithm on promotors' sequences \nwith sigma70 factor")
-        self._log_file.write(" using skip gram model with a batch size of %d" % self._batch_size)
+        self._log_file.write("\n\nimplementing word2vec algorithm on promotors' sequences \nwith sigma70 factor using skip gram model\n\n")
+        self._log_file.write("Hyper-parameters:\n\nbatch_size: {}, embedding_size: {}, learning_rate: {}, window_size: {}".format(self._batch_size, self._embedding_size, self._learningRate, self._window_size))
 
         # the collected data and labels
         self._data = json.load(open(self._dir_path + '/data/data.json'))
@@ -134,7 +140,7 @@ class Kmer2vec(object):
         return config
 
 
-    def _batch_generator(self, skip_window=4, num_skips=8):
+    def _get_skipgram_batch(self, skip_window=4, num_skips=8):
         
         assert self._batch_size % num_skips == 0
         assert num_skips <= 2 * skip_window
@@ -191,11 +197,11 @@ class Kmer2vec(object):
                 self._embeddings = tf.Variable(tf.random_uniform([self._kmers_size, self._embedding_size], -1.0, 1.0))
                 embed = tf.nn.embedding_lookup(self._embeddings, self._train_inputs)
 
-            with tf.name_scope('softmax_weights'):
+            with tf.name_scope('nce_weights'):
                 softmax_weights = tf.Variable(tf.truncated_normal([self._kmers_size, self._embedding_size], 
                                     stddev=1.0 / math.sqrt(self._embedding_size)))
 
-            with tf.name_scope('softmax_biases'):
+            with tf.name_scope('nce_biases'):
                 softmax_biases = tf.Variable(tf.zeros([self._kmers_size]))
 
             # Compute the softmax loss, using a sample of the negative labels each time.
@@ -237,10 +243,6 @@ class Kmer2vec(object):
 
         with tf.Session(graph=self._graph) as session:
             
-            now = datetime.now()
-
-            version = now.strftime("%m %d %Y-%H:%M:%S")
-            self._tensorboard_path = self._dir_path + '/logs/kmer2vec-' + version
             train_writer = tf.summary.FileWriter(self._tensorboard_path, session.graph)
 
             self._variables.run()
@@ -256,7 +258,7 @@ class Kmer2vec(object):
             for epoch in range(1, epochs):
 
                 # generate a batch using a dataset pipeline
-                batch_inputs, batch_labels = self._batch_generator(skip_window=self._window_size, num_skips=self._window_size*2)
+                batch_inputs, batch_labels = self._get_skipgram_batch(skip_window=self._window_size, num_skips=self._window_size*2)
 
                 # Put the data as a dictionery (the model accept dict only)
                 feed_dict = {self._train_inputs: batch_inputs, self._train_labels: batch_labels}
@@ -281,7 +283,7 @@ class Kmer2vec(object):
 
                 # The average loss is an estimate of the loss over the last 2000
                 # batches.
-                self._log_file.write('Average loss at epoch/:  {}/{}    =>   {}\n'.format(epoch, epochs, (self._average_loss/epoch)))
+                self._log_file.write('Average loss at epoch:  {}/{}    =>   {}\n'.format(epoch, epochs, (self._average_loss/epoch)))
                 print('Average loss at epoch:  {}/{}    =>   {}'.format(epoch, epochs, (self._average_loss/epoch)))
 
                 if epoch % 2000 == 0:
@@ -320,7 +322,7 @@ class Kmer2vec(object):
 
 def main():
 
-    kmer2vec = Kmer2vec(embedding_size=128, batch_size=128, num_sampled=16, learningRate=1, window_size=2)
+    kmer2vec = Kmer2vec(embedding_size=256, batch_size=64, num_sampled=8, learningRate=1, window_size=2)
 
     logs_file = kmer2vec.openLogs()
 
