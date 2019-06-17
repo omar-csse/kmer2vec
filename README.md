@@ -100,15 +100,15 @@ To visualize the nearest kmers in 3D, navigate to **Projector**
 
 ### Hyper-parameters:
 
-</div style="align-self:center;">
+</div style="margin: 0 auto;">
 
-| Learning Rate | Window Size | Loss |
-| :---: | :---: | :----: |
-| 0.1   | 2     | 0.7192 |
-| 0.1   | 4     | 1.0523 |
-| 0.5   | 2     | 0.3683 |
-| 0.5   | 4     | 0.8860 |
-| 1     | 2     | 0.2668 |
-| 1     | 4     | 0.9222 |
+| Learning Rate | Window Size | Loss   |
+| :---:         | :---:       | :----: |
+| 0.1           | 2           | 0.7192 |
+| 0.1           | 4           | 1.0523 |
+| 0.5           | 2           | 0.3683 |
+| 0.5           | 4           | 0.8860 |
+| 1             | 2           | 0.2668 |
+| 1             | 4           | 0.9222 |
 
 </div>
