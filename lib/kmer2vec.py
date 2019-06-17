@@ -23,7 +23,7 @@ class Kmer2vec(object):
     """kmer2vec model (skipgram)."""
 
 
-    def __init__(self, embedding_size, batch_size, num_sampled, learningRate, window_size):
+    def __init__(self, embedding_size, batch_size, learningRate, window_size):
 
         self._inputs = []
         self._labels = []
@@ -34,7 +34,7 @@ class Kmer2vec(object):
         self._kmers_size = 0
         self._embedding_size = embedding_size
         self._batch_size = batch_size
-        self._num_sampled = num_sampled
+        self._num_sampled = 8
         self._learningRate = learningRate
         self._window_size = window_size
         self._average_loss = 0.0
@@ -73,7 +73,7 @@ class Kmer2vec(object):
         now = datetime.now()
 
         version = now.strftime("%m %d %Y-%H:%M:%S")
-        self._tensorboard_path = self._dir_path + '/logs/kmer2vec-' + version
+        self._tensorboard_path = self._dir_path+'/logs/lr'+str(self._learningRate)+'-ws:'+str(self._window_size)+'-kmer2vec '+version
         os.makedirs(self._tensorboard_path)
 
         self._log_file = open(self._tensorboard_path + '/log.txt', 'a')
@@ -322,7 +322,7 @@ class Kmer2vec(object):
 
 def main():
 
-    kmer2vec = Kmer2vec(embedding_size=256, batch_size=64, num_sampled=8, learningRate=1, window_size=2)
+    kmer2vec = Kmer2vec(embedding_size=256, batch_size=64, learningRate=1, window_size=4)
 
     logs_file = kmer2vec.openLogs()
 
@@ -332,8 +332,8 @@ def main():
     print("\n\n\nnumber of cpus: {}".format(mp.cpu_count()))
     logs_file.write("\n\n\nnumber of cpus: {}".format(mp.cpu_count()))
 
-    print('\nkmer size (vocabulary = unique words): %d' % kmer2vec._kmers_size)
-    logs_file.write('\nkmer size (vocabulary = unique words): %d' % kmer2vec._kmers_size)
+    print('\nkmer size (vocabulary = unique words): %d\n' % kmer2vec._kmers_size)
+    logs_file.write('\nkmer size (vocabulary = unique words): %d\n' % kmer2vec._kmers_size)
 
     print('length of data: %d\n' % len(kmer2vec._data))
     logs_file.write('length of data: %d' % len(kmer2vec._data))

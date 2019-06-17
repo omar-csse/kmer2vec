@@ -91,3 +91,24 @@ To visualize the loss of the model in 2D graphs, navigate to **SCALARS**
 To visualize the graph of the model, navigate to **GRAPHS**
 
 To visualize the nearest kmers in 3D, navigate to **Projector**
+
+&nbsp;
+
+#
+
+&nbsp;
+
+### Hyper-parameters:
+
+<center>
+
+| Learning Rate &nbsp;&nbsp;| Window Size &nbsp;&nbsp;| Loss |
+| ------------ | ------------ | ------------ |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;0.1 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 |    0.7192 |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;0.1 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4 |    1.0523 |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;0.5 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 |    0.3683 |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;0.5 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4 |    0.8860 |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2 |    0.2668 |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4 |    0.9222 |
+
+</center>
