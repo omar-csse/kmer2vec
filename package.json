@@ -5,22 +5,20 @@
 	"main": "server/server.js",
 	"author": "omar",
 	"license": "MIT",
-    "private": true,
+	"private": true,
 	"scripts": {
 		"start": "NODE_ENV=development nodemon server/server.js",
-        "build": "NODE_ENV=production node server/server.js",
-        "sigma70": "python lib/sigma70.py",
-        "data": "python lib/data.py",
-        "kmer2vec:v1": "python lib/kmer2vec:v1/kmer2vec.py",
-        "train": "npm run sigma70 && npm run data && npm run kmer2vec:v1",
-        "visualize": "tensorboard --logdir=lib/logs"
+		"build": "NODE_ENV=production node server/server.js",
+		"sigma70": "python lib/sigma70.py",
+		"data": "python lib/data.py",
+		"kmer2vec:v1": "python lib/kmer2vec:v1/kmer2vec.py",
+		"train": "npm run sigma70 && npm run data && npm run kmer2vec:v1",
+		"visualize": "tensorboard --logdir=lib/logs"
 	},
 	"dependencies": {
 		"compression": "^1.7.4",
-		"dotenv": "^7.0.0",
 		"express": "^4.16.4",
 		"nodemon": "^1.18.11",
-		"pug": "^2.0.3",
-		"seedrandom": "~2.4.3"
+		"pug": "^2.0.3"
 	}
 }
