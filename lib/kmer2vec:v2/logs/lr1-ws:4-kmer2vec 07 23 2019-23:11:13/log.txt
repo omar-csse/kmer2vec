@@ -1,0 +1,18 @@
+kmer2vec model (skipgram).
+
+implementing word2vec algorithm on promotors' sequences 
+with sigma70 factor using skip gram model
+
+Hyper-parameters:
+
+batch_size: 64, embedding_size: 256, learning_rate: 1, window_size: 4
+
+ML Data setup is done
+
+
+
+number of cpus: 4
+kmer size (vocabulary = unique words): 4089
+length of data: 133304
+
+training is done!, and model is saved.
