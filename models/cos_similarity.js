@@ -15,4 +15,4 @@ const nearest_kmers = async (kmer) => {
     return nearest_kmers
 }
 
-nearest_kmers('TGGAAA').then(sim => console.log(sim))
+nearest_kmers('ACAGCT').then(sim => console.log(sim))

@@ -37,14 +37,13 @@ class Kmer2vec(object):
     """kmer2vec model (skipgram)."""
 
 
-    def __init__(self, embedding_size, learningRate, window_size):
+    def __init__(self, embedding_size, window_size):
 
         self._corpus = []
         self._kmer2int = {}
         self._int2kmer = {}
         self._kmers_size = 0
         self._embedding_size = embedding_size
-        self._learningRate = learningRate
         self._window_size = window_size
         self._log_file = None
         self._workers = multiprocessing.cpu_count()
@@ -68,7 +67,7 @@ class Kmer2vec(object):
         now = datetime.now()
 
         version = now.strftime("%m %d %Y-%H:%M:%S")
-        self._logs_path = self._dir_path+'/logs/lr'+str(self._learningRate)+'-ws:'+str(self._window_size)+'-kmer2vec '+version
+        self._logs_path = self._dir_path+'/logs/ws:'+str(self._window_size)+'-kmer2vec '+version
         os.makedirs(self._logs_path)
 
         self._log_file = open(self._logs_path + '/log.txt', 'a')
@@ -83,7 +82,7 @@ class Kmer2vec(object):
 
         self._log_file.write("""kmer2vec model (skipgram).""")
         self._log_file.write("\n\nimplementing word2vec algorithm on promotors' sequences \nwith sigma70 factor using skip gram model\n\n")
-        self._log_file.write("Hyper-parameters:\n\nembedding_size: {}, learning_rate: {}, window_size: {}".format(self._embedding_size, self._learningRate, self._window_size))
+        self._log_file.write("Hyper-parameters:\n\nembedding_size: {}, window_size: {}".format(self._embedding_size, self._window_size))
 
         # the collected data and labels
         self._corpus = json.load(open(self._dir_path + '/../data/corpus.json'))
@@ -96,9 +95,9 @@ class Kmer2vec(object):
 
 
     def build_model(self, epochs):
-        self._model = Word2Vec( size=self._embedding_size, window=self._window_size, 
-                                workers=self._workers, sg=1, alpha=self._learningRate,
-                                seed=1, iter=epochs, min_count=0)
+        self._model = Word2Vec( size=self._embedding_size, workers=self._workers, 
+                                window=self._window_size, seed=1, iter=epochs, 
+                                min_count=0, sg=1, )
         
         self._model.build_vocab(self._corpus)
 
@@ -137,7 +136,7 @@ class Kmer2vec(object):
 
 def main():
 
-    kmer2vec = Kmer2vec(embedding_size=256, learningRate=0.001, window_size=2)
+    kmer2vec = Kmer2vec(embedding_size=256, window_size=2)
 
     logs_file = kmer2vec.openLogs()
 
