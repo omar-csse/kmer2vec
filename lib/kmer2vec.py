@@ -257,6 +257,16 @@ class Kmer2vec(object):
             average_loss_2000_logs = []
             average_loss_2000 = 0
 
+            # Returns our Embeddings so we can access them       
+            self._final_embeddings = self._normalized_embeddings.eval()
+            vectors1 = dict()
+            vectors1['vectors'] = {}
+            
+            for i, kmer in enumerate(self._kmer2int):
+                vectors1['vectors'].update( {str(kmer): self._final_embeddings[i].tolist()} )
+            
+            with open(self._dir_path+'/data/kmer_vectors_before.json', 'w') as filename: json.dump(vectors1, filename, indent=4)
+
             for epoch in range(1, epochs):
 
                 # generate a batch using a dataset pipeline
@@ -330,7 +340,7 @@ class Kmer2vec(object):
 
 def main():
 
-    kmer2vec = Kmer2vec(embedding_size=256, batch_size=64, learningRate=1, window_size=4)
+    kmer2vec = Kmer2vec(embedding_size=256, batch_size=64, learningRate=0.1, window_size=2)
 
     logs_file = kmer2vec.openLogs()
 
