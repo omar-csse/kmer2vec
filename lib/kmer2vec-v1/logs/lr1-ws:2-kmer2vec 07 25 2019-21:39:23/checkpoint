@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/omar/GoogleDrive/QUT/Year3/EGH400/project/kmer2vec/lib/kmer2vec-v1/logs/lr1-ws:2-kmer2vec 07 25 2019-21:39:23/model.ckpt"
+all_model_checkpoint_paths: "/Users/omar/GoogleDrive/QUT/Year3/EGH400/project/kmer2vec/lib/kmer2vec-v1/logs/lr1-ws:2-kmer2vec 07 25 2019-21:39:23/model.ckpt"
