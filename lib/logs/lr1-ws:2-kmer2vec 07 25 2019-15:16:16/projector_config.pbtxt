@@ -1,4 +1,0 @@
-embeddings {
-  tensor_name: "embedding/Variable:0"
-  metadata_path: "/Users/omar/GoogleDrive/QUT/Year3/EGH400/project/kmer2vec/lib/logs/lr1-ws:2-kmer2vec 07 25 2019-15:16:16/metadata.tsv"
-}

@@ -13,7 +13,7 @@
 		"data": "python lib/data.py",
 		"kmer2vec:v1": "python lib/kmer2vec:v1/kmer2vec.py",
 		"train": "npm run sigma70 && npm run data && npm run kmer2vec:v1",
-		"visualize": "tensorboard --logdir=lib/logs"
+		"visualize": "tensorboard --logdir=lib/kmer2vec-v1/logs"
 	},
 	"dependencies": {
 		"compression": "^1.7.4",
