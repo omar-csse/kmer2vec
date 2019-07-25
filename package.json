@@ -18,7 +18,10 @@
 	"dependencies": {
 		"compression": "^1.7.4",
 		"express": "^4.16.4",
+		"ml5": "^0.3.1",
 		"nodemon": "^1.18.11",
-		"pug": "^2.0.3"
+		"pug": "^2.0.3",
+		"rollup": "^1.17.0",
+		"seedrandom": "~2.4.3"
 	}
 }
