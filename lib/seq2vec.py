@@ -8,6 +8,7 @@ from sklearn.manifold import TSNE
 import numpy as np
 np.set_printoptions(threshold=sys.maxsize)
 
+
 class Seq2Vec(object):
 
     """Seq2Vec find the average vector for promoter sequences."""
@@ -18,8 +19,10 @@ class Seq2Vec(object):
         self._corpus = []
         self._sequences = []
         self._sigma70 = []
-        self._sequences_vectors = dict()
-        self._sequences_vectors['vectors'] = {}
+        self._vectors = []
+        self._sequence_coords = []
+        self._sequence_vectors = dict()
+        self._sequence_vectors['vectors'] = {}
         self._kmer_vectors = []
         self._embedding_size = embedding_size
         self._dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -31,6 +34,8 @@ class Seq2Vec(object):
         self._sequences = json.load(open(self._dir_path + '/data/sequences.json'))
         self._kmer_vectors = json.load(open(self._dir_path + '/data/kmer_Vectors.json'))['vectors']
         self._sigma70 = json.load(open(self._dir_path + '/data/sigma70.json'))
+
+        print("\n\nsetup data")
 
 
     def avg_sequence_vector(self, kmers):
@@ -45,16 +50,33 @@ class Seq2Vec(object):
         return sequence_vec
 
 
+    def calculate_coords(self):
+
+        tsne_model = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23)
+        new_values = tsne_model.fit_transform(self._vectors)
+
+        for i, value in enumerate(new_values):
+            row = {
+                "promoter_id": self._sigma70[i]['PROMOTER_ID'],
+                "x": float(value[0]),
+                "y": float(value[1]),
+            }
+            self._sequence_coords.append(row)
+
+        print("calculateing x, and y coordinates")
+
+
     def calculate_vectors(self):
 
-        for i in range(len(self._sequences)):
-
+        for i in range(len(self._sigma70)):
             vector = self.avg_sequence_vector(self._corpus[i])
+            self._vectors.append(vector)
 
-            for j in range(len(self._sigma70)):
-                if (self._sigma70[j]['PROMOTER_SEQUENCE'] == self._sequences[i]):
-                    promoter_id = self._sigma70[j]['PROMOTER_ID']
-                    self._sequences_vectors['vectors'].update( {promoter_id: vector.tolist()} )
+            if (self._sigma70[i]['PROMOTER_SEQUENCE'] == self._sequences[i]):
+                promoter_id = self._sigma70[i]['PROMOTER_ID']
+                self._sequence_vectors['vectors'].update( {promoter_id: vector.tolist()} )
+
+        print("vectors are calculated")
 
 
     def saveData(self):
@@ -63,9 +85,12 @@ class Seq2Vec(object):
             os.mkdir(self._dir_path+'/data')
 
         with open(self._dir_path+'/data/sequence_vectors.json', 'w') as filename: 
-            json.dump(self._sequences_vectors, filename, indent=4)
+            json.dump(self._sequence_vectors, filename, indent=4)
+        with open(self._dir_path+'/data/sequence_coords.json', 'w') as filename: 
+            json.dump(self._sequence_coords, filename, indent=4)
 
-        print("sequences_vectors.json is created")
+        print("sequence_coords.json is created")
+        print("sequence_vectors.json is created")
 
 
 def main():
@@ -74,6 +99,7 @@ def main():
 
     seq2vec.setup()
     seq2vec.calculate_vectors()
+    seq2vec.calculate_coords()
     seq2vec.saveData()
 
 

@@ -27,15 +27,14 @@ class Data(object):
     def setup(self):
 
         self._sigma70 = json.load(open(self._dir_path + '/data/sigma70.json'))
-        self._sigma70 = self._sigma70[:int(0.9 * len(self._sigma70))]
-        self._sequences = [promoter['PROMOTER_SEQUENCE'] for promoter in self._sigma70] 
 
         # shuffle then split the data into training and testing sets
         random.seed(230)
-
         for _ in range(5):
-            random.shuffle(self._sequences)
-
+            random.shuffle(self._sigma70)
+        
+        self._sequences = [promoter['PROMOTER_SEQUENCE'] for promoter in self._sigma70] 
+        
         print("\n\ndata is setup")
 
 
@@ -102,6 +101,7 @@ class Data(object):
         if not os.path.exists(self._dir_path+'/data'): 
             os.mkdir(self._dir_path+'/data')
 
+        with open(self._dir_path+'/data/sigma70.json', 'w') as filename: json.dump(self._sigma70, filename, indent=4)
         with open(self._dir_path+'/data/sequences.json', 'w') as filename: json.dump(self._sequences, filename, indent=4)
         with open(self._dir_path+'/data/int2kmer.json', 'w') as filename: json.dump(self._int2kmer, filename, indent=4)
         with open(self._dir_path+'/data/kmer2int.json', 'w') as filename: json.dump(self._kmer2int, filename, indent=4)

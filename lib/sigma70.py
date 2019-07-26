@@ -1,5 +1,6 @@
 import os
 import json
+import random
 from pathlib import Path
 
 
@@ -30,6 +31,7 @@ class Sigma70(object):
                 "PROMOTER_SEQUENCE": x['PROMOTER_SEQUENCE']['_text'].upper(),
             }
             self._data.append(row)
+
         print("sigma70 data is generated")
 
     def saveSigma70(self):
