@@ -20,7 +20,8 @@ class Seq2Vec(object):
         self._sequences = []
         self._sigma70 = []
         self._vectors = []
-        self._sequence_coords = []
+        self._sequence_coords = dict()
+        self._sequence_coords['coords'] = []
         self._sequence_vectors = dict()
         self._sequence_vectors['vectors'] = {}
         self._kmer_vectors = []
@@ -58,10 +59,12 @@ class Seq2Vec(object):
         for i, value in enumerate(new_values):
             row = {
                 "promoter_id": self._sigma70[i]['PROMOTER_ID'],
+                "promoter_sequence": self._sigma70[i]['PROMOTER_SEQUENCE'],
                 "x": float(value[0]),
                 "y": float(value[1]),
+                "mean": np.mean(self._vectors[i])
             }
-            self._sequence_coords.append(row)
+            self._sequence_coords['coords'].append(row)
 
         print("calculateing x, and y coordinates")
 
