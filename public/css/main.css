@@ -49,7 +49,9 @@ td {
 }
 
 .sequence {
-    word-wrap: break-word; 
+    white-space:pre-wrap;
+    word-wrap: break-word;
+    word-break: break-all; 
     overflow-wrap: break-word;
 }
 
