@@ -92,10 +92,9 @@ async function viewBtn() {
         document.getElementsByClassName("scrollbar")[0].style.height = "1500px"
 
         for (let i = 0; i < coords.coords.length; i++) {
+            let html = `Id: ${coords.coords[i].promoter_id}\n<div class="sequence">Sequence: ${coords.coords[i].promoter_sequence}</div>\nx: ${coords.coords[i].x}\ny: ${coords.coords[i].y}\nMean of the vector: ${coords.coords[i].mean}`;
             let newRow = table.insertRow(-1);
-            let newCell = newRow.insertCell(0);
-            let newText = document.createTextNode(`id: ${coords.coords[i].promoter_id}\nsequence: ${coords.coords[i].promoter_sequence}\nx: ${coords.coords[i].x}\ny: ${coords.coords[i].y}\nmean of the vector: ${coords.coords[i].mean}`);
-            newCell.appendChild(newText);
+            let newCell = newRow.insertCell(0).innerHTML = html;
         }
     }
         
