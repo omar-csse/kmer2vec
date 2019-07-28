@@ -82,6 +82,7 @@ async function viewBtn() {
     if (chart.style.display === "none") {
         viewbtn.textContent = "Table View"
         document.getElementsByClassName("scrollbar")[0].style.height = "0px"
+        table.innerHTML = ''
         chart.style.display = "block";
         document.getElementsByClassName("chart-container")[0].style.display = "block"
     } else {
