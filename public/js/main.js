@@ -1,5 +1,5 @@
 let coordsChart = [];
-let coords = []
+let sequences = []
 
 const random_rgba = () => {
     let o = Math.round
@@ -10,14 +10,14 @@ const random_rgba = () => {
 
 const filterData = async (data) => {
 
-    for (let i = 0; i < data.coords.length; i++) {
+    for (let i = 0; i < data.sequences.length; i++) {
         row = {
-            label: [data.coords[i].promoter_id],
+            label: [data.sequences[i].promoter_id],
             backgroundColor: random_rgba(),
             data: [{
-                x: data.coords[i].x,
-                y: data.coords[i].y,
-                r: data.coords[i].mean * 1500
+                x: data.sequences[i].x,
+                y: data.sequences[i].y,
+                r: data.sequences[i].mean * 1500
             }]
         }
 
@@ -27,16 +27,14 @@ const filterData = async (data) => {
 
 const fetchData = async () => {
 
-    await fetch('/api/coords')
+    await fetch('/sequences')
         .then(res => res.json())
-        .then(data => coords = data)
+        .then(data => sequences = data)
         .then(data => filterData(data))
 }
 
 const drawchart = () => {
 
-
-    
     // For a bubble chart
     let chart = new Chart(document.getElementById("chart").getContext('2d'), {
         type: 'bubble',
@@ -91,11 +89,31 @@ async function viewBtn() {
         document.getElementsByClassName("chart-container")[0].style.display = "none"
         document.getElementsByClassName("scrollbar")[0].style.height = "1500px"
 
-        for (let i = 0; i < coords.coords.length; i++) {
-            let html = `Id: ${coords.coords[i].promoter_id}\n<div class="sequence">Sequence: ${coords.coords[i].promoter_sequence}</div>\nx: ${coords.coords[i].x}\ny: ${coords.coords[i].y}\nMean of the vector: ${coords.coords[i].mean}`;
+        this.sequences = sequences.sequences
+
+        for (let i = 0; i < this.sequences.length; i++) {
+            let html = `Id: <span id="sequence${i}">${this.sequences[i].promoter_id}</span>\n<div class="sequence">Sequence: ${this.sequences[i].promoter_sequence}</div>\nx: ${this.sequences[i].x}\ny: ${this.sequences[i].y}\nMean of the vector: ${this.sequences[i].mean}`;
             let newRow = table.insertRow(-1);
             let newCell = newRow.insertCell(0).innerHTML = html;
         }
     }
         
+}
+
+function filterTable(e) {
+
+    const term = e.target.value.toLowerCase()
+    let table, tr;
+    input = document.getElementById("search-box");
+    table = document.getElementById("sequencesTable");
+    tr = table.getElementsByTagName("tr");
+    sequencesRow = table.getElementsByTagName("span");
+
+    for (i = 0; i < sequencesRow.length; i++) {
+        if (sequencesRow[i].innerHTML.toLowerCase().indexOf(term) > -1) {
+            tr[i].style.display = "";
+        } else {
+            tr[i].style.display = "none";
+        }       
+    }
 }

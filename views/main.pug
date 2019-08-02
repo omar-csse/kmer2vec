@@ -18,6 +18,10 @@ html(lang="en")
             form
                 button#view-btn(type='button', onclick='viewBtn();') Table View
                 button#operations-btn(type='button', onclick='operationsBtn();') Operations
+        .smallspace
+        div.search-box
+            input#search-box(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="filterTable(event);")
+        .space
         .space
         div(id="table-wrapper")
             .container.scrollbar

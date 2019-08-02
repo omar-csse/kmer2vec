@@ -21,7 +21,7 @@ app.use(compression());
 
 
 // routes
-app.use(require('../routes/api/coords'));
+app.use(require('../routes/api/sequences'));
 app.use("/", require("../routes/main.js"));
 
 

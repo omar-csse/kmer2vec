@@ -11,6 +11,18 @@ form {
     text-align: center;
 }
 
+#search-box {
+    background: #eee;
+    border-radius: 5px 5px 5px 5px;
+    border: 0 none;
+    height: 32px;
+    padding-left: 10px;
+}
+
+.search-box {
+    text-align: center;
+}
+
 #view-btn, #operations-btn {
     background: #2565c5;
     color: white;
@@ -19,6 +31,7 @@ form {
     width: 90px;
     height: 30px;
     margin: 5px;
+    cursor: pointer;
 }
 
 #view-btn:hover,#operations-btn:hover {
@@ -35,6 +48,10 @@ form {
     padding: 0.5cm;
 }
 
+.smallspace {
+    padding: 0.2cm;
+}
+
 table {
     border-collapse: collapse;
     margin: auto;
@@ -49,7 +66,7 @@ td {
 }
 
 .sequence {
-    white-space:pre-wrap;
+    white-space: pre-wrap;
     word-wrap: break-word;
     word-break: break-all; 
     overflow-wrap: break-word;
@@ -81,5 +98,8 @@ tr:hover {
     }
     table {
         width: 98%;
+    }
+    #search-box {
+        width: 270px;
     }
 }
