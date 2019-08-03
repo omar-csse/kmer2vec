@@ -1,5 +1,6 @@
 let coordsChart = [];
 let sequences = []
+let currentIndex = 0;
 
 const random_rgba = () => {
     let o = Math.round
@@ -10,14 +11,16 @@ const random_rgba = () => {
 
 const filterData = async (data) => {
 
-    for (let i = 0; i < data.sequences.length; i++) {
+    sequences = data.data.sequences
+
+    for (let i = 0; i < sequences.length; i++) {
         row = {
-            label: [data.sequences[i].promoter_id],
+            label: [sequences[i].promoter_id],
             backgroundColor: random_rgba(),
             data: [{
-                x: data.sequences[i].x,
-                y: data.sequences[i].y,
-                r: data.sequences[i].mean * 1500
+                x: sequences[i].x,
+                y: sequences[i].y,
+                r: sequences[i].mean * 1500
             }]
         }
 
@@ -27,7 +30,7 @@ const filterData = async (data) => {
 
 const fetchData = async () => {
 
-    await fetch('/sequences')
+    await fetch('/api/sequences')
         .then(res => res.json())
         .then(data => sequences = data)
         .then(data => filterData(data))
@@ -69,9 +72,7 @@ const drawchart = () => {
 
 }
 
-fetchData().then(() => drawchart())
-
-async function viewBtn() {
+const viewBtn = () => {
 
     let chart = document.getElementById("chart")
     let viewbtn = document.getElementById("view-btn");
@@ -79,7 +80,7 @@ async function viewBtn() {
 
     if (chart.style.display === "none") {
         viewbtn.textContent = "Table View"
-        document.getElementsByClassName("scrollbar")[0].style.height = "0px"
+        document.getElementById("table-wrapper").style.height = "0px"
         table.innerHTML = ''
         chart.style.display = "block";
         document.getElementsByClassName("chart-container")[0].style.display = "block"
@@ -87,33 +88,58 @@ async function viewBtn() {
         viewbtn.textContent = "Chart View"
         chart.style.display = "none";
         document.getElementsByClassName("chart-container")[0].style.display = "none"
-        document.getElementsByClassName("scrollbar")[0].style.height = "1500px"
+        document.getElementById("table-wrapper").style.height = "500px"
 
-        this.sequences = sequences.sequences
+        showSequences(5);
+    }   
+}
 
-        for (let i = 0; i < this.sequences.length; i++) {
-            let html = `Id: <span id="sequence${i}">${this.sequences[i].promoter_id}</span>\n<div class="sequence">Sequence: ${this.sequences[i].promoter_sequence}</div>\nx: ${this.sequences[i].x}\ny: ${this.sequences[i].y}\nMean of the vector: ${this.sequences[i].mean}`;
-            let newRow = table.insertRow(-1);
-            let newCell = newRow.insertCell(0).innerHTML = html;
+const loadSequences = () => {
+    let table = document.getElementById("sequencesTable");
+    tr = table.getElementsByTagName("tr");
+    for (let i = 0; i < sequences.length; i++) {
+        let html = `Id: <span id="sequence${i}">${sequences[i].promoter_id}</span>\n<div class="sequence">Sequence: ${sequences[i].promoter_sequence}</div>\nx: ${sequences[i].x}\ny: ${sequences[i].y}\nMean of the vector: ${sequences[i].mean}`;
+        let newRow = table.insertRow(-1);
+        let newCell = newRow.insertCell(0).innerHTML = html;
+        tr[i].style.display = "none"
+    }
+}
+
+const showSequences = (num) => {
+    let table = document.getElementById("sequencesTable");
+    tr = table.getElementsByTagName("tr");
+    for (let i = currentIndex; i < currentIndex+num; i++) {
+        tr[i].style.display = ""
+    }
+    currentIndex += num 
+}
+
+const onscrollingSequencesTable = () => {
+    tableScroll = document.getElementById("table-wrapper")
+    input = document.getElementById("search-box").value
+    if (input == '') {
+        if (tableScroll.scrollTop + tableScroll.clientHeight >= tableScroll.scrollHeight) {
+            showSequences(5);
         }
     }
-        
 }
 
-function filterTable(e) {
+const filterTable = (e) => {
 
     const term = e.target.value.toLowerCase()
-    let table, tr;
-    input = document.getElementById("search-box");
-    table = document.getElementById("sequencesTable");
-    tr = table.getElementsByTagName("tr");
-    sequencesRow = table.getElementsByTagName("span");
+    let table = document.getElementById("sequencesTable");
+    let tr = table.getElementsByTagName("tr");
 
-    for (i = 0; i < sequencesRow.length; i++) {
-        if (sequencesRow[i].innerHTML.toLowerCase().indexOf(term) > -1) {
-            tr[i].style.display = "";
-        } else {
-            tr[i].style.display = "none";
-        }       
+    if (term != '') {
+        for (i = 0; i < tr.length; i++) {
+            let sequence = tr[i].innerHTML;
+            sequence.toLowerCase().indexOf(term) > -1 ? tr[i].style.display = "" : tr[i].style.display = "none"   
+        }
+    } else {
+        for (i = 0; i < tr.length; i++) tr[i].style.display = "none"
+        currentIndex = 0;
+        showSequences(5)
     }
 }
+
+fetchData().then(() => drawchart()).then(() => loadSequences())

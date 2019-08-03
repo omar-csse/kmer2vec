@@ -1,8 +1,9 @@
 {
-    "total_pages": 10,
-    "current_page": null,
-    "total_sequences": 1949,
-    "max_sequences_per_page": 200,
-    "number_of_sequences": null,
-    "sequences": null
+    "data": {
+        "total_pages": 10,
+        "current_page": null,
+        "total_sequences": 1949,
+        "max_sequences_per_page": 200,
+        "number_of_sequences": null
+    }
 }

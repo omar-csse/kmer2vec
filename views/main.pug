@@ -23,9 +23,8 @@ html(lang="en")
             input#search-box(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="filterTable(event);")
         .space
         .space
-        div(id="table-wrapper")
-            .container.scrollbar
-                table#sequencesTable
+        div(id="table-wrapper", onscroll="onscrollingSequencesTable()")
+            table#sequencesTable
         .chart-container(id="chart-div")
             canvas#chart
         .space

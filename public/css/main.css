@@ -56,6 +56,7 @@ table {
     border-collapse: collapse;
     margin: auto;
     width: 80%;
+    height: auto;
 }
 
 td {
@@ -80,6 +81,10 @@ tr:hover {
     background-color: #ddd;
 }
 
+/* tr {
+    display: none;
+} */
+
 .scrollbar {
     position: relative;
     height: 0px;
@@ -88,6 +93,8 @@ tr:hover {
 
 #table-wrapper {
     display: block;
+    height: auto;
+    overflow: auto;
 }
 
 @media only screen and (max-width: 600px) {

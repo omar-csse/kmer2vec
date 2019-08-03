@@ -1,0 +1,22 @@
+{
+    "out_of_range_error": {
+        "total_pages": 10,
+        "current_page": null,
+        "total_sequences": 1949,
+        "max_sequences_per_page": 200,
+        "number_of_sequences": null,
+        "sequences": null,
+        "error": {
+            "error_message": "page is out of range",
+            "error_code": "404"
+        }
+    },
+    "sequence_not_found": {
+        "total_sequences": 1949,
+        "sequence": null,
+        "error": {
+            "error_message": "sequence id is not found",
+            "error_code": "404"
+        }
+    }
+}
