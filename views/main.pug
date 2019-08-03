@@ -20,10 +20,13 @@ html(lang="en")
                 button#operations-btn(type='button', onclick='operationsBtn();') Operations
         .smallspace
         div.search-box
-            input#search-box(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="filterTable(event);")
+            input#search-box(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")
+            button#add-btn(type='button', onclick='addSequence();') Add
+            button#clear-btn(type='button', onclick='clearSearch();') Clear
         .space
+        div.addedSequences
         .space
-        div(id="table-wrapper", onscroll="onscrollingSequencesTable()")
+        div(id="table-wrapper", onscroll="onScrollingSequencesTable()")
             table#sequencesTable
         .chart-container(id="chart-div")
             canvas#chart

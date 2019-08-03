@@ -11,7 +11,7 @@ form {
     text-align: center;
 }
 
-#search-box {
+#search-box, .addedSequence {
     background: #eee;
     border-radius: 5px 5px 5px 5px;
     border: 0 none;
@@ -19,11 +19,29 @@ form {
     padding-left: 10px;
 }
 
-.search-box {
+.addedSeq {
+    border: 1px;
+    border-style: solid;
+    color: #77797a;
+    border-color: #b4b7b9;
+    border-radius: 5px 5px 5px 5px;
+    padding: 7px 0px 7px 0px;
+    width: 480px;
+    margin: 0 auto;
+    margin-top: 7px;
+    cursor: pointer;
+}
+
+.addedSeq:hover {
+    color: #962814;
+    border-color: #962814;
+}
+
+.search-box, .addedSequences {
     text-align: center;
 }
 
-#view-btn, #operations-btn {
+#view-btn, #operations-btn, #clear-btn, #add-btn {
     background: #2565c5;
     color: white;
     border-radius: 5px 5px 5px 5px;
@@ -34,7 +52,12 @@ form {
     cursor: pointer;
 }
 
-#view-btn:hover,#operations-btn:hover {
+#clear-btn, #add-btn {
+    width: 60px;
+    margin-right: 0px
+}
+
+#view-btn:hover,#operations-btn:hover, #clear-btn:hover, #add-btn:hover {
     background: #449fdb;
 }
 
@@ -81,10 +104,6 @@ tr:hover {
     background-color: #ddd;
 }
 
-/* tr {
-    display: none;
-} */
-
 .scrollbar {
     position: relative;
     height: 0px;
@@ -107,6 +126,19 @@ tr:hover {
         width: 98%;
     }
     #search-box {
+        width: 270px;
+    }
+    .addedSeq {
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 452px) {
+    #clear-btn, #add-btn {
+        margin-top: 10px;
+        width: 280px;
+    }
+    .addedSeq {
         width: 270px;
     }
 }
