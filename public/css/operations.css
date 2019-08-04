@@ -7,7 +7,7 @@ form {
     text-align: center;
 }
 
-#back-btn {
+#back-btn, #select-menu, #clear-btn, #search-btn {
     background: #2565c5;
     color: white;
     border-radius: 5px 5px 5px 5px;
@@ -18,11 +18,15 @@ form {
     cursor: pointer;
 }
 
-#back-btn:hover {
+#select-menu {
+    width: 100px;
+}
+
+#back-btn:hover, #select-menu:hover, #clear-btn:hover, #search-btn:hover {
     background: #449fdb;
 }
 
-#search-box, .addedSequence {
+#search-input, .addedSequence {
     background: #eee;
     border-radius: 5px 5px 5px 5px;
     border: 0 none;
@@ -52,26 +56,6 @@ form {
     text-align: center;
 }
 
-#view-btn, #operations-btn, #clear-btn, #add-btn {
-    background: #2565c5;
-    color: white;
-    border-radius: 5px 5px 5px 5px;
-    border: 0 none;
-    width: 90px;
-    height: 30px;
-    margin: 5px;
-    cursor: pointer;
-}
-
-#clear-btn, #add-btn {
-    width: 60px;
-    margin-right: 0px
-}
-
-#view-btn:hover,#operations-btn:hover, #clear-btn:hover, #add-btn:hover {
-    background: #449fdb;
-}
-
 .chart-container {
     margin: auto;
     width: 90%;
@@ -84,4 +68,15 @@ form {
 
 .smallspace {
     padding: 0.2cm;
+}
+
+@media only screen and (max-width: 500px) {
+    #back-btn, #clear-btn, #search-input, #select-menu, #search-btn {
+        margin-top: 10px;
+        width: 290px;
+    }
+    #search-input {
+        margin-top: 5px;
+        width: 280px;
+    }
 }

@@ -2,18 +2,18 @@ const cosine_similarity = require('compute-cosine-similarity')
 const data = require('../lib/data/sequence_vectors')
 const vectors = Object.entries(data.vectors)
 
-const nearest_kmers = async (kmer) => {
+const cos_similarity = async (sequence, nearest) => {
 
-    const wanted_kmer_vector = await data.vectors[kmer]
-    const nearest_kmers = []
+    const wanted_sequence_vector = await data.vectors[sequence]
+    const result = []
 
-    for (const [kmer, vector] of vectors) {
-        let sim = await cosine_similarity(wanted_kmer_vector, vector)
-        await nearest_kmers.push({kmer: kmer, similarity: sim})
+    for (const [sequence, vector] of vectors) {
+        let sim = await cosine_similarity(wanted_sequence_vector, vector)
+        await result.push({seqId: sequence, similarity: sim})
     }
 
-    await nearest_kmers.sort((a, b) => b.similarity - a.similarity);
-    return nearest_kmers
+    await result.sort((a, b) => nearest ? b.similarity - a.similarity : a.similarity - b.similarity);
+    return result
 }
 
-nearest_kmers('ECK125137234').then(sim => console.log(sim))
+module.exports = cos_similarity

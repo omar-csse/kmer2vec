@@ -6,6 +6,8 @@ html(lang="en")
 
         link(rel="shortcut icon" href="#")
         link(rel='stylesheet', type='text/css', href='/css/operations.css')
+        link(rel='stylesheet', type='text/css', href='/autocomplete/auto-complete.css')
+        script(src='/autocomplete/auto-complete.min.js')
         script(src='https://cdn.jsdelivr.net/npm/chart.js@2.8.0')
         script(src='/js/operations.js')
         title operations | kmer2vec
@@ -14,5 +16,21 @@ html(lang="en")
         .space
         h1.main-header operations
         form
-            a(href="/")
-                button#back-btn(class="buttons", type="button") Back
+            div.main-btns
+                a(href="/")
+                    button#back-btn(type="button") Back
+                button#clear-btn(type='button', onclick='clearOperations();') Clear
+            .space
+            div.search-form
+                input#search-input(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")
+                select#select-menu
+                    option(value='nearest', selected="selected") nearest
+                    option(value='furthest') furthest
+                    option(value='add') add
+                    option(value='subtract') subtract
+                    option(value='multiply') multiply
+                    option(value='divide') divide
+                button#search-btn(type="button" onclick="fetchResult();") Seearch
+                .space
+        .chart-container(id="chart-div")
+            canvas#chart
