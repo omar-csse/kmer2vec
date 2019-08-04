@@ -1,0 +1,87 @@
+h1 {
+    color: #2561a1;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+#back-btn {
+    background: #2565c5;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    border: 0 none;
+    width: 90px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#back-btn:hover {
+    background: #449fdb;
+}
+
+#search-box, .addedSequence {
+    background: #eee;
+    border-radius: 5px 5px 5px 5px;
+    border: 0 none;
+    height: 32px;
+    padding-left: 10px;
+}
+
+.addedSeq {
+    border: 1px;
+    border-style: solid;
+    color: #77797a;
+    border-color: #b4b7b9;
+    border-radius: 5px 5px 5px 5px;
+    padding: 7px 0px 7px 0px;
+    width: 480px;
+    margin: 0 auto;
+    margin-top: 7px;
+    cursor: pointer;
+}
+
+.addedSeq:hover {
+    color: #962814;
+    border-color: #962814;
+}
+
+.search-box, .addedSequences {
+    text-align: center;
+}
+
+#view-btn, #operations-btn, #clear-btn, #add-btn {
+    background: #2565c5;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+    border: 0 none;
+    width: 90px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#clear-btn, #add-btn {
+    width: 60px;
+    margin-right: 0px
+}
+
+#view-btn:hover,#operations-btn:hover, #clear-btn:hover, #add-btn:hover {
+    background: #449fdb;
+}
+
+.chart-container {
+    margin: auto;
+    width: 90%;
+    height: 90%;
+}
+
+.space {
+    padding: 0.5cm;
+}
+
+.smallspace {
+    padding: 0.2cm;
+}

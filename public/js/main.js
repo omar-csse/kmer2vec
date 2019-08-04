@@ -1,14 +1,19 @@
-let coordsChart = [];
 let sequences = []
 let currentIndex = 0;
-let chart;
+let chartData;
+let chartjs;
 
-window.onload = (e) => {
-    let addedSequences = document.getElementsByClassName("addedSequences")[0]
-    const storedItems = [...Object.keys(localStorage)]
-    for (let i = 0; i < storedItems.length; i++) {
-        let html = JSON.parse(localStorage.getItem(storedItems[i]))
-        addedSequences.innerHTML += html
+window.onload = async (e) => {
+
+    if (localStorage.length > 0) {
+        fetchData().then(() => drawchart(getChartNewData(Object.keys(localStorage)))).then(() => loadSequences())
+        let addedSequences = document.getElementsByClassName("addedSequences")[0]
+        const storedItems = [...Object.values(localStorage)]
+        for (let i = 0; i < storedItems.length; i++) {
+            addedSequences.innerHTML += JSON.parse(storedItems[i])
+        }
+    } else {
+        fetchData().then(data => drawchart(data)).then(() => loadSequences())
     }
 }
 
@@ -19,40 +24,38 @@ const random_rgba = () => {
     return 'rgba(' + o(r() * s) + ',' + o(r() * s) + ',' + o(r() * s) + ',' + 0.7 + ')';
 }
 
-const filterData = async (data) => {
+const filterData = (data) => {
 
-    sequences = data.data.sequences
-
-    for (let i = 0; i < sequences.length; i++) {
-        row = {
-            label: [sequences[i].promoter_id],
+    let sequencesChart = []
+    for (let i = 0; i < data.length; i++) {
+        let row = {
+            label: [data[i].promoter_id],
             backgroundColor: random_rgba(),
             data: [{
-                x: sequences[i].x,
-                y: sequences[i].y,
-                r: sequences[i].mean * 1500
+                x: data[i].x,
+                y: data[i].y,
+                r: data[i].mean * 1500
             }]
         }
-
-        coordsChart.push(row)
+        sequencesChart.push(row)
     }
+    return sequencesChart;
 }
 
 const fetchData = async () => {
-
-    await fetch('/api/sequences')
+    return await fetch('/api/sequences')
         .then(res => res.json())
+        .then(data => data.data.sequences)
         .then(data => sequences = data)
-        .then(data => filterData(data))
+        .then(data => chartData = filterData(data))
 }
 
-const drawchart = () => {
-
+const drawchart = (sequenceData) => {
     // For a bubble chart
-    chart = new Chart(document.getElementById("chart").getContext('2d'), {
+    chartjs = new Chart(document.getElementById("chart").getContext('2d'), {
         type: 'bubble',
         data: {
-            datasets: coordsChart
+            datasets: sequenceData
         },
         options: {
             responsive: true,
@@ -87,6 +90,7 @@ const viewBtn = () => {
     let chart = document.getElementById("chart")
     let viewbtn = document.getElementById("view-btn");
     let table = document.getElementById("sequencesTable");
+    clearSearch()
 
     if (chart.style.display === "none") {
         viewbtn.textContent = "Table View"
@@ -146,24 +150,48 @@ const clearSearch = () => {
         currentIndex = 0;
         showSequences(5);
     } 
-    document.getElementsByClassName("addedSequences")[0].innerHTML = '';
-    localStorage.clear()
 }
 
-const addSequence = () => {
+const getChartNewData = (data) => {
+    let sequencesChart = []
+    for (let i = 0; i < data.length; i++) {
+        let index = parseInt(data[i])
+        let row = {
+            label: [sequences[index].promoter_id],
+            backgroundColor: random_rgba(),
+            data: [{
+                x: sequences[index].x,
+                y: sequences[index].y,
+                r: 30
+            }]
+        }
+        sequencesChart.push(row)
+    }
+    return sequencesChart;
+}
+
+const addSequence = async () => {
     let desiredSequence = document.getElementById('search-box').value
-    desiredSequence = sequences.filter(seq => seq.promoter_id == desiredSequence)
-    if (localStorage.getItem(desiredSequence[0].promoter_id) === null) { 
+    index = sequences.findIndex(seq => seq.promoter_id == desiredSequence)
+    if (localStorage.getItem(index) === null) { 
         let addedSequences = document.getElementsByClassName("addedSequences")[0]
-        html = `<div id="addedSeq-${desiredSequence[0].promoter_id}" class="addedSeq" onclick="removeSequence('${desiredSequence[0].promoter_id}');">Id: ${desiredSequence[0].promoter_id} - Mean: ${desiredSequence[0].mean}</div>`
+        html = `<div id="addedSeq-${index}" class="addedSeq" onclick="removeSequence('${index}');">Id: ${sequences[index].promoter_id} - Mean: ${sequences[index].mean}</div>`
         addedSequences.innerHTML += html
-        localStorage.setItem(desiredSequence[0].promoter_id, JSON.stringify(html))
+        localStorage.setItem(index, JSON.stringify(html))
+
+        chartjs.data.datasets = getChartNewData(Object.keys(localStorage))
+        chartjs.update()
     }
 }
 
-const removeSequence = (seq) => {
-    localStorage.removeItem(seq)
-    document.getElementById(`addedSeq-${seq}`).remove()
+const removeSequence = async (index) => {
+    localStorage.removeItem(index)
+    chartjs.data.datasets = chartjs.data.datasets.filter(seq => seq.label[0] != sequences[index].promoter_id)
+    document.getElementById(`addedSeq-${index}`).remove()
+    if (localStorage.length < 1) {
+        chartjs.data.datasets = chartData;
+    }
+    chartjs.update()
 }
 
 const filterTable = (e) => {
@@ -181,5 +209,3 @@ const filterTable = (e) => {
         clearSearch()
     }
 }
-
-fetchData().then(() => drawchart()).then(() => loadSequences())

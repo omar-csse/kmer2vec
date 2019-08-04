@@ -5,10 +5,10 @@ html(lang="en")
         meta(charset='utf-8')
 
         link(rel="shortcut icon" href="#")
-        link(rel='stylesheet', type='text/css', href='../css/main.css')
+        link(rel='stylesheet', type='text/css', href='/css/main.css')
         script(src='https://cdn.jsdelivr.net/npm/chart.js@2.8.0')
-        script(src='../js/main.js')
-        title kmer2vec | Sigma70 promoter sequence
+        script(src='/js/main.js')
+        title main | kmer2vec
 
     body
         .space
@@ -17,7 +17,8 @@ html(lang="en")
         div.buttons
             form
                 button#view-btn(type='button', onclick='viewBtn();') Table View
-                button#operations-btn(type='button', onclick='operationsBtn();') Operations
+                a(href="/operations")
+                    button#operations-btn(type='button') Operations
         .smallspace
         div.search-box
             input#search-box(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")

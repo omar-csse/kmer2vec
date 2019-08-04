@@ -22,7 +22,8 @@ app.use(compression());
 
 // routes
 app.use(require('../routes/api/sequences'));
-app.use("/", require("../routes/main.js"));
+app.use(require("../routes/main.js"));
+app.use(require("../routes/operations.js"));
 
 
 const main = async () => {
