@@ -7,7 +7,7 @@ form {
     text-align: center;
 }
 
-#back-btn, #select-menu, #clear-btn, #search-btn {
+#back-btn, #select-menu, #clear-btn, #search-btn, #result-btn {
     background: #2565c5;
     color: white;
     border-radius: 5px 5px 5px 5px;
@@ -19,14 +19,14 @@ form {
 }
 
 #select-menu {
-    width: 100px;
+    width: 120px;
 }
 
-#back-btn:hover, #select-menu:hover, #clear-btn:hover, #search-btn:hover {
+#back-btn:hover, #select-menu:hover, #clear-btn:hover, #search-btn:hover, #result-btn:hover {
     background: #449fdb;
 }
 
-#search-input, .addedSequence {
+#search-input, #op_input1, #op_input2, #op_input3 {
     background: #eee;
     border-radius: 5px 5px 5px 5px;
     border: 0 none;
@@ -34,32 +34,29 @@ form {
     padding-left: 10px;
 }
 
-.addedSeq {
-    border: 1px;
-    border-style: solid;
-    color: #77797a;
-    border-color: #b4b7b9;
-    border-radius: 5px 5px 5px 5px;
-    padding: 7px 0px 7px 0px;
-    width: 480px;
-    margin: 0 auto;
-    margin-top: 7px;
-    cursor: pointer;
+#op_type1, #op_type2, #op_type3 {
+    color: #2565c5;
 }
 
-.addedSeq:hover {
-    color: #962814;
-    border-color: #962814;
+#op_input1, #op_input2, #op_input3, #op_type1, #op_type2 {
+    margin: 0 10px 0 10px;
+    width: 250px;
 }
 
-.search-box, .addedSequences {
+.search-box {
     text-align: center;
 }
 
+#operations  {
+    display: none;
+}
+
+#operations > * {
+    margin: 5px 5px 5px 5px;
+}
+
 .chart-container {
-    margin: auto;
-    width: 90%;
-    height: 90%;
+    margin: 0% 15% 0% 15%;
 }
 
 .space {
@@ -78,5 +75,20 @@ form {
     #search-input {
         margin-top: 5px;
         width: 280px;
+    }
+}
+
+#result-btn {
+    margin: 10px 0 0 0 ;
+}
+
+#operations div {
+    display: table;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 1100px) {
+    .chart-container {
+        margin: 0;
     }
 }

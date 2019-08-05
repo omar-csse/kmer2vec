@@ -21,7 +21,8 @@ app.use(compression());
 
 
 // routes
-app.use(require('../routes/api/sequences'));
+app.use(require('../routes/api/api.sequences'));
+app.use(require('../routes/api/api.vectors'));
 app.use(require("../routes/main.js"));
 app.use(require("../routes/operations.js"));
 

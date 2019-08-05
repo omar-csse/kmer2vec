@@ -8,6 +8,7 @@ html(lang="en")
         link(rel='stylesheet', type='text/css', href='/css/operations.css')
         link(rel='stylesheet', type='text/css', href='/autocomplete/auto-complete.css')
         script(src='/autocomplete/auto-complete.min.js')
+        script(src="https://unpkg.com/ml5@0.3.1/dist/ml5.min.js")
         script(src='https://cdn.jsdelivr.net/npm/chart.js@2.8.0')
         script(src='/js/operations.js')
         title operations | kmer2vec
@@ -15,22 +16,33 @@ html(lang="en")
     body
         .space
         h1.main-header operations
+        .space
         form
             div.main-btns
                 a(href="/")
                     button#back-btn(type="button") Back
                 button#clear-btn(type='button', onclick='clearOperations();') Clear
-            .space
+            .smallspace
             div.search-form
                 input#search-input(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")
-                select#select-menu
-                    option(value='nearest', selected="selected") nearest
-                    option(value='furthest') furthest
-                    option(value='add') add
-                    option(value='subtract') subtract
-                    option(value='multiply') multiply
-                    option(value='divide') divide
+                select#select-menu(onchange="selectChanged(event);")
+                    option(value='cos', selected="selected") cosine similarity
+                    option(value='add') add/sub
+                    option(value='between') between
+                    option(value='isto') is to
                 button#search-btn(type="button" onclick="fetchResult();") Seearch
                 .space
-        .chart-container(id="chart-div")
-            canvas#chart
+                .space
+            div#operations
+                input#op_input1(size='50', type='text', name='search', placeholder='Sequence id')
+                div#op_type1 + 
+                input#op_input2(size='50', type='text', name='search', placeholder='Sequence id')
+                div#op_type2 - 
+                input#op_input3(size='50', type='text', name='search', placeholder='Sequence id')
+                div
+                    button#result-btn(type="button" onclick="getResult();") Result 
+                .space
+                div#result
+        div.chart-container(id="chart-div")
+            canvas#chart1
+            canvas#chart2
