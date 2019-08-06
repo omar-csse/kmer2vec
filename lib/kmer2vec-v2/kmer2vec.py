@@ -13,7 +13,7 @@ from datetime import datetime
 import multiprocessing
 
 import gensim
-from gensim.models import Word2Vec
+from gensim.models import Word2Vec, KeyedVectors
 from gensim.models.callbacks import CallbackAny2Vec
 from sklearn.manifold import TSNE
 import numpy as np
@@ -37,7 +37,7 @@ class Kmer2vec(object):
     """kmer2vec model (skipgram)."""
 
 
-    def __init__(self, embedding_size, learningRate, window_size):
+    def __init__(self, embedding_size=256, learningRate=0.025, window_size=8):
 
         self._corpus = []
         self._kmer2int = {}
@@ -115,6 +115,7 @@ class Kmer2vec(object):
     def save(self):
 
         self._model.save(self._logs_path + "/kmer2vec.model")
+        self._model.wv.save_word2vec_format(self._logs_path + '/kmer2vec.bin', binary=True)
 
         self._model = Word2Vec.load(self._logs_path + "/kmer2vec.model")
         similar = self._model.most_similar('TGGAAA')
