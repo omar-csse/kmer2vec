@@ -67,6 +67,11 @@ form {
     padding: 0.2cm;
 }
 
+#result {
+    padding: 5px;
+    color: #2565c5;
+}
+
 @media only screen and (max-width: 500px) {
     #back-btn, #clear-btn, #search-input, #select-menu, #search-btn {
         margin-top: 10px;

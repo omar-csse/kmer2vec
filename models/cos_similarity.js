@@ -2,13 +2,13 @@ const cosine_similarity = require('compute-cosine-similarity')
 const data = require('../lib/data/sequence_vectors')
 const vectors = Object.entries(data.vectors)
 
-const cos_similarity = async (sequence, nearest) => {
+exports.similarity = async (sequence, nearest) => {
 
     const wanted_sequence_vector = await data.vectors[sequence]
-    const result = []
+    let result = []
 
-    for (const [sequence, vector] of vectors) {
-        let sim = await cosine_similarity(wanted_sequence_vector, vector)
+    for (const [sequence, seq_vector] of vectors) {
+        let sim = await cosine_similarity(wanted_sequence_vector, seq_vector)
         await result.push({seqId: sequence, similarity: sim})
     }
 
@@ -16,4 +16,11 @@ const cos_similarity = async (sequence, nearest) => {
     return result
 }
 
-module.exports = cos_similarity
+exports.most_similar = async (avg_vec) => {
+    let result = []
+    for (const [sequence, seq_vector] of vectors) {
+        let sim = await cosine_similarity(avg_vec, seq_vector)
+        await result.push({seqId: sequence, similarity: sim})
+    }
+    return await result.sort((a, b) => b.similarity - a.similarity);
+}

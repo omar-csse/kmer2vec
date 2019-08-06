@@ -1,6 +1,6 @@
 let sequences = [];
-let vectors;
 let idsData;
+let seq2vec
 
 const random_rgba = () => {
     let o = Math.round
@@ -47,17 +47,17 @@ const filterData = async (data) => {
             n_radius = 10; f_radius = 10
         }
 
-        let nearest_row = getRow(nearest_d[i].similarity, n_rgb, wanted_n_d[0].x, wanted_n_d[0].y, n_radius)
-        let furthest_row = getRow(furthest_d[i].similarity, f_rgb, wanted_f_d[0].x, wanted_f_d[0].y, f_radius)
+        let nearest_row = getRow(undefined, nearest_d[i].similarity, n_rgb, wanted_n_d[0].x, wanted_n_d[0].y, n_radius)
+        let furthest_row = getRow(undefined, furthest_d[i].similarity, f_rgb, wanted_f_d[0].x, wanted_f_d[0].y, f_radius)
         nearestChart.push(nearest_row)
         furthestChart.push(furthest_row)
     }
     return {nearest: nearestChart, furthest: furthestChart}
 }
 
-const getRow = (similarity, color, x, y, radius) => {
+const getRow = (id="", similarity=0, color, x, y, radius) => {
     let row = {
-        label: similarity,
+        label: [id,similarity],
         backgroundColor: color,
         data: [{
             x: x,
@@ -103,11 +103,9 @@ const drawchart = (sequenceData, chartId, title) => {
 }
 
 const selectChanged = (e) => {
+    clearInputs()
     if (e.target.value == 'cos') {
         setForms("", "none")
-    } 
-    else if (e.target.value == 'add') {
-        setForms("none", "block", 'add')
     } 
     else if (e.target.value == 'isto') {
         setForms("none", "block", 'isto')
@@ -118,23 +116,79 @@ const selectChanged = (e) => {
 }
 
 const setForms = (mainform, subform, selected) => {
-    document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>` 
+    clearInputs()
     document.getElementById("search-input").style.display = mainform
     document.getElementById("search-btn").style.display = mainform
     document.getElementById("operations").style.display = subform
     for (let i = 0; i < 3; i++) autocompletSearch(idsData, `#op_input${i+1}`)
 
     if (selected == 'isto') {
+        document.getElementById("op_input1").style.display = ""
         setOperations('is to', 'as', 'is to')
     }
     else if (selected == 'between') {
         document.getElementById("op_input1").style.display = "none"
         setOperations('between', 'and', 'is')
     }
-    else if (selected == 'add') {
-        document.getElementById("op_input1").style.display = ""
-        setOperations('+', '-', '=')
+}
+
+const getResult = () => {
+    let option = document.getElementById("select-menu").value
+    let seq1 = document.getElementById("op_input1").value
+    let seq2 = document.getElementById("op_input2").value
+    let seq3 = document.getElementById("op_input3").value
+    if (option == 'isto' && !hasDuplicates([seq1, seq2, seq3])) {
+        getIsTo(seq1, seq2 ,seq3)
     }
+    else if (option == 'between' && !hasDuplicates([seq1, seq2])) {
+        getBetween(seq2, seq3)
+    } 
+}
+
+function hasDuplicates(array) {
+    return (new Set(array)).size !== array.length;
+}
+
+const getIsTo = async (is1, to1, is2) => {
+    let to2;
+    let chartData = [];
+    if (validSeq(is1) && validSeq(to1) && validSeq(is2)) {
+        await fetchOperation('isto', {is1, to1, is2}).then(data => to2 = data)
+        for (let i = 0; i < sequences.length; i++) {
+            if (is1 == sequences[i].promoter_id || is2 == sequences[i].promoter_id ||
+                to1 == sequences[i].promoter_id) {
+                chartData.push(getRow(sequences[i].promoter_id, undefined, random_rgba(), sequences[i].x, sequences[i].y, 20))
+            }
+            if (to2.seqId == sequences[i].promoter_id) {
+                chartData.push(getRow(sequences[i].promoter_id, to2.similarity, random_rgba(), sequences[i].x, sequences[i].y, 20))
+            }
+        }
+        document.getElementById("result").innerText = to2.seqId
+        document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`
+        await drawchart(chartData, "chart1", "is to")
+    }
+}
+
+const getBetween = async (seq1, seq2) => {
+    let between;
+    let chartData = [];
+    if (validSeq(seq1) && validSeq(seq2)) {
+        await fetchOperation('between', {seq1, seq2}).then(data => between = data)
+        for (let i = 0; i < between.length; i++) {
+            let seq = sequences.filter(seq => seq.promoter_id == between[i].seqId)
+            chartData.push(getRow(seq[0].promoter_id, between[i].similarity, random_rgba(), seq[0].x, seq[0].y, 20))
+        }
+        document.getElementById("result").innerText = between.slice(-1)[0].seqId
+        document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`
+        await drawchart(chartData, "chart1", "between")
+    }
+}
+
+const clearInputs = () => {
+    document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`
+    for (let i = 0; i < 3; i++) document.getElementById(`op_input${i+1}`).value = ''
+    document.getElementById("result").innerText = ''
+    document.getElementById("search-input").value = ''
 }
 
 const setOperations = (op_type1, op_type2, resultBtn) => {
@@ -150,6 +204,7 @@ const plotTwoCharts = async (nearest, furthest) => {
 
 const clearOperations = () => {
     document.getElementById("search-input").value = ''
+    document.getElementById("result").innerText = ''
     setForms("", "none")
 }
 
@@ -162,10 +217,8 @@ const filterIds = (data) => {
     return idsData
 }
 
-const fetchVectors = async () => {
-    await fetch('/api/vectors')
-        .then(res => res.json())
-        .then(data => vectors = data)
+const validSeq = (seq_promoter_id) => {
+    return sequences.some(seq => seq.promoter_id == seq_promoter_id) ? true : false
 }
 
 const fetchData = async () => {
@@ -174,21 +227,24 @@ const fetchData = async () => {
         .then(data => sequences = data.data.sequences)
 }
 
+const fetchOperation = async (endpoint, data) => {
+    return await fetch(`/operations/${endpoint}`, {
+        method: "POST", body: JSON.stringify(data),
+        headers: {"Content-Type": "application/json"}
+    })
+    .then(res => res.json())
+}
+
 const fetchResult = async () => {
     document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`
-    let options = document.getElementById("select-menu").value
+    let option = document.getElementById("select-menu").value
     let input = document.getElementById("search-input").value
-    if (sequences.some(seq => seq.promoter_id == input)) {
-        fetch(`/operations`, {
-            method: "POST", body: JSON.stringify({seqId: input, nearest: options==='cos'}),
-            headers: {"Content-Type": "application/json"}
-        })
-        .then(res => res.json())
-        .then(data => filterData(data))
-        .then(data => plotTwoCharts(data.nearest, data.furthest))
-        .catch(err => console.log(err))
+    if (validSeq(input)) {
+        fetchOperation('cosine', {seqId: input, nearest: option==='cos'})
+            .then(data => filterData(data))
+            .then(data => plotTwoCharts(data.nearest, data.furthest))
+            .catch(err => console.log(err))
     }
 }
 
-fetchVectors()
 fetchData().then(data => filterIds(data)).then((data) => autocompletSearch(data, '#search-input'))

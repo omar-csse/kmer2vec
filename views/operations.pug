@@ -27,7 +27,6 @@ html(lang="en")
                 input#search-input(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")
                 select#select-menu(onchange="selectChanged(event);")
                     option(value='cos', selected="selected") cosine similarity
-                    option(value='add') add/sub
                     option(value='between') between
                     option(value='isto') is to
                 button#search-btn(type="button" onclick="fetchResult();") Seearch
