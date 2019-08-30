@@ -1,0 +1,25 @@
+kmer2vec model (skipgram).
+
+implementing word2vec algorithm on promotors' sequences 
+with sigma70 factor using skip gram model
+
+Hyper-parameters:
+
+embedding_size: 256, learning_rate: 0.025, window_size: 8
+
+ML Data setup is done
+
+
+
+similar_words(TGGAAA)
+
+[('GGAAAC', 0.5406118035316467), ('CTGGAA', 0.5050661563873291), ('GTGGAA', 0.4992256760597229), ('GGAAAA', 0.498035728931427), ('TTGGAA', 0.49703580141067505), ('ATGGAA', 0.4483734369277954), ('GGAAAT', 0.43370139598846436), ('GGAAAG', 0.4312589764595032), ('TGTGGA', 0.38484057784080505), ('CTTGGA', 0.35788941383361816)]
+
+
+
+
+number of cpus: 4
+kmer size (vocabulary = unique words): 4089
+length of data: 4089
+
+training is done!, and model is saved.

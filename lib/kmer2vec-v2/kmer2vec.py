@@ -108,6 +108,7 @@ class Kmer2vec(object):
 
 
     def train(self):
+        print("\nTraining in progress...")
         self._model.train(  self._corpus, total_examples=self._model.corpus_count, 
                             epochs=self._model.epochs, compute_loss=True)
 
@@ -118,7 +119,7 @@ class Kmer2vec(object):
         self._model.wv.save_word2vec_format(self._logs_path + '/kmer2vec.bin', binary=True)
 
         self._model = Word2Vec.load(self._logs_path + "/kmer2vec.model")
-        similar = self._model.most_similar('TGGAAA')
+        similar = self._model.wv.most_similar('TGGAAA')
 
         self._log_file.write("\n\n\nsimilar_words(TGGAAA)\n\n")
         self._log_file.write(str(similar))
