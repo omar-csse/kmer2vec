@@ -4,7 +4,7 @@ const api = require('./sequences.json')
 exports.getSequences = () => {
     delete api.data.sequence;
     api.data.number_of_sequences = data.sequences.length
-    api.data.sequences = data.sequences.slice(0, data.sequences.length)
+    api.data.sequences = data.sequences
     return api
 }
 
