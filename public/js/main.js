@@ -172,7 +172,7 @@ const getChartNewData = (data) => {
 const addSequence = async () => {
     let desiredSequence = document.getElementById('search-box').value
     index = sequences.findIndex(seq => seq.promoter_id == desiredSequence)
-    if (localStorage.getItem(index) === null) { 
+    if (localStorage.getItem(index) === null && index > -1) { 
         let addedSequences = document.getElementsByClassName("addedSequences")[0]
         html = `<div id="addedSeq-${index}" class="addedSeq" onclick="removeSequence('${index}');">Id: ${sequences[index].promoter_id} - Mean: ${sequences[index].mean}</div>`
         addedSequences.innerHTML += html
