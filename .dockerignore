@@ -1,0 +1,5 @@
+**/node_modules
+**/db
+**/lib
+!lib/data/sequence_coords.json
+!lib/data/sequence_vectors.json
