@@ -43,7 +43,7 @@ const filterData = (data) => {
 }
 
 const fetchData = async () => {
-    return await fetch('/api/sequences')
+    return await fetch('/api/promoters')
         .then(res => res.json())
         .then(data => sequences = data.data.sequences)
         .then(data => chartData = filterData(data))
