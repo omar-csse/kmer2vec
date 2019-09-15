@@ -14,22 +14,8 @@ import multiprocessing
 
 import gensim
 from gensim.models import Word2Vec, KeyedVectors
-from gensim.models.callbacks import CallbackAny2Vec
-from sklearn.manifold import TSNE
 import numpy as np
 np.set_printoptions(threshold=sys.maxsize)
-
-
-class callback(CallbackAny2Vec):
-    '''Callback to print loss after each epoch.'''
-
-    def __init__(self):
-        self.epoch = 0
-
-    def on_epoch_end(self, model):
-        loss = model.get_latest_training_loss()
-        print('Loss after epoch {}: {}'.format(self.epoch, loss))
-        self.epoch += 1
 
 
 class Kmer2vec(object):
