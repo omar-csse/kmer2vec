@@ -11,6 +11,7 @@ from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 import nltk
 from nltk.tokenize import word_tokenize
 import numpy as np
+from sklearn.manifold import TSNE
 
 nltk.download('punkt')
 np.set_printoptions(threshold=sys.maxsize)
@@ -32,6 +33,11 @@ class D2V(object):
         self._log_file = None
         self._workers = multiprocessing.cpu_count()
         self._dir_path = os.path.dirname(os.path.realpath(__file__))
+        self._sequence_coords = dict()
+        self._sequence_coords['sequences'] = []
+        self._sequence_vectors = dict()
+        self._sequence_vectors['vectors'] = {}
+        self._vectors = []
         self.model = None
 
 
@@ -110,18 +116,39 @@ class D2V(object):
         print(similar)
         self._log_file.write("\n\n\nsimilar_words(ECK125136994)\n\n")
         self._log_file.write(str(similar))
-
-        vectors = dict()
-        vectors['vectors'] = {}
             
         for i, seq in enumerate(self._corpus):
             sequence = str(self._sigma70[i]['PROMOTER_ID'])
-            vectors['vectors'].update( {sequence: self.model[sequence].tolist()} )
+            self._sequence_vectors['vectors'].update( {sequence: self.model[sequence].tolist()} )
+            self._vectors.append(self.model[sequence].tolist())
             
-        with open(self._dir_path+'/../data/sequence_vectors_doc2vec.json', 'w') as filename: json.dump(vectors, filename, indent=4)
+        self.calculate_coords()
+
+        with open(self._dir_path+'/../data/sequence_vectors_doc2vec.json', 'w') as filename: 
+            json.dump(self._sequence_vectors, filename, indent=4)
+        with open(self._dir_path+'/../data/sequence_coords_doc2vec.json', 'w') as filename: 
+            json.dump(self._sequence_coords, filename, indent=4)
 
         self._log_file.write("\n\n")
         print('\n\n')
+
+
+    def calculate_coords(self):
+
+        tsne_model = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23)
+        new_values = tsne_model.fit_transform(self._vectors)
+
+        for i, value in enumerate(new_values):
+            row = {
+                "promoter_id": self._sigma70[i]['PROMOTER_ID'],
+                "promoter_sequence": self._sigma70[i]['PROMOTER_SEQUENCE'],
+                "x": float(value[0]),
+                "y": float(value[1]),
+                "mean": np.mean(self._vectors[i])
+            }
+            self._sequence_coords['sequences'].append(row)
+
+        print("calculateing x, and y coordinates")
 
 
 def main():
