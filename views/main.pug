@@ -12,13 +12,15 @@ html(lang="en")
 
     body
         .space
-        h1.main-header kmer2vec algorithm on Sigma70s' promoter sequence
+        h1.main-header doc2vec and kmer2vec models on Sigma70s' promoter sequence
         .space
+        button#api-btn(type='button', onclick='onFlipAPI();') kmer2vec model
+        .smallspace
         div.buttons
             form
                 button#view-btn(type='button', onclick='viewBtn();') Table View
                 a
-                    button#operations-btn(type='button') Operations
+                    button#operations-btn(type='button', onclick='viewBtn();') Operations
         .smallspace
         div.search-box
             input#search-box(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")

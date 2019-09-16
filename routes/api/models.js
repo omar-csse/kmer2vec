@@ -1,14 +1,25 @@
-const data = require('../../lib/data/sequence_coords')
+const kmer_data = require('../../lib/data/sequence_coords')
+const doc2vec_data = require('../../lib/data/sequence_coords_doc2vec')
 const api = require('./sequences.json')
+const errors = require('./errors.json')
 
-exports.getSequences = () => {
+const checkAPI = async (kmer) => {
+    let data;
+    if (kmer) data = kmer_data
+    else data = doc2vec_data
+    return await data;
+}
+
+exports.getSequences = async (kmer) => {
+    let data = await checkAPI(kmer);
     delete api.data.sequence;
     api.data.number_of_sequences = data.sequences.length
     api.data.sequences = data.sequences
     return api
 }
 
-exports.getSequencesPage = (page) => {
+exports.getSequencesPage = async (page, kmer) => {
+    let data = await checkAPI(kmer);
     delete api.data.sequence;
     if (page == 1) api.data.sequences = data.sequences.slice( 0, page*200)
     else if (page == 10) api.data.sequences = data.sequences.slice( (page-1) *200)
@@ -19,8 +30,32 @@ exports.getSequencesPage = (page) => {
     return api
 }
 
-exports.getSequenceById = async (id) => {
+exports.getSequenceById = async (id, kmer) => {
+    let data = await checkAPI(kmer);
     delete api.data.sequences;
     api.data.sequence = await data.sequences.filter(seq => seq.promoter_id == id)
     return api
 } 
+
+exports.responseSeq = async (req, kmer) => {
+    if (req.query.page) {
+        if (req.query.page < 1 || req.query.page > 10) {
+            return errors.out_of_range_error
+        }
+        else {
+            return exports.getSequencesPage(req.query.page, kmer)
+        }
+    } else {
+        return exports.getSequences(kmer);
+    }
+}
+
+exports.responseSeqId = async (req, kmer) => {
+    if (!req.params.id.match("^[a-zA-Z0-9]+")) {
+        return errors.sequence_not_found
+    } else {
+        sequence = await exports.getSequenceById(req.params.id.toUpperCase(), kmer)
+        if (Object.keys(sequence.data.sequence).length > 0) return sequence;
+        else return errors.sequence_not_found
+    } 
+}

@@ -4,17 +4,16 @@ let chartData;
 let chartjs;
 
 window.onload = async (e) => {
-
-    if (localStorage.length > 0) {
-        fetchData().then(() => drawchart(getChartNewData(Object.keys(localStorage)))).then(() => loadSequences())
-        let addedSequences = document.getElementsByClassName("addedSequences")[0]
-        const storedItems = [...Object.values(localStorage)]
-        for (let i = 0; i < storedItems.length; i++) {
-            addedSequences.innerHTML += JSON.parse(storedItems[i])
-        }
+    let event = e.currentTarget.performance.navigation.type
+    if (localStorage.length > 1) {
+        await flipAPI();
+        const newdata = await getChartNewData(Object.keys(localStorage))
+        drawchart(newdata)
     } else {
-        fetchData().then(data => drawchart(data)).then(() => loadSequences())
+        const data = await flipAPI(event);
+        drawchart(data)
     }
+    loadSequences()
 }
 
 const random_rgba = () => {
@@ -24,7 +23,7 @@ const random_rgba = () => {
     return 'rgba(' + o(r() * s) + ',' + o(r() * s) + ',' + o(r() * s) + ',' + 0.7 + ')';
 }
 
-const filterData = (data) => {
+const filterData = (data, r_value) => {
 
     let sequencesChart = []
     for (let i = 0; i < data.length; i++) {
@@ -34,7 +33,7 @@ const filterData = (data) => {
             data: [{
                 x: data[i].x,
                 y: data[i].y,
-                r: data[i].mean * 1500
+                r: data[i].mean * r_value
             }]
         }
         sequencesChart.push(row)
@@ -42,11 +41,11 @@ const filterData = (data) => {
     return sequencesChart;
 }
 
-const fetchData = async () => {
-    return await fetch('/api/promoters')
+const fetchData = async (type, r_value) => {
+    return await fetch(`/api/${type}/promoters`)
         .then(res => res.json())
         .then(data => sequences = data.data.sequences)
-        .then(data => chartData = filterData(data))
+        .then(data => chartData = filterData(data, r_value))
 }
 
 const drawchart = (sequenceData) => {
@@ -81,7 +80,6 @@ const drawchart = (sequenceData) => {
             }
         }
     });
-
 }
 
 const viewBtn = () => {
@@ -108,6 +106,7 @@ const viewBtn = () => {
 
 const loadSequences = () => {
     let table = document.getElementById("sequencesTable");
+    table.innerHTML = ''
     tr = table.getElementsByTagName("tr");
     for (let i = 0; i < sequences.length; i++) {
         let html = `Id: <span id="sequence-${sequences[i].promoter_id}">${sequences[i].promoter_id}</span>\n<div class="sequence">Sequence: ${sequences[i].promoter_sequence}</div>\nx: ${sequences[i].x}\ny: ${sequences[i].y}\nMean of the vector: ${sequences[i].mean}`;
@@ -151,9 +150,12 @@ const clearSearch = () => {
     } 
 }
 
-const getChartNewData = (data) => {
+const getChartNewData = async (olddata) => {
     let sequencesChart = []
+    let data = await olddata.filter(key => !isNaN(key))
+    let addedSequences = document.getElementsByClassName("addedSequences")[0]
     for (let i = 0; i < data.length; i++) {
+        addedSequences.innerHTML += JSON.parse(localStorage.getItem(data[i]))
         let index = parseInt(data[i])
         let row = {
             label: [sequences[index].promoter_id],
@@ -173,24 +175,49 @@ const addSequence = async () => {
     let desiredSequence = document.getElementById('search-box').value
     index = sequences.findIndex(seq => seq.promoter_id == desiredSequence)
     if (localStorage.getItem(index) === null && index > -1) { 
-        let addedSequences = document.getElementsByClassName("addedSequences")[0]
         html = `<div id="addedSeq-${index}" class="addedSeq" onclick="removeSequence('${index}');">Id: ${sequences[index].promoter_id} - Mean: ${sequences[index].mean}</div>`
-        addedSequences.innerHTML += html
         localStorage.setItem(index, JSON.stringify(html))
+        chartjs.data.datasets = await getChartNewData(Object.keys(localStorage))
+        await chartjs.update()
+    }
+}
 
-        chartjs.data.datasets = getChartNewData(Object.keys(localStorage))
-        chartjs.update()
+const flipAPI = async (e) => {
+    if (e == 1) {
+        return setAPI(localStorage.model, localStorage.model == "doc2vec" ? 500 : 1250);
+    } else {
+        let model = localStorage.model == "doc2vec" ? {"m":"kmer2vec","r":1250}:{"m":"doc2vec","r":500}
+        return setAPI(model.m, model.r);
+    }
+}
+
+const setAPI = async (model, r_value) => {
+    let btn_text = document.getElementById("api-btn");
+    btn_text.textContent = `${model} model`
+    localStorage.model = model
+    return await fetchData(model, r_value)
+} 
+
+const onFlipAPI = async () => {
+    let viewbtn = document.getElementById("view-btn");
+    const data = await flipAPI();
+    chartjs.data.datasets = data;
+    await chartjs.update();
+    loadSequences();
+    if (viewbtn.textContent === "Chart View") {
+        currentIndex = 0;
+        showSequences(5);
     }
 }
 
 const removeSequence = async (index) => {
     localStorage.removeItem(index)
-    chartjs.data.datasets = chartjs.data.datasets.filter(seq => seq.label[0] != sequences[index].promoter_id)
+    chartjs.data.datasets = await chartjs.data.datasets.filter(seq => seq.label[0] != sequences[index].promoter_id)
     document.getElementById(`addedSeq-${index}`).remove()
-    if (localStorage.length < 1) {
+    if (localStorage.length < 2) {
         chartjs.data.datasets = chartData;
     }
-    chartjs.update()
+    await chartjs.update()
 }
 
 const filterTable = (e) => {

@@ -11,10 +11,9 @@ const localhost = 'http://localhost'
 app.set('view engine', 'pug');
 app.set('json spaces', 4)
 
-
-app.use(express.static('public'));
 app.use(express.urlencoded({extended: true}));
 app.use(bodyParser.json());
+app.use(express.static('public'));
 app.use(compression());
 
 

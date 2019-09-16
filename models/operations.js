@@ -1,7 +1,15 @@
-const data = require('../lib/data/sequence_vectors')
+const kmer_data = require('../lib/data/sequence_vectors')
+const doc2vec_data = require('../lib/data/sequence_vectors_doc2vec')
 
+exports.checkAPI = async (kmer) => {
+    let data;
+    if (kmer) data = kmer_data
+    else data = doc2vec_data
+    return await data;
+}
 
-exports.getVector = (sequence_id) => {
+exports.getVector = async (sequence_id, kmer) => {
+    let data = await checkAPI(kmer);
     return data.vectors[sequence_id]
 }
 
