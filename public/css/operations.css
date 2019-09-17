@@ -7,7 +7,7 @@ form {
     text-align: center;
 }
 
-#back-btn, #select-menu, #clear-btn, #search-btn, #result-btn {
+#back-btn, #select-menu, #clear-btn, #search-btn, #result-btn, #api-btn {
     background: #2565c5;
     color: white;
     border-radius: 5px 5px 5px 5px;
@@ -16,6 +16,12 @@ form {
     height: 30px;
     margin: 5px;
     cursor: pointer;
+}
+
+#api-btn {
+    width: 190px;
+    display: block;
+    margin: auto;
 }
 
 #select-menu {

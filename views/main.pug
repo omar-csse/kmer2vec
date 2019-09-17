@@ -19,8 +19,8 @@ html(lang="en")
         div.buttons
             form
                 button#view-btn(type='button', onclick='viewBtn();') Table View
-                a
-                    button#operations-btn(type='button', onclick='viewBtn();') Operations
+                a(href="/operations")
+                    button#operations-btn(type='button') Operations
         .smallspace
         div.search-box
             input#search-box(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")

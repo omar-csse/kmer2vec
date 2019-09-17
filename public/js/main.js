@@ -5,15 +5,8 @@ let chartjs;
 
 window.onload = async (e) => {
     let event = e.currentTarget.performance.navigation.type
-    if (localStorage.length > 1) {
-        await flipAPI();
-        const newdata = await getChartNewData(Object.keys(localStorage))
-        drawchart(newdata)
-    } else {
-        const data = await flipAPI(event);
-        drawchart(data)
-    }
-    loadSequences()
+    await chartIt(event, true)
+    await loadSequences();
 }
 
 const random_rgba = () => {
@@ -104,14 +97,14 @@ const viewBtn = () => {
     }   
 }
 
-const loadSequences = () => {
+const loadSequences = async () => {
     let table = document.getElementById("sequencesTable");
     table.innerHTML = ''
     tr = table.getElementsByTagName("tr");
     for (let i = 0; i < sequences.length; i++) {
         let html = `Id: <span id="sequence-${sequences[i].promoter_id}">${sequences[i].promoter_id}</span>\n<div class="sequence">Sequence: ${sequences[i].promoter_sequence}</div>\nx: ${sequences[i].x}\ny: ${sequences[i].y}\nMean of the vector: ${sequences[i].mean}`;
-        let newRow = table.insertRow(-1);
-        let newCell = newRow.insertCell(0).innerHTML = html;
+        let newRow = await table.insertRow(-1);
+        let newCell = (newRow.insertCell(0).innerHTML = html);
         tr[i].style.display = "none"
     }
 }
@@ -154,6 +147,7 @@ const getChartNewData = async (olddata) => {
     let sequencesChart = []
     let data = await olddata.filter(key => !isNaN(key))
     let addedSequences = document.getElementsByClassName("addedSequences")[0]
+    addedSequences.innerHTML = ''
     for (let i = 0; i < data.length; i++) {
         addedSequences.innerHTML += JSON.parse(localStorage.getItem(data[i]))
         let index = parseInt(data[i])
@@ -183,30 +177,43 @@ const addSequence = async () => {
 }
 
 const flipAPI = async (e) => {
-    if (e == 1) {
-        return setAPI(localStorage.model, localStorage.model == "doc2vec" ? 500 : 1250);
+    if (localStorage.model == undefined) {
+        return setAPI("doc2vec", 500);
     } else {
-        let model = localStorage.model == "doc2vec" ? {"m":"kmer2vec","r":1250}:{"m":"doc2vec","r":500}
-        return setAPI(model.m, model.r);
+        if (e == 1) {
+            return setAPI(localStorage.model, localStorage.model == "doc2vec" ? 500 : 1250);
+        } else {
+            let model = localStorage.model == "doc2vec" ? {"m":"kmer2vec","r":1250}:{"m":"doc2vec","r":500}
+            return setAPI(model.m, model.r);
+        }
     }
 }
 
 const setAPI = async (model, r_value) => {
     let btn_text = document.getElementById("api-btn");
-    btn_text.textContent = `${model} model`
+    btn_text.textContent = `${model == "doc2vec" ? "kmer2vec" : "doc2vec"} model`
     localStorage.model = model
     return await fetchData(model, r_value)
 } 
 
 const onFlipAPI = async () => {
     let viewbtn = document.getElementById("view-btn");
-    const data = await flipAPI();
-    chartjs.data.datasets = data;
-    await chartjs.update();
-    loadSequences();
+    await chartIt();
+    await loadSequences();
     if (viewbtn.textContent === "Chart View") {
         currentIndex = 0;
         showSequences(5);
+    }
+}
+
+const chartIt = async (event, ref) => {
+    if (localStorage.length > 1) {
+        await flipAPI(event);
+        const data = await getChartNewData(Object.keys(localStorage))
+        ref ? drawchart(data) : chartjs.data.datasets = data, await chartjs.update()
+    } else {
+        const data = await flipAPI(event);
+        ref ? drawchart(data) : chartjs.data.datasets = data, await chartjs.update()
     }
 }
 

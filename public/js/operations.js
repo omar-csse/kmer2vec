@@ -1,6 +1,12 @@
 let sequences = [];
 let idsData;
-let seq2vec
+
+window.onload = async (e) => {
+    let event = e.currentTarget.performance.navigation.type
+    const data = await flipAPI(event)
+    const f_data = filterIds(data)
+    autocompletSearch(f_data, '#search-input')
+}
 
 const random_rgba = () => {
     let o = Math.round
@@ -23,6 +29,36 @@ const autocompletSearch = (data, tag) => {
     });
 }
 
+const flipAPI = async (e) => {
+    if (localStorage.model == undefined) {
+        return setAPI("doc2vec");
+    } else {
+        if (e == 1) {
+            return setAPI(localStorage.model);
+        } else {
+            return setAPI(localStorage.model == "doc2vec" ? "kmer2vec" : "doc2vec");
+        }
+    }
+}
+
+const setAPI = async (model) => {
+    let btn_text = document.getElementById("api-btn");
+    btn_text.textContent = `${model} model`
+    localStorage.model = model
+    return await fetchData(model)
+} 
+
+const onFlipAPI = () => {
+    setModel()
+}
+
+const setModel = async () => {
+    if (localStorage.model === "undefined") localStorage.model = "doc2vec"
+    else {
+        localStorage.model == "doc2vec" ? await setAPI("kmer2vec") : await setAPI("doc2vec")
+    }
+}
+
 const filterData = async (data) => {
 
     nearest_d = data.slice(0, 25)
@@ -34,8 +70,8 @@ const filterData = async (data) => {
 
     for (let i = 0; i < nearest_d.length; i++) {
 
-        wanted_n_d = await sequences.filter(seq => seq.promoter_id == nearest_d[i].seqId)
-        wanted_f_d = await sequences.filter(seq => seq.promoter_id == furthest_d[i].seqId)
+        wanted_n_d = sequences.filter(seq => seq.promoter_id == nearest_d[i].seqId)
+        wanted_f_d = sequences.filter(seq => seq.promoter_id == furthest_d[i].seqId)
 
         if (nearest_d[i].similarity >= 0.99) {
             n_rgb = 'rgba(0,0,0,0.7)'; f_rgb = 'rgba(0,0,0,0.7)'
@@ -150,10 +186,10 @@ function hasDuplicates(array) {
 }
 
 const getIsTo = async (is1, to1, is2) => {
-    let to2;
     let chartData = [];
+    let kmer = localStorage.model == "doc2vec" ? false : true
     if (validSeq(is1) && validSeq(to1) && validSeq(is2)) {
-        await fetchOperation('isto', {is1, to1, is2}).then(data => to2 = data)
+        const to2 = await fetchOperation('isto', {is1, to1, is2, kmer})
         for (let i = 0; i < sequences.length; i++) {
             if (is1 == sequences[i].promoter_id || is2 == sequences[i].promoter_id ||
                 to1 == sequences[i].promoter_id) {
@@ -165,22 +201,22 @@ const getIsTo = async (is1, to1, is2) => {
         }
         document.getElementById("result").innerText = to2.seqId
         document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`
-        await drawchart(chartData, "chart1", "is to")
+        drawchart(chartData, "chart1", "is to")
     }
 }
 
 const getBetween = async (seq1, seq2) => {
-    let between;
     let chartData = [];
+    let kmer = localStorage.model == "doc2vec" ? false : true
     if (validSeq(seq1) && validSeq(seq2)) {
-        await fetchOperation('between', {seq1, seq2}).then(data => between = data)
+        const between = await fetchOperation('between', {seq1, seq2, kmer})
         for (let i = 0; i < between.length; i++) {
             let seq = sequences.filter(seq => seq.promoter_id == between[i].seqId)
             chartData.push(getRow(seq[0].promoter_id, between[i].similarity, random_rgba(), seq[0].x, seq[0].y, 20))
         }
         document.getElementById("result").innerText = between.slice(-1)[0].seqId
         document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`
-        await drawchart(chartData, "chart1", "between")
+        drawchart(chartData, "chart1", "between")
     }
 }
 
@@ -197,12 +233,13 @@ const setOperations = (op_type1, op_type2, resultBtn) => {
     document.getElementById("result-btn").innerText = resultBtn;
 }
 
-const plotTwoCharts = async (nearest, furthest) => {
-    await drawchart(nearest, "chart1", "nearest 25 sequences")
-    await drawchart(furthest, "chart2", "furthest 25 sequences")
+const plotTwoCharts = (nearest, furthest) => {
+    drawchart(nearest, "chart1", "nearest 25 sequences")
+    drawchart(furthest, "chart2", "furthest 25 sequences")
 }
 
 const clearOperations = () => {
+    document.querySelector(`#select-menu [value="cos"]`).selected = true;
     document.getElementById("search-input").value = ''
     document.getElementById("result").innerText = ''
     setForms("", "none")
@@ -213,16 +250,16 @@ const filterIds = (data) => {
     for (let i = 0; i < data.length; i++) {
         ids.push(data[i].promoter_id)
     }
-    idsData = ids
-    return idsData
+    idsData = ids;
+    return ids
 }
 
 const validSeq = (seq_promoter_id) => {
     return sequences.some(seq => seq.promoter_id == seq_promoter_id) ? true : false
 }
 
-const fetchData = async () => {
-    return await fetch('/api/promoters')
+const fetchData = async (model) => {
+    return await fetch(`/api/${model}/promoters`)
         .then(res => res.json())
         .then(data => sequences = data.data.sequences)
 }
@@ -239,12 +276,11 @@ const fetchResult = async () => {
     document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`
     let option = document.getElementById("select-menu").value
     let input = document.getElementById("search-input").value
+    let kmer = localStorage.model == "doc2vec" ? false : true
     if (validSeq(input)) {
-        fetchOperation('cosine', {seqId: input, nearest: option==='cos'})
+        fetchOperation('cosine', {seqId: input, nearest: option==='cos', kmer})
             .then(data => filterData(data))
             .then(data => plotTwoCharts(data.nearest, data.furthest))
             .catch(err => console.log(err))
     }
 }
-
-fetchData().then(data => filterIds(data)).then((data) => autocompletSearch(data, '#search-input'))

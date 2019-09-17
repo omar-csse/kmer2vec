@@ -1,19 +1,21 @@
 const kmer_data = require('../lib/data/sequence_vectors')
 const doc2vec_data = require('../lib/data/sequence_vectors_doc2vec')
+const sigma70 = require('../lib/data/sigma70')
+const cos = require('../models/cos_similarity');
 
-exports.checkAPI = async (kmer) => {
+const checkAPI = exports.checkAPI = async (kmer) => {
     let data;
     if (kmer) data = kmer_data
     else data = doc2vec_data
     return await data;
 }
 
-exports.getVector = async (sequence_id, kmer) => {
+const getVector = exports.getVector = async (sequence_id, kmer) => {
     let data = await checkAPI(kmer);
     return data.vectors[sequence_id]
 }
 
-exports.add = (vec1, vec2) => {
+const add = exports.add = (vec1, vec2) => {
     let add = []
     for (let i = 0; i < vec1.length; i++) {
         add.push( vec1[i] + vec2[i] )
@@ -21,7 +23,7 @@ exports.add = (vec1, vec2) => {
     return add
 }
 
-exports.difference = (vec1, vec2) => {
+const difference = exports.difference = (vec1, vec2) => {
     let diff = []
     for (let i = 0; i < vec1.length; i++) {
         diff.push( vec1[i] - vec2[i] )
@@ -29,10 +31,32 @@ exports.difference = (vec1, vec2) => {
     return diff 
 }
 
-exports.average = (vec1, vec2) => {
+const average = exports.average = (vec1, vec2) => {
     let avg = []
     for (let i = 0; i < vec1.length; i++) {
         avg.push( ( vec1[i] + vec2[i] ) / 2 )
     }
     return avg
+}
+
+exports.isto = async (is1, to1, is2, kmer) => {
+    let diff = difference(await getVector(to1, kmer), await getVector(is1, kmer))
+    let added = add(await getVector(is2, kmer), diff)
+    let most = await cos.most_similar(added, kmer)
+    most = most.slice(0,4)
+    for (let i = 0; i < most.length; i++) {
+        if (most[i].seqId != is1 && most[i].seqId != to1 && most[i].seqId != is2) {
+            return most[i]
+        }
+    }
+}
+
+exports.between = async (seq1, seq2, kmer) => {
+    let avg = average(await getVector(seq1, kmer), await getVector(seq2, kmer))
+    let most = await cos.most_similar(avg, kmer)
+    return seq1 == seq2 ? most.slice(0,2) : most.slice(0,3)
+}
+
+exports.validSeq = async (seq_promoter_id) => {
+    return await sigma70.some(seq => seq.promoter_id == seq_promoter_id) ? true : false
 }

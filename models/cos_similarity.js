@@ -2,8 +2,8 @@ const op = require('./operations')
 const cosine_similarity = require('compute-cosine-similarity')
 
 exports.similarity = async (sequence, nearest, kmer) => {
-    let data = op.checkAPI(kmer)
-    let data_vectors = Object.entries(data)
+    let data = await op.checkAPI(kmer)
+    let data_vectors = Object.entries(data.vectors)
     const wanted_sequence_vector = await data.vectors[sequence]
     let result = []
 
@@ -16,9 +16,9 @@ exports.similarity = async (sequence, nearest, kmer) => {
     return result
 }
 
-exports.most_similar = async (avg_vec) => {
-    let data = op.checkAPI(kmer)
-    let data_vectors = Object.entries(data)
+exports.most_similar = async (avg_vec, kmer) => {
+    let data = await op.checkAPI(kmer)
+    let data_vectors = Object.entries(data.vectors)
     let result = []
     for (const [sequence, seq_vector] of data_vectors) {
         let sim = await cosine_similarity(avg_vec, seq_vector)
