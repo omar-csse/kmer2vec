@@ -7,16 +7,16 @@
         "number_of_sequences": null,
         "sequences": null,
         "error": {
-            "error_message": "page is out of range",
-            "error_code": "404"
+            "message": "page is out of range",
+            "status": 404
         }
     },
     "sequence_not_found": {
         "total_sequences": 1949,
         "sequence": null,
         "error": {
-            "error_message": "sequence id is not found",
-            "error_code": "404"
+            "message": "sequence id is not found",
+            "status": 404
         }
     }
 }

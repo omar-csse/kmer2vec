@@ -16,15 +16,25 @@ app.use(bodyParser.json());
 app.use(express.static('public'));
 app.use(compression());
 
-
 // routes
 app.use(require('../routes/api/api.promoters'));
 app.use(require("../routes/main.js"));
 app.use(require("../routes/operations.js"));
 
+app.use((req, res, next) => {
+    let err = new Error("Not Found");
+    err.status = 404;
+    next(err);
+})
 
-const main = async () => {
-    await app.listen(port);
+app.use((err, req, res, next) => {
+    res.status(err.status || res.statusCode || 500)
+    res.send({error : {message: err.message, status: err.status || res.statusCode}})    
+})
+
+
+const main = () => {
+    app.listen(port);
     return console.debug(`🚀  Server listening on ${localhost}:${port}`);
 }
 

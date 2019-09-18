@@ -39,6 +39,10 @@ const average = exports.average = (vec1, vec2) => {
     return avg
 }
 
+const validSeq = async (seq_id) => {
+    return await sigma70.some(seq => seq.PROMOTER_ID == seq_id)
+}
+
 exports.isto = async (is1, to1, is2, kmer) => {
     let diff = difference(await getVector(to1, kmer), await getVector(is1, kmer))
     let added = add(await getVector(is2, kmer), diff)
@@ -57,6 +61,11 @@ exports.between = async (seq1, seq2, kmer) => {
     return seq1 == seq2 ? most.slice(0,2) : most.slice(0,3)
 }
 
-exports.validSeq = async (seq_promoter_id) => {
-    return await sigma70.some(seq => seq.promoter_id == seq_promoter_id) ? true : false
+exports.validSequences = async (type, data) => {
+    switch (type) {
+        case 'cosine': return await validSeq(data.seqId)
+        case 'isto': return validSeq(data.is1) && validSeq(data.to1) && validSeq(data.is2)
+        case 'between': return validSeq(data.seq1) && validSeq(data.seq2)
+        default: return false
+    }
 }
