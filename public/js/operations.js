@@ -31,12 +31,12 @@ const autocompletSearch = (data, tag) => {
 
 const flipAPI = async (e) => {
     if (localStorage.model == undefined) {
-        return setAPI("doc2vec");
+        return setAPI("seq2vec");
     } else {
         if (e == 1) {
             return setAPI(localStorage.model);
         } else {
-            return setAPI(localStorage.model == "doc2vec" ? "kmer2vec" : "doc2vec");
+            return setAPI(localStorage.model == "seq2vec" ? "kmer2vec" : "seq2vec");
         }
     }
 }
@@ -53,9 +53,9 @@ const onFlipAPI = () => {
 }
 
 const setModel = async () => {
-    if (localStorage.model === "undefined") localStorage.model = "doc2vec"
+    if (localStorage.model === "undefined") localStorage.model = "seq2vec"
     else {
-        localStorage.model == "doc2vec" ? await setAPI("kmer2vec") : await setAPI("doc2vec")
+        localStorage.model == "seq2vec" ? await setAPI("kmer2vec") : await setAPI("seq2vec")
     }
 }
 
@@ -187,7 +187,7 @@ function hasDuplicates(array) {
 
 const getIsTo = async (is1, to1, is2) => {
     let chartData = [];
-    let kmer = localStorage.model == "doc2vec" ? false : true
+    let kmer = localStorage.model == "seq2vec" ? false : true
     if (validSeq(is1) && validSeq(to1) && validSeq(is2)) {
         const to2 = await fetchOperation('isto', {is1, to1, is2, kmer})
         for (let i = 0; i < sequences.length; i++) {
@@ -207,7 +207,7 @@ const getIsTo = async (is1, to1, is2) => {
 
 const getBetween = async (seq1, seq2) => {
     let chartData = [];
-    let kmer = localStorage.model == "doc2vec" ? false : true
+    let kmer = localStorage.model == "seq2vec" ? false : true
     if (validSeq(seq1) && validSeq(seq2)) {
         const between = await fetchOperation('between', {seq1, seq2, kmer})
         for (let i = 0; i < between.length; i++) {
@@ -276,7 +276,7 @@ const fetchResult = async () => {
     document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`
     let option = document.getElementById("select-menu").value
     let input = document.getElementById("search-input").value
-    let kmer = localStorage.model == "doc2vec" ? false : true
+    let kmer = localStorage.model == "seq2vec" ? false : true
     if (validSeq(input)) {
         fetchOperation('cosine', {seqId: input, nearest: option==='cos', kmer})
             .then(data => filterData(data))

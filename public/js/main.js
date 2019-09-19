@@ -178,12 +178,12 @@ const addSequence = async () => {
 
 const flipAPI = async (e) => {
     if (localStorage.model == undefined) {
-        return setAPI("doc2vec", 500);
+        return setAPI("seq2vec", 500);
     } else {
         if (e == 1) {
-            return setAPI(localStorage.model, localStorage.model == "doc2vec" ? 500 : 1250);
+            return setAPI(localStorage.model, localStorage.model == "seq2vec" ? 500 : 1250);
         } else {
-            let model = localStorage.model == "doc2vec" ? {"m":"kmer2vec","r":1250}:{"m":"doc2vec","r":500}
+            let model = localStorage.model == "seq2vec" ? {"m":"kmer2vec","r":1250}:{"m":"seq2vec","r":500}
             return setAPI(model.m, model.r);
         }
     }
@@ -191,7 +191,7 @@ const flipAPI = async (e) => {
 
 const setAPI = async (model, r_value) => {
     let btn_text = document.getElementById("api-btn");
-    btn_text.textContent = `${model == "doc2vec" ? "kmer2vec" : "doc2vec"} model`
+    btn_text.textContent = `${model == "seq2vec" ? "kmer2vec" : "seq2vec"} model`
     localStorage.model = model
     return await fetchData(model, r_value)
 } 

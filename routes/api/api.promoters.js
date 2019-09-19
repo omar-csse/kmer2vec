@@ -10,7 +10,7 @@ router.get('/api/kmer2vec/promoters', async (req, res) => {
     }
 })
 
-router.get('/api/doc2vec/promoters', async (req, res) => {
+router.get('/api/seq2vec/promoters', async (req, res) => {
     try {
         res.json(await api.responseSeq(req, false))
     } catch (error) {
@@ -26,7 +26,7 @@ router.get('/api/kmer2vec/promoters/:id', async (req, res) => {
     }
 })
 
-router.get('/api/doc2vec/promoters/:id', async (req, res) => {
+router.get('/api/seq2vec/promoters/:id', async (req, res) => {
     try {
         res.json(await api.responseSeqId(req, false))
     } catch (error) {
