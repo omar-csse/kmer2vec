@@ -17,7 +17,9 @@ html(lang="en")
         .space
         h1.main-header operations
         .space
-        button#api-btn(type='button', onclick='onFlipAPI();') kmer2vec model
+        select#api-menu(onchange='onFlipAPI(event);')
+            option(value='seq2vec', selected="selected") seq2vec model
+            option(value='kmer2vec') kmer2vec model
         .smallspace
         form
             div.main-btns
@@ -27,7 +29,7 @@ html(lang="en")
             .smallspace
             div.search-form
                 input#search-input(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")
-                select#select-menu(onchange="selectChanged(event);")
+                select#select-menu(onchange="operationChanged(event);")
                     option(value='cos', selected="selected") cosine similarity
                     option(value='between') between
                     option(value='isto') is to

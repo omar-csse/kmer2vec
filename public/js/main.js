@@ -4,8 +4,7 @@ let chartData;
 let chartjs;
 
 window.onload = async (e) => {
-    let event = e.currentTarget.performance.navigation.type
-    await chartIt(event, true)
+    await chartIt(true)
     await loadSequences();
 }
 
@@ -176,28 +175,19 @@ const addSequence = async () => {
     }
 }
 
-const flipAPI = async (e) => {
-    if (localStorage.model == undefined) {
-        return setAPI("seq2vec", 500);
-    } else {
-        if (e == 1) {
-            return setAPI(localStorage.model, localStorage.model == "seq2vec" ? 500 : 1250);
-        } else {
-            let model = localStorage.model == "seq2vec" ? {"m":"kmer2vec","r":1250}:{"m":"seq2vec","r":500}
-            return setAPI(model.m, model.r);
-        }
-    }
+const flipAPI = async () => {
+    if (localStorage.model == undefined) return setAPI("seq2vec", 500);
+    else return setAPI(localStorage.model, localStorage.model == "seq2vec" ? 500 : 1250);
 }
 
 const setAPI = async (model, r_value) => {
-    let btn_text = document.getElementById("api-btn");
-    btn_text.textContent = `${model == "seq2vec" ? "kmer2vec" : "seq2vec"} model`
     localStorage.model = model
     return await fetchData(model, r_value)
 } 
 
-const onFlipAPI = async () => {
+const onFlipAPI = async (e) => {
     let viewbtn = document.getElementById("view-btn");
+    localStorage.model = e.target.value;
     await chartIt();
     await loadSequences();
     if (viewbtn.textContent === "Chart View") {
@@ -206,13 +196,13 @@ const onFlipAPI = async () => {
     }
 }
 
-const chartIt = async (event, ref) => {
+const chartIt = async (ref) => {
     if (localStorage.length > 1) {
-        await flipAPI(event);
+        await flipAPI();
         const data = await getChartNewData(Object.keys(localStorage))
         ref ? drawchart(data) : chartjs.data.datasets = data, await chartjs.update()
     } else {
-        const data = await flipAPI(event);
+        const data = await flipAPI();
         ref ? drawchart(data) : chartjs.data.datasets = data, await chartjs.update()
     }
 }

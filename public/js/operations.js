@@ -2,8 +2,7 @@ let sequences = [];
 let idsData;
 
 window.onload = async (e) => {
-    let event = e.currentTarget.performance.navigation.type
-    const data = await flipAPI(event)
+    const data = await flipAPI()
     const f_data = filterIds(data)
     autocompletSearch(f_data, '#search-input')
 }
@@ -29,33 +28,25 @@ const autocompletSearch = (data, tag) => {
     });
 }
 
-const flipAPI = async (e) => {
-    if (localStorage.model == undefined) {
-        return setAPI("seq2vec");
-    } else {
-        if (e == 1) {
-            return setAPI(localStorage.model);
-        } else {
-            return setAPI(localStorage.model == "seq2vec" ? "kmer2vec" : "seq2vec");
-        }
-    }
+const flipAPI = async () => {
+    if (localStorage.model == undefined) return setAPI("seq2vec");
+    else return setAPI(localStorage.model);
 }
 
 const setAPI = async (model) => {
-    let btn_text = document.getElementById("api-btn");
-    btn_text.textContent = `${model} model`
     localStorage.model = model
     return await fetchData(model)
 } 
 
-const onFlipAPI = () => {
+const onFlipAPI = (e) => {
+    localStorage.model = e.target.value;
     setModel()
 }
 
 const setModel = async () => {
     if (localStorage.model === "undefined") localStorage.model = "seq2vec"
     else {
-        localStorage.model == "seq2vec" ? await setAPI("kmer2vec") : await setAPI("seq2vec")
+        localStorage.model == "seq2vec" ? await setAPI("seq2vec") : await setAPI("kmer2vec")
     }
 }
 
@@ -138,7 +129,7 @@ const drawchart = (sequenceData, chartId, title) => {
     });
 }
 
-const selectChanged = (e) => {
+const operationChanged = (e) => {
     clearInputs()
     if (e.target.value == 'cos') {
         setForms("", "none")

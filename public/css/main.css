@@ -7,7 +7,7 @@ form {
     display: inline-block;
 }
 
-.buttons, #api-btn{
+.buttons, #api-menu { 
     text-align: center;
 }
 
@@ -41,7 +41,7 @@ form {
     text-align: center;
 }
 
-#view-btn, #operations-btn, #clear-btn, #add-btn, #api-btn {
+#view-btn, #operations-btn, #clear-btn, #add-btn, #api-menu {
     background: #2565c5;
     color: white;
     border-radius: 5px 5px 5px 5px;
@@ -52,7 +52,7 @@ form {
     cursor: pointer;
 }
 
-#api-btn {
+#api-menu {
     width: 190px;
     display: block;
     margin: auto;

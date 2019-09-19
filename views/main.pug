@@ -14,7 +14,9 @@ html(lang="en")
         .space
         h1.main-header seq2vec and kmer2vec models on Sigma70s' promoter sequence
         .space
-        button#api-btn(type='button', onclick='onFlipAPI();') kmer2vec model
+        select#api-menu(onchange='onFlipAPI(event);')
+            option(value='seq2vec', selected="selected") seq2vec model
+            option(value='kmer2vec') kmer2vec model
         .smallspace
         div.buttons
             form
