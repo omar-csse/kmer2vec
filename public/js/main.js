@@ -4,6 +4,7 @@ let chartData;
 let chartjs;
 
 window.onload = async (e) => {
+    loadAPI()
     await chartIt(true)
     await loadSequences();
 }
@@ -172,6 +173,16 @@ const addSequence = async () => {
         localStorage.setItem(index, JSON.stringify(html))
         chartjs.data.datasets = await getChartNewData(Object.keys(localStorage))
         await chartjs.update()
+    }
+}
+
+const loadAPI = () => {
+    let api_menu = document.getElementById("api-menu");
+    let selected_api = api_menu.options[api_menu.selectedIndex].value;
+    if (localStorage.model == "seq2vec" || localStorage.model == "kmer2vec") {
+        api_menu.value = localStorage.model
+    } else {
+        localStorage.model = selected_api;
     }
 }
 

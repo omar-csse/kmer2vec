@@ -2,7 +2,7 @@ let sequences = [];
 let idsData;
 
 window.onload = async (e) => {
-    const data = await flipAPI()
+    const data = await loadAPI()
     const f_data = filterIds(data)
     autocompletSearch(f_data, '#search-input')
 }
@@ -28,9 +28,15 @@ const autocompletSearch = (data, tag) => {
     });
 }
 
-const flipAPI = async () => {
-    if (localStorage.model == undefined) return setAPI("seq2vec");
-    else return setAPI(localStorage.model);
+const loadAPI = async () => {
+    let api_menu = document.getElementById("api-menu");
+    let selected_api = api_menu.options[api_menu.selectedIndex].value;
+    if (localStorage.model == "seq2vec" || localStorage.model == "kmer2vec") {
+        api_menu.value = localStorage.model
+    } else {
+        localStorage.model = selected_api;
+    }
+    return await setAPI(localStorage.model);
 }
 
 const setAPI = async (model) => {
