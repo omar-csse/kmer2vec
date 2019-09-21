@@ -30,6 +30,10 @@ exports.getSequencesPage = async (page, kmer) => {
     return api
 }
 
+exports.sequenceExist = async (id) => {
+    return await doc2vec_data.sequences.some(seq => seq.promoter_id === id)
+}
+
 exports.getSequenceById = async (id, kmer) => {
     let data = await checkAPI(kmer);
     delete api.data.sequences;
@@ -38,24 +42,10 @@ exports.getSequenceById = async (id, kmer) => {
 } 
 
 exports.responseSeq = async (req, kmer) => {
-    if (req.query.page) {
-        if (req.query.page < 1 || req.query.page > 10) {
-            return errors.out_of_range_error
-        }
-        else {
-            return exports.getSequencesPage(req.query.page, kmer)
-        }
-    } else {
-        return exports.getSequences(kmer);
-    }
+    if (req.query.page) return exports.getSequencesPage(req.query.page, kmer)
+    else return exports.getSequences(kmer);
 }
 
 exports.responseSeqId = async (req, kmer) => {
-    if (!req.params.id.match("^[a-zA-Z0-9]+")) {
-        return errors.sequence_not_found
-    } else {
-        sequence = await exports.getSequenceById(req.params.id.toUpperCase(), kmer)
-        if (Object.keys(sequence.data.sequence).length > 0) return sequence;
-        else return errors.sequence_not_found
-    } 
+    return await exports.getSequenceById(req.params.id.toUpperCase(), kmer)
 }

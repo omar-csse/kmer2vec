@@ -1,37 +1,31 @@
 const api = require('./models')
+const is_sequence = require('../../middleware/issequence')
+const valid_page = require('../../middleware/validPage')
 const router = require('express').Router()
 
 
-router.get('/api/kmer2vec/promoters', async (req, res) => {
-    try {
-        res.json(await api.responseSeq(req, true))
-    } catch (error) {
-        res.json(error).end(404)
-    }
+router.get('/api/kmer2vec/promoters', valid_page, (req, res) => {
+    api.responseSeq(req, true)
+        .then(data => res.json(data))
+        .catch(err => res.json("Internal Server Error").end(500))
 })
 
-router.get('/api/seq2vec/promoters', async (req, res) => {
-    try {
-        res.json(await api.responseSeq(req, false))
-    } catch (error) {
-        res.json(error).end(404)
-    }
+router.get('/api/seq2vec/promoters', valid_page, (req, res) => {
+    api.responseSeq(req, false)
+        .then(data => res.json(data))
+        .catch(err => res.json("Internal Server Error").end(500))
 })
 
-router.get('/api/kmer2vec/promoters/:id', async (req, res) => {
-    try {
-        res.json(await api.responseSeqId(req, true))
-    } catch (error) {
-        res.json(error).end(404)
-    }
+router.get('/api/kmer2vec/promoters/:id', is_sequence, (req, res) => {
+    api.responseSeqId(req, true)
+        .then(data =>res.json(data))
+        .catch(err => res.json("Internal Server Error").end(500))
 })
 
-router.get('/api/seq2vec/promoters/:id', async (req, res) => {
-    try {
-        res.json(await api.responseSeqId(req, false))
-    } catch (error) {
-        res.json(error).end(404)
-    }
+router.get('/api/seq2vec/promoters/:id', is_sequence, (req, res) => {
+    api.responseSeqId(req, false)
+        .then(data =>res.json(data))
+        .catch(err => res.json("Internal Server Error").end(500))
 })
 
 module.exports = router
