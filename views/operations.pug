@@ -28,7 +28,7 @@ html(lang="en")
                 button#clear-btn(type='button', onclick='clearOperations();') Clear
             .smallspace
             div.search-form
-                input#search-input(size='50', type='text', name='search', placeholder='Sequence id' onkeyup="onTyping(event);")
+                input#search-input(size='50', type='text', name='search', placeholder='Sequence id')
                 select#select-menu(onchange="operationChanged(event);")
                     option(value='cos', selected="selected") cosine similarity
                     option(value='between') between

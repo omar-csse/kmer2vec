@@ -1,7 +1,6 @@
 const kmer_data = require('../../lib/data/sequence_coords')
 const doc2vec_data = require('../../lib/data/sequence_coords_doc2vec')
 const api = require('./sequences.json')
-const errors = require('./errors.json')
 
 const checkAPI = async (kmer) => {
     let data;

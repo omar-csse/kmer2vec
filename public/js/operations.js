@@ -193,7 +193,7 @@ const getIsTo = async (is1, to1, is2) => {
                 chartData.push(getRow(sequences[i].promoter_id, undefined, random_rgba(), sequences[i].x, sequences[i].y, 20))
             }
             if (to2.seqId == sequences[i].promoter_id) {
-                chartData.push(getRow(sequences[i].promoter_id, to2.similarity, random_rgba(), sequences[i].x, sequences[i].y, 20))
+                chartData.push(getRow(sequences[i].promoter_id, undefined, random_rgba(), sequences[i].x, sequences[i].y, 20))
             }
         }
         document.getElementById("result").innerText = to2.seqId
@@ -209,7 +209,7 @@ const getBetween = async (seq1, seq2) => {
         const between = await fetchOperation('between', {seq1, seq2, kmer})
         for (let i = 0; i < between.length; i++) {
             let seq = sequences.filter(seq => seq.promoter_id == between[i].seqId)
-            chartData.push(getRow(seq[0].promoter_id, between[i].similarity, random_rgba(), seq[0].x, seq[0].y, 20))
+            chartData.push(getRow(seq[0].promoter_id, undefined, random_rgba(), seq[0].x, seq[0].y, 20))
         }
         document.getElementById("result").innerText = between.slice(-1)[0].seqId
         document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`

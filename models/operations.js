@@ -46,19 +46,14 @@ const validSeq = async (seq_id) => {
 exports.isto = async (is1, to1, is2, kmer) => {
     let diff = difference(await getVector(to1, kmer), await getVector(is1, kmer))
     let added = add(await getVector(is2, kmer), diff)
-    let most = await cos.most_similar(added, kmer)
-    most = most.slice(0,4)
-    for (let i = 0; i < most.length; i++) {
-        if (most[i].seqId != is1 && most[i].seqId != to1 && most[i].seqId != is2) {
-            return most[i]
-        }
-    }
+    let closest = await cos.most_similar(added, kmer)
+    return {seqId: closest.promoter_id}
 }
 
 exports.between = async (seq1, seq2, kmer) => {
     let avg = average(await getVector(seq1, kmer), await getVector(seq2, kmer))
-    let most = await cos.most_similar(avg, kmer)
-    return seq1 == seq2 ? most.slice(0,2) : most.slice(0,3)
+    let closest = await cos.most_similar(avg, kmer)
+    return [{seqId: seq1}, {seqId: seq2}, {seqId: closest.promoter_id}]
 }
 
 exports.validSequences = async (type, data) => {
