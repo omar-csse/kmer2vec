@@ -8,13 +8,7 @@
 	"private": true,
 	"scripts": {
 		"start": "NODE_ENV=development nodemon server/server.js",
-		"build": "NODE_ENV=production node server/server.js",
-		"sigma70": "python lib/sigma70.py",
-		"data": "python lib/data.py",
-		"kmer2vec:v1": "python lib/kmer2vec-v1/kmer2vec.py",
-		"kmer2vec:v2": "python lib/kmer2vec-v2/kmer2vec.py",
-		"train": "npm run sigma70 && npm run data && npm run kmer2vec-v2",
-		"visualize": "tensorboard --logdir=lib/kmer2vec-v1/logs"
+		"build": "NODE_ENV=production node server/server.js"
 	},
 	"dependencies": {
 		"compression": "^1.7.4",
