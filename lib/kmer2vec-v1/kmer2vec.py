@@ -61,11 +61,11 @@ class Kmer2vec(object):
 
     def _cleanDirectories(self, clean_logs=False):
 
-        if os.path.exists(self._dir_path + '/log.txt'):
-            os.remove(self._dir_path + '/log.txt')
+        if os.path.exists(os.path.join( self._dir_path, 'log.txt') ):
+            os.remove(os.path.join( self._dir_path, 'log.txt') )
 
         if (clean_logs):
-            shutil.rmtree(self._dir_path + '/logs', ignore_errors=True)
+            shutil.rmtree(os.path.join( self._dir_path, 'logs'), ignore_errors=True)
 
     
     def openLogs(self):
@@ -75,10 +75,10 @@ class Kmer2vec(object):
         now = datetime.now()
 
         version = now.strftime("%m %d %Y-%H:%M:%S")
-        self._tensorboard_path = self._dir_path+'/logs/lr'+str(self._learningRate)+'-ws:'+str(self._window_size)+'-kmer2vec '+version
+        self._tensorboard_path = os.path.join( self._dir_path,'logs','lr'+str(self._learningRate)+'-ws:'+str(self._window_size)+'-kmer2vec '+version )
         os.makedirs(self._tensorboard_path)
 
-        self._log_file = open(self._tensorboard_path + '/log.txt', 'a')
+        self._log_file = open(os.path.join( self._tensorboard_path, 'log.txt'), 'a')
         return self._log_file
 
 
@@ -99,9 +99,9 @@ class Kmer2vec(object):
         self._log_file.write("Hyper-parameters:\n\nbatch_size: {}, embedding_size: {}, learning_rate: {}, window_size: {}".format(self._batch_size, self._embedding_size, self._learningRate, self._window_size))
 
         # the collected data and labels
-        self._data = json.load(open(self._dir_path + '/../data/data.json'))
-        self._kmer2int = json.load(open(self._dir_path + '/../data/kmer2int.json'))
-        self._int2kmer = json.load(open(self._dir_path + '/../data/int2kmer.json'))
+        self._data = json.load(open(os.path.join(self._dir_path,'..', 'data','data.json') ))
+        self._kmer2int = json.load(open(os.path.join(self._dir_path,'..', 'data','kmer2int.json')))
+        self._int2kmer = json.load(open(os.path.join(self._dir_path,'..', 'data','int2kmer.json')))
         self._kmers_size = len(self._kmer2int)
 
         print("\nML Data setup is done\n")
@@ -127,7 +127,7 @@ class Kmer2vec(object):
     def _tensorboardProjector(self):
 
         # Write corresponding labels for the embeddings.
-        with open(self._tensorboard_path + '/metadata.tsv', 'w') as f:
+        with open(os.path.join( self._tensorboard_path, 'metadata.tsv' ), 'w') as f:
 
             for kmer in self._kmer2int.keys():
                 f.write(kmer + '\n')
@@ -319,7 +319,7 @@ class Kmer2vec(object):
             for i, kmer in enumerate(self._kmer2int):
                 vectors['vectors'].update( {str(kmer): self._final_embeddings[i].tolist()} )
             
-            with open(self._dir_path+'/../data/kmer_vectors.json', 'w') as filename: json.dump(vectors, filename, indent=4)
+            with open(os.path.join(self._dir_path,'..','data','kmer_vectors.json'), 'w') as filename: json.dump(vectors, filename, indent=4)
             
             config = self._tensorboardProjector()
             projector.visualize_embeddings(train_writer, config)

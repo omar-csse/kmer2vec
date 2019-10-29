@@ -40,11 +40,11 @@ class Kmer2vec(object):
 
     def _cleanDirectories(self, clean_logs=False):
 
-        if os.path.exists(self._dir_path + '/log.txt'):
-            os.remove(self._dir_path + '/log.txt')
+        if os.path.exists(os.path.join(self._dir_path, 'log.txt')):
+            os.remove(os.path.join(self._dir_path, 'log.txt'))
 
         if (clean_logs):
-            shutil.rmtree(self._dir_path + '/logs', ignore_errors=True)
+            shutil.rmtree(os.path.join(self._dir_path, 'logs'), ignore_errors=True)
 
     
     def openLogs(self):
@@ -54,10 +54,12 @@ class Kmer2vec(object):
         now = datetime.now()
 
         version = now.strftime("%m %d %Y-%H:%M:%S")
-        self._logs_path = self._dir_path+'/logs/lr'+str(self._learningRate)+'-ws:'+str(self._window_size)+'-kmer2vec '+version
+        self._logs_path = os.path.join(self._dir_path,'logs','lr'+str(self._learningRate)+'-ws:'+str(self._window_size)+'-kmer2vec ')
         os.makedirs(self._logs_path)
 
-        self._log_file = open(self._logs_path + '/log.txt', 'a')
+        print(self._logs_path)
+
+        self._log_file = open(os.path.join(self._logs_path, 'log.txt'), 'a')
         return self._log_file
 
 
@@ -72,9 +74,9 @@ class Kmer2vec(object):
         self._log_file.write("Hyper-parameters:\n\nembedding_size: {}, learning_rate: {}, window_size: {}".format(self._embedding_size, self._learningRate, self._window_size))
 
         # the collected data and labels
-        self._corpus = json.load(open(self._dir_path + '/../data/corpus.json'))
-        self._kmer2int = json.load(open(self._dir_path + '/../data/kmer2int.json'))
-        self._int2kmer = json.load(open(self._dir_path + '/../data/int2kmer.json'))
+        self._corpus = json.load(open(os.path.join(self._dir_path, '..','data','corpus.json')))
+        self._kmer2int = json.load(open(os.path.join(self._dir_path, '..','data','kmer2int.json')))
+        self._int2kmer = json.load(open(os.path.join(self._dir_path, '..','data','int2kmer.json')))
         self._kmers_size = len(self._kmer2int)
 
         print("\nML Data setup is done\n")
@@ -101,10 +103,11 @@ class Kmer2vec(object):
 
     def save(self):
 
-        self._model.save(self._logs_path + "/kmer2vec.model")
-        self._model.wv.save_word2vec_format(self._logs_path + '/kmer2vec.bin', binary=True)
+        self._model.save(os.path.join(self._logs_path, "kmer2vec.model"))
+        self._model.wv.save_word2vec_format(os.path.join(self._logs_path, 'kmer2vec.bin'), binary=True)
+        self._model.wv.save(os.path.join(self._logs_path, 'kmer2vec.wv'))
 
-        self._model = Word2Vec.load(self._logs_path + "/kmer2vec.model")
+        self._model = Word2Vec.load(os.path.join(self._logs_path, "kmer2vec.model"))
         similar = self._model.wv.most_similar('TGGAAA')
 
         self._log_file.write("\n\n\nsimilar_words(TGGAAA)\n\n")
@@ -120,7 +123,7 @@ class Kmer2vec(object):
             kmer = str(kmer)
             vectors['vectors'].update( {kmer: self._model.wv[kmer].tolist()} )
             
-        with open(self._dir_path+'/../data/kmer_vectors.json', 'w') as filename: json.dump(vectors, filename, indent=4)
+        with open(os.path.join(self._dir_path,'..','data','kmer_vectors.json'), 'w') as filename: json.dump(vectors, filename, indent=4)
 
 
 def main():

@@ -43,11 +43,11 @@ class D2V(object):
 
     def _cleanDirectories(self, clean_logs=False):
 
-        if os.path.exists(self._dir_path + '/log.txt'):
-            os.remove(self._dir_path + '/log.txt')
+        if os.path.exists(os.path.join(self._dir_path, 'log.txt')):
+            os.remove(os.path.join(self._dir_path, 'log.txt'))
 
         if (clean_logs):
-            shutil.rmtree(self._dir_path + '/logs', ignore_errors=True)
+            shutil.rmtree(os.path.join(self._dir_path, 'logs'), ignore_errors=True)
 
     
     def openLogs(self):
@@ -57,10 +57,10 @@ class D2V(object):
         now = datetime.now()
 
         version = now.strftime("%m %d %Y-%H:%M:%S")
-        self._logs_path = self._dir_path+'/logs/lr'+str(self._learningRate)+'-ws:'+str(self._window_size)+'-doc2vec '+version
+        self._logs_path = os.path.join(self._dir_path,'logs','lr'+str(self._learningRate)+'-ws:'+str(self._window_size)+'-doc2vec '+version)
         os.makedirs(self._logs_path)
 
-        self._log_file = open(self._logs_path + '/log.txt', 'a')
+        self._log_file = open(os.path.join(self._logs_path, 'log.txt'), 'a')
         return self._log_file
 
 
@@ -75,8 +75,8 @@ class D2V(object):
         self._log_file.write("Hyper-parameters:\n\nembedding_size: {}, learning_rate: {}, window_size: {}".format(self._embedding_size, self._learningRate, self._window_size))
 
         # the collected data and labels
-        self._corpus = json.load(open(self._dir_path + '/../data/corpus.json'))
-        self._sigma70 = json.load(open(self._dir_path + '/../data/sigma70.json'))
+        self._corpus = json.load(open(os.path.join(self._dir_path, '..','data','corpus.json')))
+        self._sigma70 = json.load(open(os.path.join(self._dir_path, '..','data','sigma70.json')))
 
         self.tagged_data = [TaggedDocument(words=seq, tags=[self._sigma70[i]['PROMOTER_ID']]) for i, seq in enumerate(self._corpus)]
 
@@ -103,9 +103,9 @@ class D2V(object):
 
     def save(self):
 
-        self.model.save(self._logs_path + "/doc2vec.model")
+        self.model.save(os.path.join(self._logs_path, "doc2vec.model"))
 
-        self.model = Doc2Vec.load(self._logs_path + "/doc2vec.model")
+        self.model = Doc2Vec.load(os.path.join(self._logs_path, "doc2vec.model"))
         similar = self.model.docvecs.most_similar('ECK125136994')
 
         print("\n\n\nsimilar_words(ECK125136994)\n\n")
@@ -120,9 +120,9 @@ class D2V(object):
             
         self.calculate_coords()
 
-        with open(self._dir_path+'/../data/sequence_vectors_doc2vec.json', 'w') as filename: 
+        with open(os.path.join(self._dir_path,'data','sequence_vectors_doc2vec.json'), 'w') as filename: 
             json.dump(self._sequence_vectors, filename, indent=4)
-        with open(self._dir_path+'/../data/sequence_coords_doc2vec.json', 'w') as filename: 
+        with open(os.path.join(self._dir_path,'..','data','sequence_coords_doc2vec.json'), 'w') as filename: 
             json.dump(self._sequence_coords, filename, indent=4)
 
         self._log_file.write("\n\n")

@@ -26,7 +26,7 @@ class Data(object):
 
     def setup(self):
 
-        self._sigma70 = json.load(open(self._dir_path + '/data/sigma70.json'))
+        self._sigma70 = json.load(open(os.path.join(self._dir_path,'data','sigma70.json')))
 
         # shuffle then split the data into training and testing sets
         random.seed(230)
@@ -101,13 +101,13 @@ class Data(object):
         if not os.path.exists(self._dir_path+'/data'): 
             os.mkdir(self._dir_path+'/data')
 
-        with open(self._dir_path+'/data/sigma70.json', 'w') as filename: json.dump(self._sigma70, filename, indent=4)
-        with open(self._dir_path+'/data/sequences.json', 'w') as filename: json.dump(self._sequences, filename, indent=4)
-        with open(self._dir_path+'/data/int2kmer.json', 'w') as filename: json.dump(self._int2kmer, filename, indent=4)
-        with open(self._dir_path+'/data/kmer2int.json', 'w') as filename: json.dump(self._kmer2int, filename, indent=4)
-        with open(self._dir_path+'/data/corpus.json', 'w') as filename: json.dump(self._corpus, filename, indent=4)
-        with open(self._dir_path+'/data/data.json', 'w') as filename: json.dump(self._data, filename, indent=4)
-        with open(self._dir_path+'/data/kmers.json', 'w') as filename: json.dump(self._kmers, filename, indent=4)
+        with open(os.path.join(self._dir_path,'data','sigma70.json'), 'w') as filename: json.dump(self._sigma70, filename, indent=4)
+        with open(os.path.join(self._dir_path,'data','sequences.json'), 'w') as filename: json.dump(self._sequences, filename, indent=4)
+        with open(os.path.join(self._dir_path,'data','int2kmer.json'), 'w') as filename: json.dump(self._int2kmer, filename, indent=4)
+        with open(os.path.join(self._dir_path,'data','kmer2int.json'), 'w') as filename: json.dump(self._kmer2int, filename, indent=4)
+        with open(os.path.join(self._dir_path,'data','corpus.json'), 'w') as filename: json.dump(self._corpus, filename, indent=4)
+        with open(os.path.join(self._dir_path,'data','data.json'), 'w') as filename: json.dump(self._data, filename, indent=4)
+        with open(os.path.join(self._dir_path,'data','kmers.json'), 'w') as filename: json.dump(self._kmers, filename, indent=4)
 
         print("data folder is created")
 

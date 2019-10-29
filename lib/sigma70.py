@@ -19,7 +19,7 @@ class Sigma70(object):
 
     def setupSigma70(self):
 
-        self._promoter = json.load(open(self._dir_path + '/../db/promoter.json'))['ROWSET']['ROW']
+        self._promoter = json.load(open(os.path.join(self._dir_path,'..','db','promoter.json')))['ROWSET']['ROW']
         self._sigma70 = list(filter(lambda x: 'Sigma70' in str(x['SIGMA_FACTOR'].values()) and '_text' in x['PROMOTER_SEQUENCE'], self._promoter))
         print("\n\nsigma70 is setup")
 
@@ -36,10 +36,10 @@ class Sigma70(object):
 
     def saveSigma70(self):
 
-        if not os.path.exists(self._dir_path + '/data'): 
-            os.mkdir(self._dir_path + '/data')
+        if not os.path.exists(os.path.join(self._dir_path,'data')): 
+            os.mkdir(os.path.join(self._dir_path, 'data'))
 
-        with open(self._dir_path + '/data/sigma70.json', 'w') as filename: json.dump(self._data, filename, indent=4)
+        with open(os.path.join(self._dir_path,'data','sigma70.json', 'w')) as filename: json.dump(self._data, filename, indent=4)
         print("sigma70 data is saved")
 
 

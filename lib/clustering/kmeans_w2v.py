@@ -1,0 +1,86 @@
+import os
+import json
+import sys
+import random
+import math
+
+from gensim.models import Word2Vec
+from nltk.cluster import KMeansClusterer, cosine_distance
+import nltk
+from sklearn import cluster
+from sklearn import metrics
+from sklearn.preprocessing import StandardScaler, normalize
+from sklearn.decomposition import PCA
+import numpy as np
+import pandas as pd 
+
+
+class Kmeans():
+
+    """kmeans clustring for word2vec vectors."""
+
+    def __init__(self, k):
+        self._dir_path = os.path.dirname(os.path.realpath(__file__))
+        self.modelVocab = []
+        self.modelVectors = []
+        self.NUM_CLUSTERS = k
+        self.new_coords = dict()
+        self.new_coords['sequences'] = []
+        pass
+
+    def read_db(self):
+        self.w2v_coords = json.load(open(os.path.join(self._dir_path, '..' , 'data', 'sequence_coords.json')))
+        self.w2v_vectors = json.load(open(os.path.join(self._dir_path, '..' , 'data', 'sequence_vectors.json')))
+        self.w2v_vectors = self.w2v_vectors['vectors']
+
+        for i, vector in enumerate(self.w2v_vectors):
+            self.modelVocab.append(vector)
+            self.modelVectors.append(np.array(self.w2v_vectors[vector]))
+
+        # Scaling the data to bring all the attributes to a comparable level 
+        self.scaler = StandardScaler() 
+        self.X_scaled = self.scaler.fit_transform(self.modelVectors) 
+
+        # Normalizing the data so that  
+        # the data approximately follows a Gaussian distribution 
+        self.X_normalized = normalize(self.X_scaled) 
+
+        # Converting the numpy array into a pandas DataFrame 
+        self.X_normalized = pd.DataFrame(self.X_normalized) 
+        
+        self.pca = PCA(n_components=2)
+        self.vectors = self.pca.fit_transform(self.X_normalized) 
+        self.vectors = pd.DataFrame(self.vectors) 
+        self.vectors.columns = ['P1', 'P2'] 
+        print(self.vectors.head())
+
+    def kmeans(self):
+
+        self.clusterer = KMeansClusterer(self.NUM_CLUSTERS, cosine_distance, repeats=10, avoid_empty_clusters=True)
+        self.clusters = self.clusterer.cluster(self.vectors.values, True, trace=True)
+
+        for i, promoter in enumerate(self.modelVocab):  
+            print(promoter + ": " + str(self.clusters[i]))
+            seq = next(seq for seq in self.w2v_coords['sequences'] if seq["promoter_id"] == str(promoter))
+            seq['cluster_id'] = self.clusters[i]
+            seq.update({"x_pca": float(self.vectors['P1'][i])})
+            seq.update({"y_pca": float(self.vectors['P2'][i])})
+            self.new_coords['sequences'].append(seq)
+
+    def saveData(self):
+
+        with open(os.path.join(self._dir_path, '..', 'data','sequence_coords.json'), 'w') as filename: 
+            json.dump(self.new_coords, filename, indent=4)
+        
+        print("sequence_coords.json is created")
+
+def main():
+
+    kmeans = Kmeans(93)
+    kmeans.read_db()
+    kmeans.kmeans()
+    kmeans.saveData()
+
+
+if __name__ == "__main__":
+    main()

@@ -31,24 +31,30 @@ class Seq2Vec(object):
 
     def setup(self):
 
-        self._corpus = json.load(open(self._dir_path + '/data/corpus.json'))
-        self._sequences = json.load(open(self._dir_path + '/data/sequences.json'))
-        self._kmer_vectors = json.load(open(self._dir_path + '/data/kmer_Vectors.json'))['vectors']
-        self._sigma70 = json.load(open(self._dir_path + '/data/sigma70.json'))
+        self._corpus = json.load(open(os.path.join(self._dir_path,'data','corpus.json')))
+        self._sequences = json.load(open(os.path.join(self._dir_path,'data','sequences.json')))
+        self._kmer_vectors = json.load(open(os.path.join(self._dir_path,'data','kmer_Vectors.json')))['vectors']
+        self._sigma70 = json.load(open(os.path.join(self._dir_path,'data','sigma70.json')))
 
         print("\n\nsetup data")
 
 
     def avg_sequence_vector(self, kmers):
 
-        sequence_vec = np.zeros((self._embedding_size, ), dtype='float32')
+        sequence = []
         
         for kmer in kmers:
-            sequence_vec = np.add(sequence_vec, self._kmer_vectors[kmer])
-
-        sequence_vec = np.divide(sequence_vec, len(kmers))
-
-        return sequence_vec
+            try:
+                sequence.append(self._kmer_vectors[kmer])
+            except KeyError:
+                continue
+            if sequence: 
+                sequences = np.asarray(sequence)
+                min_vec = sequences.min(axis=0)
+                max_vec = sequences.max(axis=0)
+                return np.concatenate((min_vec, max_vec))
+            if not sequence:
+                return None
 
 
     def calculate_coords(self):
@@ -87,9 +93,9 @@ class Seq2Vec(object):
         if not os.path.exists(self._dir_path+'/data'): 
             os.mkdir(self._dir_path+'/data')
 
-        with open(self._dir_path+'/data/sequence_vectors.json', 'w') as filename: 
+        with open(os.path.join(self._dir_path,'data','sequence_vectors.json'), 'w') as filename: 
             json.dump(self._sequence_vectors, filename, indent=4)
-        with open(self._dir_path+'/data/sequence_coords.json', 'w') as filename: 
+        with open(os.path.join(self._dir_path,'data','sequence_coords.json'), 'w') as filename: 
             json.dump(self._sequence_coords, filename, indent=4)
 
         print("sequence_coords.json is created")
