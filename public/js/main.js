@@ -2,6 +2,7 @@ let sequences = []
 let currentIndex = 0;
 let chartData;
 let chartjs;
+let rgbMap = {}
 
 window.onload = async (e) => {
     loadAPI()
@@ -20,13 +21,19 @@ const filterData = (data, r_value) => {
 
     let sequencesChart = []
     for (let i = 0; i < data.length; i++) {
+
+        if ( !(data[i].cluster_id in rgbMap) ) {
+            if (data[i].cluster_id === -1) rgbMap[data[i].cluster_id] = 'rgba(255,255,255,1)'
+            else rgbMap[data[i].cluster_id] = random_rgba()
+        }
+
         let row = {
-            label: [data[i].promoter_id],
-            backgroundColor: random_rgba(),
+            label: [data[i].promoter_id, data[i].cluster_id],
+            backgroundColor: rgbMap[data[i].cluster_id],
             data: [{
-                x: data[i].x,
-                y: data[i].y,
-                r: data[i].mean * r_value
+                x: data[i].x_pca,
+                y: data[i].y_pca,
+                r: 8
             }]
         }
         sequencesChart.push(row)
@@ -102,7 +109,7 @@ const loadSequences = async () => {
     table.innerHTML = ''
     tr = table.getElementsByTagName("tr");
     for (let i = 0; i < sequences.length; i++) {
-        let html = `Id: <span id="sequence-${sequences[i].promoter_id}">${sequences[i].promoter_id}</span>\n<div class="sequence">Sequence: ${sequences[i].promoter_sequence}</div>\nx: ${sequences[i].x}\ny: ${sequences[i].y}\nMean of the vector: ${sequences[i].mean}`;
+        let html = `Id: <span id="sequence-${sequences[i].promoter_id}">${sequences[i].promoter_id}</span>\n<div class="sequence">Sequence: ${sequences[i].promoter_sequence}</div>\nx: ${sequences[i].x}\ny: ${sequences[i].y}\nMean of the vector: ${sequences[i].mean}\ncluster_id: ${sequences[i].cluster_id}`;
         let newRow = await table.insertRow(-1);
         let newCell = (newRow.insertCell(0).innerHTML = html);
         tr[i].style.display = "none"
