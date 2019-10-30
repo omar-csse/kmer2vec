@@ -10,7 +10,7 @@ import nltk
 from sklearn import cluster
 from sklearn import metrics
 from sklearn.preprocessing import StandardScaler, normalize
-from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
 import numpy as np
 import pandas as pd 
 
@@ -48,8 +48,8 @@ class Kmeans():
         # Converting the numpy array into a pandas DataFrame 
         self.X_normalized = pd.DataFrame(self.X_normalized) 
         
-        self.pca = PCA(n_components=2)
-        self.vectors = self.pca.fit_transform(self.X_normalized) 
+        self.tsne = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23)
+        self.vectors = self.tsne.fit_transform(self.X_normalized) 
         self.vectors = pd.DataFrame(self.vectors) 
         self.vectors.columns = ['P1', 'P2'] 
         print(self.vectors.head())
@@ -63,8 +63,8 @@ class Kmeans():
             print(promoter + ": " + str(self.clusters[i]))
             seq = next(seq for seq in self.w2v_coords['sequences'] if seq["promoter_id"] == str(promoter))
             seq['cluster_id'] = self.clusters[i]
-            seq.update({"x_pca": float(self.vectors['P1'][i])})
-            seq.update({"y_pca": float(self.vectors['P2'][i])})
+            seq.update({"x_tsne": float(self.vectors['P1'][i])})
+            seq.update({"y_tsne": float(self.vectors['P2'][i])})
             self.new_coords['sequences'].append(seq)
 
     def saveData(self):

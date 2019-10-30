@@ -31,8 +31,8 @@ const filterData = (data, r_value) => {
             label: [data[i].promoter_id, data[i].cluster_id],
             backgroundColor: rgbMap[data[i].cluster_id],
             data: [{
-                x: data[i].x_pca,
-                y: data[i].y_pca,
+                x: data[i].x_tsne,
+                y: data[i].y_tsne,
                 r: 8
             }]
         }

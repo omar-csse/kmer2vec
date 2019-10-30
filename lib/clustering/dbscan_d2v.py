@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import DBSCAN 
 from sklearn import metrics
 from sklearn.preprocessing import StandardScaler, normalize
-from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 
 
@@ -46,8 +46,8 @@ class DBSCAN_CLS():
         # Converting the numpy array into a pandas DataFrame 
         self.X_normalized = pd.DataFrame(self.X_normalized) 
         
-        self.pca = PCA(n_components=2)
-        self.X_principal = self.pca.fit_transform(self.X_normalized) 
+        self.tsne = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23)
+        self.X_principal = self.tsne.fit_transform(self.X_normalized) 
         self.X_principal = pd.DataFrame(self.X_principal) 
         self.X_principal.columns = ['P1', 'P2'] 
         print(self.X_principal.head())
@@ -60,8 +60,8 @@ class DBSCAN_CLS():
             print(promoter + ": " + str(self.cluster_labels[i]))
             seq = next(seq for seq in self.w2v_coords['sequences'] if seq["promoter_id"] == str(promoter))
             seq['cluster_id'] = int(self.cluster_labels[i])
-            seq.update({"x_pca": float(self.X_principal['P1'][i])})
-            seq.update({"y_pca": float(self.X_principal['P2'][i])})
+            seq.update({"x_tsne": float(self.X_principal['P1'][i])})
+            seq.update({"y_tsne": float(self.X_principal['P2'][i])})
             self.new_coords['sequences'].append(seq)
 
         self.db = DBSCAN(eps=0.01, min_samples=5).fit(self.X_principal)
