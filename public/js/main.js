@@ -21,18 +21,17 @@ const filterData = (data, r_value) => {
 
     let sequencesChart = []
     for (let i = 0; i < data.length; i++) {
-
         if ( !(data[i].cluster_id in rgbMap) ) {
             if (data[i].cluster_id === -1) rgbMap[data[i].cluster_id] = 'rgba(255,255,255,1)'
             else rgbMap[data[i].cluster_id] = random_rgba()
         }
 
         let row = {
-            label: [data[i].promoter_id, data[i].cluster_id],
+            label: [data[i].promoter_id, data[i].cluster_id, data[i].promoter_sequence],
             backgroundColor: rgbMap[data[i].cluster_id],
             data: [{
-                x: data[i].x_tsne,
-                y: data[i].y_tsne,
+                x: data[i].x,
+                y: data[i].y,
                 r: 8
             }]
         }

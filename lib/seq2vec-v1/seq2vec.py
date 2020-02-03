@@ -120,7 +120,7 @@ class D2V(object):
             
         self.calculate_coords()
 
-        with open(os.path.join(self._dir_path,'data','sequence_vectors_doc2vec.json'), 'w') as filename: 
+        with open(os.path.join(self._dir_path, '..','data','sequence_vectors_doc2vec.json'), 'w') as filename: 
             json.dump(self._sequence_vectors, filename, indent=4)
         with open(os.path.join(self._dir_path,'..','data','sequence_coords_doc2vec.json'), 'w') as filename: 
             json.dump(self._sequence_coords, filename, indent=4)

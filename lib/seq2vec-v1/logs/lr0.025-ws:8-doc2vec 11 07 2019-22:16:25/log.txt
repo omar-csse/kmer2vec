@@ -1,0 +1,26 @@
+Doc2vec model (skipgram).
+
+implementing doc2vec algorithm on promotors' sequences 
+with sigma70 factor
+
+Hyper-parameters:
+
+embedding_size: 256, learning_rate: 0.025, window_size: 8
+
+ML Data setup is done
+
+Training in progress...
+
+
+
+
+similar_words(ECK125136994)
+
+[('ECK125137352', 0.9232897758483887), ('ECK120010530', 0.9206523895263672), ('ECK125136424', 0.9189271330833435), ('ECK125137925', 0.9188608527183533), ('ECK125136828', 0.9164018034934998), ('ECK125137346', 0.9158996343612671), ('ECK125136456', 0.9157513380050659), ('ECK120010493', 0.9145048260688782), ('ECK125137881', 0.9134719371795654), ('ECK125137719', 0.9130588173866272)]
+
+
+
+
+number of cpus: 4
+
+training is done!, and model is saved.

@@ -58,6 +58,8 @@ const setModel = async () => {
 
 const filterData = async (data) => {
 
+    console.log(data)
+
     nearest_d = data.slice(0, 25)
     furthest_d = data.slice(-25)
 
@@ -79,18 +81,18 @@ const filterData = async (data) => {
             n_rgb = random_rgba(); f_rgb = random_rgba()
             n_radius = 10; f_radius = 10
         }
-
-        let nearest_row = getRow(undefined, nearest_d[i].similarity, n_rgb, wanted_n_d[0].x, wanted_n_d[0].y, n_radius)
-        let furthest_row = getRow(undefined, furthest_d[i].similarity, f_rgb, wanted_f_d[0].x, wanted_f_d[0].y, f_radius)
+        
+        let nearest_row = getRow(wanted_n_d[0].promoter_sequence, undefined, nearest_d[i].similarity, n_rgb, wanted_n_d[0].x, wanted_n_d[0].y, n_radius)
+        let furthest_row = getRow(wanted_f_d[0].promoter_sequence,undefined, furthest_d[i].similarity, f_rgb, wanted_f_d[0].x, wanted_f_d[0].y, f_radius)
         nearestChart.push(nearest_row)
         furthestChart.push(furthest_row)
     }
     return {nearest: nearestChart, furthest: furthestChart}
 }
 
-const getRow = (id="", similarity=0, color, x, y, radius) => {
+const getRow = (seq, id="", similarity=0, color, x, y, radius) => {
     let row = {
-        label: [id,similarity],
+        label: [id,similarity,seq],
         backgroundColor: color,
         data: [{
             x: x,
@@ -122,12 +124,26 @@ const drawchart = (sequenceData, chartId, title) => {
                     scaleLabel: {
                         display: false,
                         labelString: "Y coord"
+                    },
+                    ticks: {
+                        beginAtZero: true,
+                        steps: 10,
+                        stepValue: 5,
+                        max: 250,
+                        min: -250,
                     }
                 }],
                 xAxes: [{
                     scaleLabel: {
                         display: false,
                         labelString: "X coord"
+                    },
+                    ticks: {
+                        beginAtZero: true,
+                        steps: 10,
+                        stepValue: 5,
+                        max: 250,
+                        min: -250,
                     }
                 }]
             }
@@ -188,12 +204,11 @@ const getIsTo = async (is1, to1, is2) => {
     if (validSeq(is1) && validSeq(to1) && validSeq(is2)) {
         const to2 = await fetchOperation('isto', {is1, to1, is2, kmer})
         for (let i = 0; i < sequences.length; i++) {
-            if (is1 == sequences[i].promoter_id || is2 == sequences[i].promoter_id ||
-                to1 == sequences[i].promoter_id) {
-                chartData.push(getRow(sequences[i].promoter_id, undefined, random_rgba(), sequences[i].x, sequences[i].y, 20))
+            if (is1 == sequences[i].promoter_id || to1 == sequences[i].promoter_id) {
+                chartData.push(getRow(sequences[i].promoter_sequence, sequences[i].promoter_id, undefined, 'rgba(255, 87, 0, 0.7)', sequences[i].x, sequences[i].y, 20))
             }
-            if (to2.seqId == sequences[i].promoter_id) {
-                chartData.push(getRow(sequences[i].promoter_id, undefined, random_rgba(), sequences[i].x, sequences[i].y, 20))
+            else if (to2.seqId == sequences[i].promoter_id || is2 == sequences[i].promoter_id) {
+                chartData.push(getRow(sequences[i].promoter_sequence, sequences[i].promoter_id, undefined, 'rgba(48, 176, 97, 0.7)', sequences[i].x, sequences[i].y, 20))
             }
         }
         document.getElementById("result").innerText = to2.seqId
@@ -209,7 +224,8 @@ const getBetween = async (seq1, seq2) => {
         const between = await fetchOperation('between', {seq1, seq2, kmer})
         for (let i = 0; i < between.length; i++) {
             let seq = sequences.filter(seq => seq.promoter_id == between[i].seqId)
-            chartData.push(getRow(seq[0].promoter_id, undefined, random_rgba(), seq[0].x, seq[0].y, 20))
+            if (i == 2) chartData.push(getRow(sequences[i].promoter_sequence,seq[0].promoter_id, undefined, 'rgba(255, 87, 0, 0.7)', seq[0].x, seq[0].y, 40))
+            else chartData.push(getRow(sequences[i].promoter_sequence,seq[0].promoter_id, undefined, 'rgba(48, 176, 97, 0.7)', seq[0].x, seq[0].y, 20))
         }
         document.getElementById("result").innerText = between.slice(-1)[0].seqId
         document.getElementById("chart-div").innerHTML = `<canvas id="chart1"></canvas><canvas id="chart2"></canvas>`

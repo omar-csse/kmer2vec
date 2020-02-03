@@ -11,15 +11,15 @@ html(lang="en")
         script(src="https://unpkg.com/ml5@0.3.1/dist/ml5.min.js")
         script(src='https://cdn.jsdelivr.net/npm/chart.js@2.8.0')
         script(type="text/javascript", defer src='/js/operations.js')
-        title operations | kmer2vec
+        title operations | word2vec
 
     body
         .space
         h1.main-header operations
         .space
         select#api-menu(onchange='onFlipAPI(event);')
-            option(value='seq2vec', selected="selected") seq2vec model
-            option(value='kmer2vec') kmer2vec model
+            option(value='seq2vec', selected="selected") doc2vec model
+            option(value='kmer2vec') word2vec model
         .smallspace
         form
             div.main-btns

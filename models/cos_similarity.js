@@ -11,14 +11,17 @@ const checkCoordsAPI = async (kmer) => {
 }
 
 exports.similarity = async (sequence, nearest, kmer) => {
+    let coords = await checkCoordsAPI(kmer);
     let data = await op.checkAPI(kmer)
     let data_vectors = Object.entries(data.vectors)
     const wanted_sequence_vector = await data.vectors[sequence]
     let result = []
 
+    let i = 0;
     for (const [sequence, seq_vector] of data_vectors) {
         let sim = await cosine_similarity(wanted_sequence_vector, seq_vector)
-        result.push({seqId: sequence, similarity: sim})
+        result.push({seqId: sequence, similarity: sim, promoter_seq: coords.sequences[i]})
+        i++;
     }
 
     result.sort((a, b) => nearest ? b.similarity - a.similarity : a.similarity - b.similarity);

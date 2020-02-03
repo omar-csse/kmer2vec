@@ -26,6 +26,7 @@ class Kmeans():
         self.NUM_CLUSTERS = k
         self.new_coords = dict()
         self.new_coords['sequences'] = []
+        self.vectors = []
         pass
 
     def read_db(self):
@@ -36,35 +37,19 @@ class Kmeans():
         for i, vector in enumerate(self.w2v_vectors):
             self.modelVocab.append(vector)
             self.modelVectors.append(np.array(self.w2v_vectors[vector]))
-
-        # Scaling the data to bring all the attributes to a comparable level 
-        self.scaler = StandardScaler() 
-        self.X_scaled = self.scaler.fit_transform(self.modelVectors) 
-
-        # Normalizing the data so that  
-        # the data approximately follows a Gaussian distribution 
-        self.X_normalized = normalize(self.X_scaled) 
-
-        # Converting the numpy array into a pandas DataFrame 
-        self.X_normalized = pd.DataFrame(self.X_normalized) 
+            self.vectors.append([self.w2v_coords['sequences'][i]['x'], self.w2v_coords['sequences'][i]['y']])
         
-        self.tsne = TSNE(perplexity=40, n_components=2, init='pca', n_iter=2500, random_state=23)
-        self.vectors = self.tsne.fit_transform(self.X_normalized) 
-        self.vectors = pd.DataFrame(self.vectors) 
-        self.vectors.columns = ['P1', 'P2'] 
-        print(self.vectors.head())
+        self.vectors = np.asarray(self.vectors, dtype=np.float32)
 
     def kmeans(self):
 
         self.clusterer = KMeansClusterer(self.NUM_CLUSTERS, cosine_distance, repeats=10, avoid_empty_clusters=True)
-        self.clusters = self.clusterer.cluster(self.vectors.values, True, trace=True)
+        self.clusters = self.clusterer.cluster(self.vectors, True, trace=True)
 
         for i, promoter in enumerate(self.modelVocab):  
             print(promoter + ": " + str(self.clusters[i]))
             seq = next(seq for seq in self.w2v_coords['sequences'] if seq["promoter_id"] == str(promoter))
             seq['cluster_id'] = self.clusters[i]
-            seq.update({"x_tsne": float(self.vectors['P1'][i])})
-            seq.update({"y_tsne": float(self.vectors['P2'][i])})
             self.new_coords['sequences'].append(seq)
 
     def saveData(self):
